@@ -16,8 +16,6 @@ const Navbar = () => {
         <ul className="hidden md:flex space-x-15"> {/* Always visible on desktop */}
           <li><Link href="/" className="text-white hover:text-gray-400">Home</Link></li>
           <li><Link href="/map" className="text-white hover:text-gray-400">Destinations</Link></li>
-          <li><Link href="/contact" className="text-white hover:text-gray-400">Contact</Link></li>
-          <li><Link href="/signup" className="text-white hover:text-gray-400">Sign-up</Link></li>
         </ul>
         <button
           className="text-white md:hidden" // Show only on mobile
