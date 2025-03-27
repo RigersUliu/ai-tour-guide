@@ -1,0 +1,1987 @@
+{
+  "tirana": {
+    "name": "Tirana",
+    "alternate_names": ["Tiranë"],
+    "location": {
+      "country": "Albania",
+      "region": "Tirana County",
+      "coordinates": {
+        "latitude": 41.3275,
+        "longitude": 19.8187
+      },
+      "elevation": "110m above sea level",
+      "nearby_landmarks": [
+        "Mount Dajti (1613m)",
+        "Adriatic Sea (40km west)",
+        "Grand Park (289 hectares)",
+        "Lana River",
+        "Tirana Artificial Lake"
+      ],
+      "time_zone": "CET (UTC+1), CEST (UTC+2 in summer)"
+    },
+    "description": "Tirana is the vibrant capital and largest city of Albania, known for its colorful buildings, mix of architectural styles, and youthful energy. Founded in 1614 as an Ottoman market town, it became Albania's capital in 1920 and has since transformed into a dynamic European city with a unique communist-era heritage and thriving cultural scene.",
+    "historical_background": {
+      "founding": {
+        "year": "1614",
+        "by": "Ottoman general Sulejman Pasha",
+        "original_name": "Tiran",
+        "significance": "Established as a strategic trading post on caravan routes"
+      },
+      "timeline": [
+        {
+          "period": "Ottoman Era",
+          "years": "1614-1920",
+          "key_facts": [
+            "Market town with mosques and bazaars",
+            "Et'hem Bey Mosque construction (1790-1823)",
+            "Clock Tower built (1822)",
+            "Tanners' Bridge constructed (18th century)"
+          ]
+        },
+        {
+          "period": "Early Capital",
+          "years": "1920-1944",
+          "key_facts": [
+            "Proclaimed capital in 1920 after Congress of Lushnjë",
+            "Italian neoclassical buildings added during Zog's reign",
+            "Skanderbeg Square developed as civic center",
+            "First university established (1957)"
+          ]
+        },
+        {
+          "period": "Communist Era",
+          "years": "1944-1991",
+          "key_facts": [
+            "Massive bunker construction (175,000+ including Bunk'Art sites)",
+            "Pyramid of Tirana built (1988) as Enver Hoxha Museum",
+            "Religious suppression and surveillance state",
+            "Blloku district restricted to communist elite"
+          ]
+        },
+        {
+          "period": "Modern Era",
+          "years": "1991-present",
+          "key_facts": [
+            "Colorful building facades initiative (2000s under Mayor Rama)",
+            "Skanderbeg Square redesign (2017 by 51N4E architects)",
+            "European Youth Capital (2022)",
+            "IT transformation of Pyramid (2023-ongoing)"
+          ]
+        }
+      ]
+    },
+    "demographics": {
+      "population": 600000,
+      "metro_population": 1000000,
+      "population_growth_rate": "1.8% annually",
+      "languages": [
+        {
+          "name": "Albanian",
+          "notes": "Official language, Tosk dialect dominant"
+        },
+        {
+          "name": "English",
+          "notes": "Widely spoken, especially by youth"
+        },
+        {
+          "name": "Italian",
+          "notes": "Common due to historical ties and media influence"
+        }
+      ],
+      "religions": [
+        {
+          "name": "Islam",
+          "percentage": "55%",
+          "denominations": ["Sunni", "Bektashi Sufi"],
+          "landmarks": [
+            {
+              "name": "Et'hem Bey Mosque",
+              "note": "Historic mosque with rare nature frescoes"
+            },
+            {
+              "name": "Bektashi World Center",
+              "note": "Global headquarters of Bektashi order"
+            }
+          ]
+        },
+        {
+          "name": "Christianity",
+          "percentage": "45%",
+          "denominations": ["Orthodox", "Catholic"],
+          "landmarks": [
+            {
+              "name": "Resurrection of Christ Orthodox Cathedral",
+              "note": "One of Balkans' largest Orthodox churches"
+            },
+            {
+              "name": "St. Paul's Catholic Cathedral",
+              "note": "Modern architecture with striking bell tower"
+            }
+          ]
+        }
+      ],
+      "ethnic_groups": [
+        {
+          "name": "Albanian",
+          "percentage": "92%"
+        },
+        {
+          "name": "Greek",
+          "percentage": "3%"
+        },
+        {
+          "name": "Other (Romani, Macedonian, etc.)",
+          "percentage": "5%"
+        }
+      ]
+    },
+    "cultural_importance": {
+      "nicknames": [
+        "The Colorful Capital",
+        "Balkan's Sunny City",
+        "European Youth Capital 2022",
+        "City of Bunkers"
+      ],
+      "cultural_firsts": [
+        "First public painting of buildings initiative in Europe (2000s)",
+        "Only capital with a pyramid-shaped former dictator museum",
+        "First Balkan city to host European Youth Capital (2022)"
+      ],
+      "cultural_institutions": [
+        {
+          "name": "National History Museum",
+          "type": "Museum",
+          "highlight": "Massive mosaic facade depicting Albanian history",
+          "collection_size": "5000+ artifacts",
+          "must_see": "Paleolithic artifacts, Independence Declaration"
+        },
+        {
+          "name": "Bunk'Art 1 & 2",
+          "type": "History/Art Museum",
+          "highlight": "Cold War bunkers converted to museums",
+          "unique_features": [
+            "Original nuclear bunker rooms",
+            "Multimedia exhibits on daily life under communism"
+          ]
+        },
+        {
+          "name": "National Gallery of Arts",
+          "type": "Art Museum",
+          "highlight": "Socialist realist and contemporary Albanian art",
+          "notable_artists": ["Edi Hila", "Anri Sala"]
+        },
+        {
+          "name": "Tirana Opera House",
+          "type": "Performing Arts",
+          "season": "September-May",
+          "highlights": ["Ballet", "Classical concerts", "Albanian folk opera"]
+        }
+      ],
+      "festivals": [
+        {
+          "name": "Tirana International Film Festival",
+          "month": "November",
+          "features": [
+            "International cinema",
+            "Open-air screenings",
+            "Emerging Balkan filmmakers"
+          ],
+          "duration": "1 week"
+        },
+        {
+          "name": "Summer Festival (Dita e Verës)",
+          "month": "March",
+          "features": [
+            "Free concerts in Skanderbeg Square",
+            "Street performances",
+            "Traditional Albanian celebrations"
+          ],
+          "attendance": "100,000+"
+        },
+        {
+          "name": "Tirana Jazz Festival",
+          "month": "October",
+          "highlights": [
+            "International jazz artists",
+            "Jam sessions in Blloku bars",
+            "Free workshops"
+          ]
+        }
+      ],
+      "cultural_tips": [
+        {
+          "topic": "Greetings",
+          "advice": "Handshakes common, cheek kisses between friends"
+        },
+        {
+          "topic": "Photography",
+          "advice": "Ask permission before photographing religious sites/military areas"
+        },
+        {
+          "topic": "Tipping",
+          "advice": "10% in restaurants, round up taxi fares"
+        }
+      ]
+    },
+    "climate": {
+      "classification": "Csa (Hot-summer Mediterranean)",
+      "sunshine": "2,544 hours annually",
+      "record_temperatures": {
+        "highest": "42°C (July)",
+        "lowest": "-10°C (January)"
+      },
+      "seasons": [
+        {
+          "name": "Spring",
+          "months": "March-May",
+          "avg_temp": "15-25°C",
+          "characteristics": [
+            "Mild temperatures",
+            "Blooming flowers in parks",
+            "Outdoor festivals begin"
+          ],
+          "packing_tip": "Light jacket for evenings"
+        },
+        {
+          "name": "Summer",
+          "months": "June-August",
+          "avg_temp": "25-35°C",
+          "characteristics": [
+            "Hot and dry",
+            "Outdoor café culture thrives",
+            "Frequent afternoon thunderstorms"
+          ],
+          "packing_tip": "Sunscreen, hat, reusable water bottle"
+        },
+        {
+          "name": "Autumn",
+          "months": "September-November",
+          "avg_temp": "15-25°C",
+          "characteristics": [
+            "Pleasant weather",
+            "Cultural season begins",
+            "Grape harvest in surrounding hills"
+          ],
+          "packing_tip": "Layers for variable temperatures"
+        },
+        {
+          "name": "Winter",
+          "months": "December-February",
+          "avg_temp": "5-15°C",
+          "characteristics": [
+            "Mild winters",
+            "Occasional snow on Dajti Mountain",
+            "Christmas markets in December"
+          ],
+          "packing_tip": "Waterproof shoes, warm layers"
+        }
+      ],
+      "best_travel_times": [
+        {
+          "period": "April-June",
+          "reasons": [
+            "Ideal temperatures (15-28°C)",
+            "Outdoor activities accessible",
+            "Spring flowers in bloom"
+          ]
+        },
+        {
+          "period": "September-October",
+          "reasons": [
+            "Fewer crowds",
+            "Cultural events season",
+            "Pleasant hiking weather"
+          ]
+        }
+      ],
+      "air_quality": {
+        "annual_avg": "Moderate (AQI 50-100)",
+        "best_season": "Winter (better dispersion)",
+        "concerns": [
+          "Summer dust",
+          "Winter heating emissions"
+        ]
+      }
+    },
+    "attractions": {
+      "historical": [
+        {
+          "name": "Skanderbeg Square",
+          "size": "40,000 sqm",
+          "features": [
+            "Equestrian statue of national hero Skanderbeg",
+            "National History Museum (mosaic facade)",
+            "Et'hem Bey Mosque (1793)",
+            "Clock Tower (1822, 90 steps to top)",
+            "Colorful stone mosaics from across Albania",
+            "Opera House (modernist architecture)"
+          ],
+          "tip": "Visit at sunset for beautiful lighting on the buildings",
+          "free_walking_tours": "Daily at 10am from Opera steps"
+        },
+        {
+          "name": "Pyramid of Tirana",
+          "history": "Originally Enver Hoxha Museum (1988), now IT education center",
+          "architecture": "Brutalist (designed by Hoxha's daughter and son-in-law)",
+          "features": [
+            "Graffiti-covered exterior (local art project)",
+            "Adjacent to 'The Cloud' art installation",
+            "Popular spot for local youth to climb",
+            "Ongoing renovation for digital education hub"
+          ],
+          "controversy": "Debates over preservation vs demolition"
+        },
+        {
+          "name": "Postbllok Memorial",
+          "significance": "Communist-era checkpoint and prison remains",
+          "features": [
+            "Segment of Berlin Wall (gift from Germany)",
+            "Original bunker",
+            "Memorial to political prisoners"
+          ],
+          "location": "Blloku entrance"
+        }
+      ],
+      "museums": [
+        {
+          "name": "Bunk'Art 1",
+          "location": "Base of Mount Dajti",
+          "history": "5-story underground nuclear bunker for communist elite",
+          "features": [
+            "Original blast doors and communication systems",
+            "Exhibits on daily life under communism",
+            "Multimedia installations in bunker rooms",
+            "Cold War-era hospital wing"
+          ],
+          "hours": "9am-4pm (closed Mondays)",
+          "admission": "700 lek (includes audio guide)"
+        },
+        {
+          "name": "House of Leaves",
+          "nickname": "Museum of Secret Surveillance",
+          "features": [
+            "Former Sigurimi (secret police) headquarters",
+            "Original wiretapping equipment",
+            "Interrogation rooms preserved",
+            "Stories of surveillance victims"
+          ],
+          "emotional_impact_warning": "Graphic content about repression"
+        },
+        {
+          "name": "Bunk'Art 2",
+          "difference": "Focuses on police persecution vs Bunk'Art 1's political focus",
+          "location": "Downtown near Ministry of Interior",
+          "unique_exhibit": "Reconstructed prison cells"
+        }
+      ],
+      "religious_sites": [
+        {
+          "name": "Et'hem Bey Mosque",
+          "built": "1793-1823",
+          "uniqueness": "Survived communist atheism period (declared cultural monument)",
+          "features": [
+            "Rare nature frescoes (uncommon in Islamic art)",
+            "Active mosque with welcoming attitude to visitors",
+            "Beautiful courtyard with city views"
+          ],
+          "visiting_hours": "Outside prayer times, modest dress required",
+          "tip": "Climb Clock Tower next door for panoramic views"
+        },
+        {
+          "name": "Bektashi World Center",
+          "significance": "Global headquarters of Bektashi Sufi order",
+          "features": [
+            "Peaceful courtyard with city views",
+            "Museum on Bektashi history",
+            "Hidden terrace with best panoramic view"
+          ],
+          "cultural_note": "Bektashism known for tolerance and mysticism"
+        },
+        {
+          "name": "Resurrection of Christ Orthodox Cathedral",
+          "built": "2012",
+          "architecture": "Modern Byzantine",
+          "features": [
+            "One of Balkans' largest Orthodox churches",
+            "Underground chapel with mosaic art",
+            "Viewing platform in bell tower"
+          ]
+        }
+      ],
+      "natural": [
+        {
+          "name": "Mount Dajti National Park",
+          "distance": "25km from center",
+          "access": [
+            "Dajti Ekspres Cable Car (15 min ride, longest in Balkans)",
+            "Hiking trails (3-4 hours)"
+          ],
+          "activities": [
+            "Hiking to Tujani Peak (1586m)",
+            "Adventure park with zip-lining",
+            "Paragliding (May-October)",
+            "Mountain biking trails"
+          ],
+          "dining": [
+            "Ballkoni Dajtit (traditional with view)",
+            "Eagle's Nest (panoramic restaurant)"
+          ],
+          "tip": "Bring jacket - 10°C cooler than city"
+        },
+        {
+          "name": "Grand Park (Parku i Madh)",
+          "size": "289 hectares",
+          "features": [
+            "Artificial Lake with paddle boats (summer)",
+            "10km walking/jogging paths",
+            "Open-air amphitheater (summer concerts)",
+            "Presidential Palace grounds",
+            "Botanical gardens section"
+          ],
+          "wildlife": "Over 120 bird species recorded"
+        },
+        {
+          "name": "Lake Bovilla",
+          "distance": "20km northeast",
+          "formation": "Artificial reservoir (1998)",
+          "activities": [
+            "Hiking to panoramic viewpoints",
+            "Kayak tours (seasonal)",
+            "Photography (dramatic cliffs)"
+          ],
+          "access": "Taxi or tour required"
+        }
+      ],
+      "urban_experiences": [
+        {
+          "name": "Blloku District",
+          "history": "Former restricted area for communist elite (only Politburo members allowed)",
+          "transformation": "Now trendy nightlife and shopping hub",
+          "features": [
+            "Enver Hoxha's former residence (now closed to public)",
+            "Boutique shops (local designers)",
+            "Hip cafés and cocktail bars",
+            "Street art galleries"
+          ],
+          "nightlife_tip": "Starts late - bars fill after 10pm"
+        },
+        {
+          "name": "New Bazaar (Pazari i Ri)",
+          "history": "Traditional market revitalized in 2016",
+          "features": [
+            "Morning produce market (local farmers)",
+            "Evening dining scene (outdoor tables)",
+            "Weekend craft stalls",
+            "Cooking classes available"
+          ],
+          "must_try": [
+            "Homemade raki at traditional taverns",
+            "Seasonal fruits from surrounding farms"
+          ]
+        },
+        {
+          "name": "Tirana Art Lab",
+          "type": "Street Art Exploration",
+          "highlights": [
+            "Murals by international artists",
+            "Underground art spaces",
+            "Self-guided walking tour maps available"
+          ],
+          "best_area": "Former industrial zones near Lana River"
+        }
+      ]
+    },
+    "tourism_types": {
+      "cultural": {
+        "description": "Explore Tirana's layered history from Ottoman to communist eras",
+        "experiences": [
+          {
+            "name": "Communism Tour",
+            "duration": "4 hours",
+            "itinerary": [
+              "Bunk'Art 1 (bunker experience)",
+              "House of Leaves (surveillance museum)",
+              "Pyramid (controversial monument)",
+              "Postbllok Memorial (checkpoint remains)"
+            ],
+            "theme": "Understanding Albania's 20th century isolation"
+          },
+          {
+            "name": "Religious Harmony Walk",
+            "duration": "3 hours",
+            "stops": [
+              "Et'hem Bey Mosque (Sunni Islam)",
+              "Bektashi World Center (Sufism)",
+              "Orthodox Cathedral",
+              "Catholic Cathedral"
+            ],
+            "theme": "Coexistence in post-atheist society"
+          },
+          {
+            "name": "Ottoman Heritage Trail",
+            "features": [
+              "Tanners' Bridge",
+              "Clock Tower",
+              "Old bazaar remnants",
+              "Traditional houses in Mujos area"
+            ]
+          }
+        ]
+      },
+      "adventure": {
+        "description": "Outdoor activities in and around the city",
+        "activities": [
+          {
+            "name": "Mount Dajti Experience",
+            "options": [
+              {
+                "type": "Cable car ride",
+                "duration": "15 min",
+                "cost": "1000 lek roundtrip"
+              },
+              {
+                "type": "Hiking to Tujani Peak",
+                "difficulty": "Moderate",
+                "duration": "4-5 hours roundtrip"
+              },
+              {
+                "type": "Paragliding",
+                "season": "May-October",
+                "cost": "€80-100 including transport"
+              }
+            ]
+          },
+          {
+            "name": "Pëllumbas Cave",
+            "details": "Karst cave with hiking trail through Erzen Valley",
+            "distance": "30km from Tirana",
+            "features": [
+              "Prehistoric habitation evidence",
+              "Guided tours available",
+              "Combine with Petrelë Castle visit"
+            ]
+          },
+          {
+            "name": "Cycling Tours",
+            "options": [
+              {
+                "name": "City Highlights Ride",
+                "duration": "3 hours",
+                "covers": [
+                  "Grand Park",
+                  "Lana River trails",
+                  "Blloku backstreets"
+                ]
+              },
+              {
+                "name": "Countryside Vineyard Tour",
+                "duration": "Full day",
+                "includes": [
+                  "Gjepalaj winery visit",
+                  "Traditional lunch",
+                  "Scenic rural routes"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "gastronomy": {
+        "description": "Traditional Albanian cuisine with modern twists",
+        "culinary_history": [
+          "Ottoman influences (grilled meats, phyllo pastries)",
+          "Mediterranean elements (olive oil, seafood)",
+          "Mountain traditions (dairy, preserved meats)"
+        ],
+        "experiences": [
+          {
+            "name": "Must-Try Dishes",
+            "items": [
+              {
+                "name": "Byrek",
+                "description": "Flaky phyllo pastry with cheese, meat or spinach",
+                "variations": [
+                  "Byrek me hollë (thin layers)",
+                  "Byrek me petë (thick layers)"
+                ]
+              },
+              {
+                "name": "Tavë kosi",
+                "description": "National dish - baked lamb with yogurt and rice",
+                "origin": "Elbasan region"
+              },
+              {
+                "name": "Fërgesë",
+                "description": "Pepper, tomato and cheese bake",
+                "versions": [
+                  "Tirana style (with liver)",
+                  "Vegetarian option"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Food Tours",
+            "duration": "3-4 hours",
+            "highlights": [
+              "New Bazaar market visit (tasting local produce)",
+              "Traditional restaurants like Oda (19th century setting)",
+              "Modern interpretations at Mullixhiu (slow food movement)",
+              "Raki tasting at Komiteti (40+ varieties)"
+            ]
+          },
+          {
+            "name": "Cooking Classes",
+            "options": [
+              {
+                "name": "Home-style Albanian",
+                "includes": [
+                  "Market visit",
+                  "3-course meal preparation",
+                  "Recipe booklet"
+                ]
+              },
+              {
+                "name": "Baklava Workshop",
+                "focus": "Ottoman desserts",
+                "duration": "2 hours"
+              }
+            ]
+          }
+        ]
+      },
+      "eco_tourism": {
+        "description": "Sustainable travel experiences",
+        "initiatives": [
+          {
+            "name": "Orbital Forest",
+            "goal": "Planting 2 million trees around Tirana by 2030",
+            "participation": "Volunteer planting days (October-March)"
+          },
+          {
+            "name": "Agritourism",
+            "options": [
+              {
+                "name": "Farm stays near Petrelë",
+                "activities": [
+                  "Organic vegetable harvesting",
+                  "Cheese making demonstrations",
+                  "Donkey trekking"
+                ]
+              },
+              {
+                "name": "Gjepalaj Winery",
+                "offerings": [
+                  "Vineyard tours",
+                  "Wine tasting (indigenous varieties)",
+                  "Farm-to-table meals"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Eco Trails",
+            "routes": [
+              {
+                "name": "Dajti National Park",
+                "features": [
+                  "Marked hiking paths",
+                  "Birdwatching stations",
+                  "Eco-friendly picnic areas"
+                ]
+              },
+              {
+                "name": "Tirana Green Belt",
+                "length": "15km cycling route",
+                "connects": [
+                  "Grand Park",
+                  "Artificial Lake",
+                  "Lana River parks"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "special_interest": {
+        "architecture": [
+          {
+            "theme": "Ottoman Legacy",
+            "examples": [
+              "Et'hem Bey Mosque",
+              "Clock Tower",
+              "Tanners' Bridge"
+            ]
+          },
+          {
+            "theme": "Italian Influence",
+            "examples": [
+              "Ministry of Agriculture building",
+              "Prime Minister's Office",
+              "National Bank"
+            ]
+          },
+          {
+            "theme": "Communist Era",
+            "examples": [
+              "Pyramid",
+              "Blloku villas",
+              "Former Party Headquarters"
+            ]
+          },
+          {
+            "theme": "Contemporary",
+            "examples": [
+              "Cloud installation",
+              "TID Tower (first skyscraper)",
+              "Reja Pavilion"
+            ]
+          }
+        ],
+        "photography": {
+          "best_spots": [
+            {
+              "location": "Bektashi Center terrace",
+              "time": "Sunset",
+              "subject": "City panorama"
+            },
+            {
+              "location": "Blloku streets",
+              "time": "Morning",
+              "subject": "Street art and café life"
+            },
+            {
+              "location": "Dajti cable car",
+              "time": "Clear days",
+              "subject": "Aerial city views"
+            }
+          ],
+          "restrictions": [
+            "No military/security buildings",
+            "Ask permission in mosques"
+          ]
+        }
+      }
+    },
+    "dining": {
+      "cuisine_overview": {
+        "characteristics": [
+          "Ottoman and Mediterranean influences",
+          "Hearty mountain dishes",
+          "Fresh local produce",
+          "Growing wine culture"
+        ],
+        "dining_culture": [
+          "Long leisurely meals common",
+          "Dinner typically starts late (8-9pm)",
+          "Shared plates tradition"
+        ]
+      },
+      "signature_dishes": [
+        {
+          "name": "Byrek",
+          "description": "Flaky phyllo pastry with cheese, meat or spinach filling",
+          "where_to_find": [
+            {
+              "type": "Street vendors",
+              "best_time": "Mornings",
+              "recommended": "Byrek me gjizë (cheese)"
+            },
+            {
+              "type": "Traditional bakeries",
+              "recommended": "Furra Ariani near New Bazaar"
+            }
+          ],
+          "eating_tip": "Pair with ayran (yogurt drink)"
+        },
+        {
+          "name": "Tavë kosi",
+          "description": "National dish of baked lamb with yogurt and rice",
+          "best_places": [
+            {
+              "name": "Oda Restaurant",
+              "reason": "Authentic home-style preparation"
+            },
+            {
+              "name": "Traditional Albanian eateries",
+              "area": "Behind New Bazaar"
+            }
+          ],
+          "origin_story": "Created for Ottoman officials visiting Elbasan"
+        },
+        {
+          "name": "Fërgesë",
+          "description": "Creamy baked dish with peppers, tomatoes and cheese",
+          "variations": [
+            {
+              "name": "Fërgesë Tirane",
+              "features": "Includes liver"
+            },
+            {
+              "name": "Vegetarian version",
+              "features": "Extra vegetables"
+            }
+          ],
+          "pairing": "Serve with crusty bread"
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Oda",
+          "type": "Traditional Albanian",
+          "setting": "19th-century Ottoman-style house with folk decor",
+          "specialties": [
+            "Homestyle Albanian dishes",
+            "House-made raki (20+ varieties)",
+            "Wood-fired baked dishes"
+          ],
+          "must_try": [
+            "Tavë kosi",
+            "Qofte të fërguara (fried meatballs)"
+          ],
+          "location": "Behind New Bazaar",
+          "price_range": "$$ (15-25€ per person)"
+        },
+        {
+          "name": "Mullixhiu",
+          "type": "Modern Albanian",
+          "concept": "Farm-to-table with creative twists by chef Bledar Kola",
+          "highlights": [
+            "Seasonal tasting menus",
+            "Revival of ancient recipes",
+            "Local organic ingredients"
+          ],
+          "location": "Grand Park lakeside",
+          "reservation": "Recommended",
+          "price_range": "$$$ (40-60€ tasting menu)"
+        },
+        {
+          "name": "Padam Boutique Hotel Restaurant",
+          "type": "Fine Dining",
+          "features": [
+            "Rooftop views of Mount Dajti",
+            "Contemporary Albanian cuisine",
+            "Extensive local wine list"
+          ],
+          "dress_code": "Smart casual",
+          "price_range": "$$$$ (60€+)"
+        }
+      ],
+      "cafes": [
+        {
+          "name": "Komiteti Café-Museum",
+          "specialty": "Raki tasting flights",
+          "feature": "Filled with communist-era artifacts",
+          "ambiance": "Quirky nostalgic",
+          "must_try": [
+            "Meditative raki flight (5 varieties)",
+            "Homemade rose petal jam"
+          ]
+        },
+        {
+          "name": "Mulliri i Vjetër",
+          "type": "Local chain",
+          "why_popular": [
+            "Consistent quality",
+            "Free WiFi",
+            "Central locations"
+          ],
+          "order_tip": "Espresso macchiato is local favorite"
+        },
+        {
+          "name": "Soma Book Station",
+          "concept": "Bohemian bookstore-café",
+          "events": [
+            "Live acoustic music nights",
+            "Poetry readings",
+            "Art exhibitions"
+          ],
+          "crowd": "Creative types, expats"
+        }
+      ],
+      "street_food": [
+        {
+          "name": "Qofte në bukë",
+          "description": "Meatballs in bread with onions and yogurt",
+          "best_spot": "Street stalls near Skanderbeg Square",
+          "price": "150-200 lek"
+        },
+        {
+          "name": "Petulla",
+          "description": "Fried dough balls served with honey or cheese",
+          "typical_time": "Morning snack",
+          "where": "Bakeries in Old Bazaar area"
+        }
+      ],
+      "drinks": {
+        "non_alcoholic": [
+          {
+            "name": "Boza",
+            "description": "Fermented corn drink, slightly sweet",
+            "where": "Traditional bakeries in winter"
+          },
+          {
+            "name": "Mountain tea",
+            "features": "Wild-harvested herbs",
+            "best_at": "Cafés in Blloku"
+          }
+        ],
+        "alcoholic": [
+          {
+            "name": "Raki",
+            "types": [
+              "Grape (most common)",
+              "Plum (northern style)",
+              "Herbal (medicinal varieties)"
+            ],
+            "drinking_custom": "Sipped slowly with meals"
+          },
+          {
+            "name": "Albanian wine",
+            "rising_stars": [
+              "Kallmet (red)",
+              "Pule (white)",
+              "Shesh i Zi (indigenous)"
+            ],
+            "best_wine_bars": ["Salt", "Vila"]
+          }
+        ]
+      }
+    },
+    "shopping": {
+      "markets": [
+        {
+          "name": "New Bazaar (Pazari i Ri)",
+          "hours": "7am-10pm (food market mornings only)",
+          "sections": [
+            {
+              "name": "Fresh Produce",
+              "highlights": [
+                "Organic vegetables from surrounding farms",
+                "Seasonal fruits (figs, pomegranates)"
+              ]
+            },
+            {
+              "name": "Dairy & Meat",
+              "must_try": [
+                "Djathë i bardhë (white cheese)",
+                "Proshutë (air-dried ham)"
+              ]
+            },
+            {
+              "name": "Evening Dining",
+              "offerings": [
+                "Traditional taverns",
+                "Modern Albanian cuisine pop-ups"
+              ]
+            }
+          ],
+          "tip": "Bargaining acceptable for non-food items"
+        },
+        {
+          "name": "Sunday Flea Market",
+          "location": "Park near train station",
+          "finds": [
+            "Communist-era memorabilia",
+            "Vintage Albanian books",
+            "Handmade crafts"
+          ],
+          "hours": "6am-2pm Sundays"
+        }
+      ],
+      "souvenirs": [
+        {
+          "type": "Albanian crafts",
+          "items": [
+            {
+              "name": "Filigree silver jewelry",
+              "best_place": "Kruja Silver shop in Blloku",
+              "price_range": "20-100€"
+            },
+            {
+              "name": "Traditional qeleshe hats",
+              "note": "White felt skullcap",
+              "where": "Old Bazaar stalls"
+            },
+            {
+              "name": "Albanian folk costumes (miniature versions)",
+              "best_for": "Decorative gifts"
+            }
+          ]
+        },
+        {
+          "type": "Food items",
+          "items": [
+            {
+              "name": "Mountain tea",
+              "packaging": "Colorful boxes",
+              "price": "3-5€"
+            },
+            {
+              "name": "Olive oil from southern Albania",
+              "best_brand": "Bardhi"
+            },
+            {
+              "name": "Raki in decorative bottles",
+              "airport_rule": "Must be checked luggage"
+            }
+          ]
+        }
+      ],
+      "shopping_districts": [
+        {
+          "name": "Blloku",
+          "character": "Trendy boutiques",
+          "offerings": [
+            "Albanian designer fashion",
+            "Contemporary homeware",
+            "Concept stores"
+          ]
+        },
+        {
+          "name": "Toptani Shopping Center",
+          "type": "Modern mall",
+          "features": [
+            "International brands",
+            "Cinema complex",
+            "Food court with local options"
+          ]
+        }
+      ],
+      "bargaining_tips": [
+        "Common in markets for non-food items",
+        "Start at 60% of asking price",
+        "Friendly attitude works best"
+      ]
+    },
+    "nightlife": {
+      "overview": "Tirana's nightlife is vibrant and diverse, centered around the Blloku district but spreading to other areas. Nightlife starts late, with most bars filling after 10pm and clubs after midnight.",
+      "by_age_group": {
+        "students": {
+          "venues": [
+            {
+              "name": "Colonial Cocktail Academy",
+              "type": "Cocktail bar",
+              "highlights": [
+                "Creative mixology (try the 'Bunker' cocktail)",
+                "Happy hour 5-7pm",
+                "DJ sets on weekends"
+              ],
+              "atmosphere": "Lively but not clubby",
+              "location": "Blloku",
+              "price_range": "$$ (cocktails 400-600 lek)"
+            },
+            {
+              "name": "Radio Bar",
+              "type": "Retro bar",
+              "highlights": [
+                "Vintage radio decor",
+                "Affordable drinks (beer 250 lek)",
+                "Outdoor courtyard"
+              ],
+              "atmosphere": "Hipster",
+              "special": "Monday vinyl nights"
+            }
+          ]
+        },
+        "young_professionals": {
+          "venues": [
+            {
+              "name": "Nova Bar & Restaurant",
+              "type": "Rooftop lounge",
+              "highlights": [
+                "Best skyline views in city",
+                "Craft cocktails (try the 'Dajti Sunset')",
+                "Chill house music"
+              ],
+              "dress_code": "Smart casual",
+              "reservation": "Recommended weekends"
+            },
+            {
+              "name": "Salt",
+              "type": "Wine bar",
+              "highlights": [
+                "Extensive Albanian wine list (100+ labels)",
+                "Gourmet small plates",
+                "Jazz nights on Thursdays"
+              ],
+              "knowledgeable": "Staff can recommend perfect local wine"
+            }
+          ]
+        },
+        "over_40s": {
+          "venues": [
+            {
+              "name": "Vinyl Bar",
+              "type": "Piano bar",
+              "highlights": [
+                "Live piano music (requests welcome)",
+                "Classic rock vinyl collection",
+                "Premium spirits selection"
+              ],
+              "atmosphere": "Relaxed elegance",
+              "best_night": "Saturday Sinatra nights"
+            },
+            {
+              "name": "Tirana International Hotel Bar",
+              "type": "Hotel lounge",
+              "highlights": [
+                "Comfortable leather chairs",
+                "Quiet atmosphere",
+                "Great people-watching"
+              ],
+              "historical_note": "Frequented by diplomats and journalists"
+            }
+          ]
+        }
+      },
+      "by_preference": {
+        "live_music": [
+          {
+            "name": "Hard Rock Cafe Tirana",
+            "genre": "Rock covers",
+            "highlights": [
+              "Weekend live bands (local and international)",
+              "Memorabilia collection (including Albanian rock history)",
+              "American-style food"
+            ],
+            "location": "Near Pyramid"
+          },
+          {
+            "name": "Jazz Club Tirana",
+            "genre": "Jazz/blues",
+            "highlights": [
+              "Local and international acts",
+              "Intimate 50-seat setting",
+              "Craft beer selection"
+            ],
+            "cover_charge": "500-1000 lek depending on act"
+          }
+        ],
+        "dancing": [
+          {
+            "name": "Folie Terrace",
+            "music": ["House", "Techno", "International hits"],
+            "season": "May-October (open-air)",
+            "highlights": [
+              "Guest DJs from Berlin/Belgrade",
+              "Late-night dancing (until 4am)",
+              "Cooling mist system in summer"
+            ],
+            "dress_code": "Fashionable"
+          },
+          {
+            "name": "Mint Club",
+            "music": ["Balkan pop", "Commercial hits"],
+            "crowd": "Young locals",
+            "features": [
+              "VIP bottle service",
+              "Themed party nights",
+              "Light shows"
+            ]
+          }
+        ],
+        "alternative": [
+          {
+            "name": "Destil",
+            "type": "Creative space",
+            "highlights": [
+              "Experimental electronic music",
+              "Art installations",
+              "Underground vibe"
+            ],
+            "location": "Industrial area near train station"
+          },
+          {
+            "name": "Zgara Tirones",
+            "concept": "Grill house by day, alternative bar by night",
+            "features": [
+              "Local indie bands",
+              "Cheap beers",
+              "Garden seating"
+            ]
+          }
+        ]
+      },
+      "cultural_nightlife": [
+        {
+          "name": "National Theater of Opera and Ballet",
+          "season": "September-May",
+          "offerings": [
+            {
+              "type": "Opera",
+              "note": "Mix of Italian classics and Albanian works"
+            },
+            {
+              "type": "Ballet",
+              "highlight": "Annual Nutcracker performance"
+            }
+          ],
+          "dress_code": "Business casual"
+        },
+        {
+          "name": "Summer Nights at Amphitheater",
+          "location": "Grand Park",
+          "events": [
+            "Open-air cinema (July-August)",
+            "Folk music performances",
+            "Shakespeare plays in Albanian"
+          ],
+          "tip": "Bring blanket or cushion"
+        }
+      ],
+      "nightlife_tips": [
+        {
+          "tip": "Nightlife starts late",
+          "details": "Don't arrive before 11pm for clubs"
+        },
+        {
+          "tip": "Dress code",
+          "details": "Smart casual in upscale venues (no shorts in clubs)"
+        },
+        {
+          "tip": "Transport",
+          "details": "Taxi apps recommended for late-night transport"
+        },
+        {
+          "tip": "Safety",
+          "details": "Generally safe, but avoid unlicensed taxis"
+        },
+        {
+          "tip": "Cash",
+          "details": "Many places don't accept cards - bring lek"
+        }
+      ]
+    },
+    "transportation": {
+      "arrival_options": [
+        {
+          "method": "Air",
+          "airport": "Tirana International Airport (TIA)",
+          "distance": "17km northwest of city",
+          "transfers": [
+            {
+              "type": "Taxi",
+              "price": "2500-3000 lek",
+              "duration": "20-30 min",
+              "tip": "Use Speed Taxi app for fixed price"
+            },
+            {
+              "type": "Rinas Express shuttle bus",
+              "price": "300 lek",
+              "schedule": "Every hour 6am-midnight",
+              "drop_off": "Skanderbeg Square"
+            }
+          ],
+          "facilities": [
+            "Currency exchange (poor rates)",
+            "SIM card vendors",
+            "Car rental desks"
+          ]
+        },
+        {
+          "method": "Bus",
+          "international_routes": [
+            {
+              "from": "Athens",
+              "duration": "8 hours",
+              "companies": ["Osumi Travel"]
+            },
+            {
+              "from": "Pristina",
+              "duration": "5 hours",
+              "note": "Scenic mountain route"
+            }
+          ],
+          "terminal": "Regional Bus Terminal (near train station)"
+        }
+      ],
+      "local_transport": [
+        {
+          "type": "Walking",
+          "applicability": "City center is very walkable",
+          "pedestrian_zones": [
+            "Skanderbeg Square area",
+            "Blloku district",
+            "New Bazaar"
+          ],
+          "safety": "Well-lit at night in central areas"
+        },
+        {
+          "type": "Taxis",
+          "details": [
+            {
+              "name": "Speed Taxi",
+              "app": "Available",
+              "starting_fare": "300 lek",
+              "per_km": "95 lek"
+            },
+            {
+              "warning": "Avoid unlicensed taxis at airport"
+            }
+          ]
+        },
+        {
+          "type": "Public Buses",
+          "fare": "40 lek flat rate",
+          "payment": "Cash to conductor (no change given)",
+          "routes": [
+            {
+              "useful": "Line 11 - Airport to Center"
+            },
+            {
+              "scenic": "Line 5 - Grand Park loop"
+            }
+          ]
+        },
+        {
+          "type": "Bicycle",
+          "availability": [
+            {
+              "system": "Ecovolis bike share",
+              "stations": "30+ in center",
+              "cost": "100 lek/hour"
+            },
+            {
+              "rental_shops": "Near Grand Park and Blloku"
+            }
+          ],
+          "caution": "Limited bike lanes - defensive riding needed"
+        }
+      ],
+      "day_trip_transport": [
+        {
+          "destination": "Durrës",
+          "options": [
+            {
+              "type": "Bus",
+              "departure": "Every 30 mins from Regional Terminal",
+              "duration": "40 min",
+              "cost": "150 lek"
+            },
+            {
+              "type": "Train",
+              "schedule": "5 daily",
+              "duration": "1 hour",
+              "note": "Scenic but slow"
+            }
+          ]
+        },
+        {
+          "destination": "Kruja",
+          "options": [
+            {
+              "type": "Bus",
+              "departure": "Every hour from Zogu i Zi",
+              "duration": "45 min",
+              "cost": "120 lek"
+            }
+          ]
+        }
+      ],
+      "driving": [
+        {
+          "tip": "Rental cars",
+          "details": [
+            "International agencies at airport",
+            "Average cost: €25-40/day",
+            "Requires international driving permit"
+          ]
+        },
+        {
+          "tip": "Road conditions",
+          "details": [
+            "City center: congested with limited parking",
+            "Countryside: improving but some rough patches"
+          ]
+        },
+        {
+          "tip": "Parking",
+          "details": [
+            "Blue zones: paid parking (100 lek/hour)",
+            "Shopping centers: often free with validation"
+          ]
+        }
+      ]
+    },
+    "accommodation": {
+      "by_category": [
+        {
+          "category": "Luxury",
+          "options": [
+            {
+              "name": "Maritim Hotel Plaza",
+              "location": "Central Skanderbeg Square",
+              "features": [
+                "Panoramic city views",
+                "Full-service spa",
+                "Rooftop restaurant",
+                "Business center"
+              ],
+              "price_range": "€120-250/night",
+              "unique": "Historic building with modern amenities"
+            },
+            {
+              "name": "Rogner Hotel",
+              "location": "Blvd. Dëshmorët e Kombit",
+              "features": [
+                "Beautiful garden with pool",
+                "Tennis courts",
+                "Multiple dining options"
+              ],
+              "price_range": "€100-200/night",
+              "history": "Hosted numerous international dignitaries"
+            }
+          ]
+        },
+        {
+          "category": "Mid-Range",
+          "options": [
+            {
+              "name": "Boutique Hotel Kotoni",
+              "location": "Blloku district",
+              "style": "Modern design with traditional touches",
+              "features": [
+                "Art-filled common areas",
+                "Complimentary breakfast",
+                "Bike rentals"
+              ],
+              "price_range": "€60-100/night"
+            },
+            {
+              "name": "Hotel Boutique Kotoni",
+              "location": "Near Pyramid",
+              "features": [
+                "Roof terrace with views",
+                "Walking distance to main sights",
+                "Helpful staff for tour arrangements"
+              ],
+              "price_range": "€50-90/night"
+            }
+          ]
+        },
+        {
+          "category": "Budget",
+          "options": [
+            {
+              "name": "Tirana Backpacker Hostel",
+              "location": "Behind National Museum",
+              "features": [
+                "Garden setting",
+                "Social atmosphere",
+                "Organized pub crawls",
+                "Kitchen facilities"
+              ],
+              "price_range": "€10-15/dorm bed"
+            },
+            {
+              "name": "Milingona Hostel",
+              "location": "Near Blloku",
+              "features": [
+                "Artsy decor",
+                "Free walking tours",
+                "Co-working space"
+              ],
+              "price_range": "€12-18/dorm bed"
+            }
+          ]
+        }
+      ],
+      "neighborhood_guide": [
+        {
+          "name": "City Center",
+          "pros": [
+            "Walkable to major sights",
+            "Best public transport links",
+            "Variety of dining options"
+          ],
+          "cons": [
+            "Can be noisy at night",
+            "Limited parking"
+          ],
+          "best_for": "First-time visitors, short stays"
+        },
+        {
+          "name": "Blloku",
+          "pros": [
+            "Trendy nightlife and cafés",
+            "Boutique shopping",
+            "Safe and walkable"
+          ],
+          "cons": [
+            "Higher prices",
+            "Noisy on weekends"
+          ],
+          "best_for": "Young travelers, nightlife lovers"
+        },
+        {
+          "name": "Near Grand Park",
+          "pros": [
+            "Greener surroundings",
+            "Quieter atmosphere",
+            "Good jogging paths"
+          ],
+          "cons": [
+            "Further from some attractions",
+            "Fewer dining options"
+          ],
+          "best_for": "Families, longer stays"
+        }
+      ],
+      "booking_tips": [
+        {
+          "tip": "Seasonal rates",
+          "details": "Prices drop 20-30% November-March"
+        },
+        {
+          "tip": "Local websites",
+          "suggestion": "Check AlbaniaTourism.com for deals"
+        },
+        {
+          "tip": "Direct contact",
+          "details": "Smaller hotels may offer better rates via email"
+        }
+      ],
+      "alternative_options": [
+        {
+          "type": "Airbnb",
+          "popular_areas": [
+            "Blloku (modern apartments)",
+            "Mujos (traditional houses)",
+            "Near Artificial Lake (quiet)"
+          ],
+          "price_range": "€25-80/night"
+        },
+        {
+          "type": "Guesthouses",
+          "feature": "Family-run with home-cooked meals",
+          "best_location": "Outskirts near Dajti"
+        }
+      ]
+    },
+    "hidden_gems": [
+      {
+        "name": "Bunk'Art 2",
+        "description": "Smaller but more centrally located than Bunk'Art 1, focusing on secret police history",
+        "tip": "Visit early to avoid school groups",
+        "unique_exhibit": "Reconstructed interrogation rooms"
+      },
+      {
+        "name": "Tanners' Bridge",
+        "description": "18th-century Ottoman stone bridge hidden between modern buildings",
+        "location": "Behind the Municipal Building",
+        "historical_note": "Part of ancient trade route to Istanbul"
+      },
+      {
+        "name": "Bektashi World Center Terrace",
+        "description": "Secret panoramic view of Tirana from religious complex",
+        "best_time": "Sunset",
+        "access": "Ask politely at museum desk"
+      },
+      {
+        "name": "Former Kinostudio",
+        "description": "Abandoned communist-era film studios with socialist murals",
+        "location": "South of city center",
+        "caution": "Unofficial access - explore at own risk"
+      },
+      {
+        "name": "Kodra e Diellit Stairs",
+        "description": "Colorful staircase neighborhood with local art project",
+        "best_photo": "Morning light",
+        "nearby": "Authentic local cafés"
+      }
+    ],
+    "day_trips": [
+      {
+        "destination": "Kruja",
+        "distance": "32km",
+        "travel_time": "45 min",
+        "highlights": [
+          {
+            "name": "Kruja Castle",
+            "features": [
+              "Medieval fortress overlooking town",
+              "Site of Skanderbeg's resistance",
+              "Panoramic views"
+            ]
+          },
+          {
+            "name": "Ethnographic Museum",
+            "note": "Ottoman-era house showing traditional life"
+          },
+          {
+            "name": "Old Bazaar",
+            "shopping": [
+              "Handmade carpets",
+              "Copper crafts",
+              "Traditional costumes"
+            ]
+          }
+        ],
+        "transport": [
+          {
+            "type": "Bus",
+            "departure": "Every hour from Zogu i Zi",
+            "cost": "120 lek"
+          },
+          {
+            "type": "Taxi",
+            "cost": "€25-30 round trip",
+            "tip": "Combine with Durrës for full day"
+          }
+        ],
+        "dining_recommendation": "Restaurant inside castle for views"
+      },
+      {
+        "destination": "Durrës",
+        "distance": "40km",
+        "travel_time": "40 min",
+        "highlights": [
+          {
+            "name": "Roman Amphitheater",
+            "features": [
+              "1st century AD",
+              "Capacity: 15,000",
+              "Early Christian mosaics"
+            ]
+          },
+          {
+            "name": "Archaeological Museum",
+            "collection": "Best Roman artifacts in Albania"
+          },
+          {
+            "name": "Seaside Promenade",
+            "activities": [
+              "Beach clubs (summer)",
+              "Fresh seafood dining",
+              "Sunset walks"
+            ]
+          }
+        ],
+        "transport": [
+          {
+            "type": "Bus",
+            "frequency": "Every 30 mins",
+            "cost": "150 lek"
+          },
+          {
+            "type": "Train",
+            "scenic": "Along coastal route",
+            "duration": "1 hour"
+          }
+        ],
+        "tip": "Combine beach time with history"
+      },
+      {
+        "destination": "Berat",
+        "distance": "120km",
+        "travel_time": "2.5 hours",
+        "highlights": [
+          {
+            "name": "UNESCO-listed old town",
+            "nickname": "City of a Thousand Windows"
+          },
+          {
+            "name": "Berat Castle",
+            "features": [
+              "Still inhabited fortress",
+              "Byzantine churches",
+              "Museum of Iconography"
+            ]
+          },
+          {
+            "name": "Wine tasting",
+            "recommendation": "Cobo Winery"
+          }
+        ],
+        "transport": [
+          {
+            "type": "Bus",
+            "frequency": "6 daily",
+            "cost": "400 lek"
+          },
+          {
+            "type": "Organized tour",
+            "benefits": [
+              "Guided castle visit",
+              "Lunch included",
+              "Hotel pickup"
+            ]
+          }
+        ],
+        "overnight_option": "Stay in traditional guesthouse"
+      }
+    ],
+    "travel_tips": [
+      {
+        "category": "Money",
+        "tips": [
+          {
+            "tip": "Local currency",
+            "details": "Lek (ALL) - €1 ≈ 120 lek (check current rate)"
+          },
+          {
+            "tip": "Cash vs cards",
+            "details": [
+              "Cash preferred for small transactions",
+              "ATMs widely available (avoid Euronet for better rates)",
+              "Credit cards accepted in hotels/upscale restaurants"
+            ]
+          },
+          {
+            "tip": "Tipping",
+            "details": [
+              "Restaurants: 10% (check if service included)",
+              "Taxis: round up fare",
+              "Tour guides: 5-10€ for full day"
+            ]
+          },
+          {
+            "tip": "Bargaining",
+            "details": "Acceptable in markets (not supermarkets)"
+          }
+        ]
+      },
+      {
+        "category": "Language",
+        "basics": [
+          {
+            "albanian": "Përshëndetje",
+            "english": "Hello",
+            "pronunciation": "per-shen-DET-yeh"
+          },
+          {
+            "albanian": "Faleminderit",
+            "english": "Thank you",
+            "pronunciation": "fah-leh-min-DEH-reet"
+          },
+          {
+            "albanian": "Ku është tualeti?",
+            "english": "Where is the toilet?"
+          },
+          {
+            "albanian": "Sa kushton?",
+            "english": "How much does it cost?"
+          }
+        ],
+        "nonverbal_tips": [
+          {
+            "tip": "Head movements",
+            "details": "Nodding may mean 'no', shaking head 'yes' - confirm verbally"
+          },
+          {
+            "tip": "Gestures",
+            "details": "Pointing with whole hand more polite than finger"
+          }
+        ],
+        "language_help": [
+          {
+            "resource": "Google Translate",
+            "note": "Download Albanian for offline use"
+          },
+          {
+            "resource": "Locals",
+            "note": "Most under 40 speak some English"
+          }
+        ]
+      },
+      {
+        "category": "Safety",
+        "advice": [
+          {
+            "tip": "General safety",
+            "details": [
+              "Tirana is very safe by European standards",
+              "Normal precautions against pickpockets in crowded areas"
+            ]
+          },
+          {
+            "tip": "Night safety",
+            "details": [
+              "Well-lit central areas secure at night",
+              "Avoid poorly lit parks after dark"
+            ]
+          },
+          {
+            "tip": "Transport safety",
+            "details": [
+              "Use licensed taxis (official ones are white)",
+              "Avoid unmarked cars offering rides"
+            ]
+          },
+          {
+            "tip": "Emergency numbers",
+            "numbers": [
+              "Police: 129",
+              "Ambulance: 127",
+              "Tourist Police: +355 4 222 41 33"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Connectivity",
+        "tips": [
+          {
+            "tip": "SIM cards",
+            "details": [
+              "Available at airport or city shops (need passport)",
+              "Best providers: Vodafone, One, ALBtelecom",
+              "Cost: ~1000 lek for 10GB data"
+            ]
+          },
+          {
+            "tip": "WiFi",
+            "availability": [
+              "Free in most cafés/hotels",
+              "Public areas around Skanderbeg Square"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Cultural Etiquette",
+        "tips": [
+          {
+            "tip": "Dress code",
+            "details": [
+              "Modest dress for religious sites (shoulders/knees covered)",
+              "Upscale restaurants: smart casual"
+            ]
+          },
+          {
+            "tip": "Photography",
+            "restrictions": [
+              "Avoid military/police buildings",
+              "Ask before photographing people"
+            ]
+          },
+          {
+            "tip": "Social norms",
+            "details": [
+              "Albanians are very hospitable - may invite you for coffee",
+              "Accepting small gifts (like sweets) is polite"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Health",
+        "advice": [
+          {
+            "tip": "Water",
+            "details": "Tap water generally safe but bottled recommended for visitors"
+          },
+          {
+            "tip": "Pharmacies",
+            "details": [
+              "Widely available (look for 'Farmaci')",
+              "Many pharmacists speak English"
+            ]
+          },
+          {
+            "tip": "Hospitals",
+            "recommendation": [
+              "German Hospital (private, English-speaking staff)",
+              "Emergency number: 127"
+            ]
+          }
+        ]
+      }
+    ],
+    "itineraries": [
+      {
+        "name": "Tirana in 1 Day",
+        "morning": [
+          "Skanderbeg Square orientation",
+          "Et'hem Bey Mosque & Clock Tower visit",
+          "National History Museum (focus on ground floor highlights)"
+        ],
+        "afternoon": [
+          "Lunch at New Bazaar",
+          "Bunk'Art 2 (compact communist history)",
+          "Coffee break in Blloku"
+        ],
+        "evening": [
+          "Sunset at Pyramid",
+          "Dinner at Oda (traditional)",
+          "Drinks at Colonial Cocktail Academy"
+        ]
+      },
+      {
+        "name": "3-Day Exploration",
+        "day1": [
+          "Full communism tour (Bunk'Art 1, House of Leaves, Pyramid)",
+          "Lunch at Mullixhiu",
+          "Afternoon in Grand Park",
+          "Evening food tour of New Bazaar"
+        ],
+        "day2": [
+          "Morning at Mount Dajti (cable car & short hike)",
+          "Lunch at Ballkoni Dajtit",
+          "Afternoon religious sites tour",
+          "Evening jazz at Jazz Club Tirana"
+        ],
+        "day3": [
+          "Day trip to Kruja (castle & bazaar)",
+          "Alternative: Durrës beaches & ruins",
+          "Final dinner at Padam rooftop"
+        ]
+      }
+    ],
+    "local_secrets": [
+      {
+        "tip": "Best cheap eat",
+        "details": "Family-run bakery near Orthodox Cathedral - amazing byrek for 50 lek"
+      },
+      {
+        "tip": "Secret viewpoint",
+        "details": "Top floor of TID Tower (pretend you're going to Sky Bar)"
+      },
+      {
+        "tip": "Avoiding crowds",
+        "details": "Visit Skanderbeg Square at 8am for perfect photos"
+      },
+      {
+        "tip": "Local hangout",
+        "details": "Artificial Lake west side - where locals picnic away from tourists"
+      }
+    ],
+    "sustainable_travel": [
+      {
+        "tip": "Eco-friendly stays",
+        "options": [
+          "Guesthouses using solar power",
+          "Hotels with recycling programs"
+        ]
+      },
+      {
+        "tip": "Responsible shopping",
+        "suggestions": [
+          "Buy direct from artisans at New Bazaar",
+          "Choose traditional handmade souvenirs over imports"
+        ]
+      },
+      {
+        "tip": "Green transport",
+        "options": [
+          "Ecovolis bike share",
+          "Electric buses on main routes"
+        ]
+      },
+      {
+        "tip": "Volunteering",
+        "opportunities": [
+          "Orbital Forest tree planting",
+          "Beach cleanups in Durrës (summer)"
+        ]
+      }
+    ],
+    "last_updated": "2023-11-15",
+    "sources": [
+      "Tirana Municipality Tourism Office",
+      "Albanian National Tourism Agency",
+      "Local expert reviews"
+    ]
+  }
+}

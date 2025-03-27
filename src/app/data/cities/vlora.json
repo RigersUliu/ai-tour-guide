@@ -1,0 +1,955 @@
+{
+  "vlora": {
+    "name": "Vlora",
+    "alternate_names": ["Vlorë", "Valona", "Aulon (Avlona)"],
+    "location": {
+      "country": "Albania",
+      "region": "Vlorë County",
+      "coordinates": {
+        "latitude": 40.4667,
+        "longitude": 19.4897
+      },
+      "elevation": "0 m above sea level",
+      "nearby_landmarks": [
+        "Bay of Vlorë (meeting point of Adriatic and Ionian Seas)",
+        "Karaburun Peninsula and Sazan Island (across the bay)",
+        "Narta Lagoon (protected wetland just north)",
+        "Llogara Pass (1027 m, scenic gateway to the Albanian Riviera)"
+      ]
+    },
+    "description": "Vlorë (Vlora) is a vibrant coastal city in southwestern Albania, famed as the birthplace of Albanian independence and the gateway to the Albanian Riviera. Nestled where the Adriatic and Ionian Seas meet, Vlora offers a mix of historical significance and seaside charm. Visitors can explore its rich heritage – from ancient ruins to Ottoman architecture – and enjoy modern waterfront promenades, sandy and pebble beaches, and a backdrop of the Ceraunian Mountains. As Albania’s third-largest city and a major port, Vlora buzzes with energy in summer, yet still provides pockets of tranquility in its lagoons and hillside villages. Its unique blend of sunny Mediterranean climate, cultural landmarks, and natural beauty make Vlora a compelling destination for both history enthusiasts and beachgoers.",
+    "historical_background": {
+      "founding": {
+        "year": "6th century BCE",
+        "original_name": "Aulon (Ancient Greek)",
+        "founders": "Greek colonists (from Corinth/Epidamnos)",
+        "early_history": "Developed as an important port in antiquity; first mentioned in records in the 2nd century CE as a fortified harbor town."
+      },
+      "timeline": [
+        "1081 CE – Captured by Norman forces under Robert Guiscard during their campaigns in the region.",
+        "1417 – Conquered by the Ottoman Empire (one of the first Albanian cities to fall to the Ottomans).",
+        "16th-18th centuries – Flourished as a regional center under Ottoman rule; known to Venetians and others as Valona.",
+        "28 November 1912 – Albanian Declaration of Independence read in Vlora, and the city became the first capital of independent Albania (1912–1914) under Ismail Qemali.",
+        "1920 – Vlora War: local Albanians rose up and expelled the occupying Italian forces, reaffirming Albania’s sovereignty.",
+        "1939–1944 – Occupied by Fascist Italy (and later Nazi Germany) during World War II due to its strategic port.",
+        "1944–1990 – Communist era: Vlora was a closed naval base; home to the Pashaliman Naval Base (only Soviet naval base in the Mediterranean until the Albania–USSR split in 1961). City remained industrial and largely off-limits to foreigners.",
+        "1997 – Vlora was an epicenter of Albania’s civil unrest during the pyramid schemes crisis, which led to widespread protests and conflict in the city.",
+        "2000s–present – Period of recovery and development: revitalization of the waterfront (Lungomare), growth in tourism, and construction of a new international airport nearby (planned opening mid-2020s)."
+      ],
+      "archaeological_sites": [
+        "Triport Archaeological Site – partially submerged ruins of an ancient port city (Illyrian/Greek) near the Narta Lagoon.",
+        "Oricum (Orikum) – ruins of an ancient Greek and Roman harbor city south of Vlora, including a small theater and city walls (now an archaeological park).",
+        "Amantia – remains of an Illyrian city in the Vlora region (temple foundations, stadium) located inland on a hilltop east of the city.",
+        "Kaninë Castle Excavations – evidence of Illyrian and medieval fortifications at Kaninë (just above Vlora).",
+        "Late Antique ruins in modern Vlora – bits of mosaic floors and city walls from the late Roman and Byzantine era, discovered under parts of the city (indicating the shift from ancient Aulon to medieval Vlora)."
+      ]
+    },
+    "demographics": {
+      "population": 90000,
+      "ethnic_groups": ["Albanians (majority)", "Greeks (notable minority in region)", "Aromanians (Vlach)", "Italians (historical community)", "Jewish (historically present)"],
+      "languages": ["Albanian (Tosk dialect, Labëria variant)", "Italian (widely understood)", "English (especially younger generations and tourism sector)", "Greek (some understanding in families with regional ties)"],
+      "religions": ["Islam (Sunni and Bektashi)", "Christianity (Orthodox and Catholic)", "Religious tolerance is high; secular lifestyle common"]
+    },
+    "cultural_importance": {
+      "nicknames": [
+        "City of Independence",
+        "Gateway to the Albanian Riviera",
+        "Birthplace of Albanian Independence"
+      ],
+      "cultural_firsts": [
+        "Site of Albania’s Declaration of Independence and first capital of independent Albania (1912).",
+        "Home to Albania’s first naval base (Pashaliman, established in the 1950s)."
+      ],
+      "festivals": [
+        "Independence Day Celebrations (November 28–29) – city-wide patriotic parades, concerts, and fireworks in Flag Square.",
+        "Vlora Summer Festival – kicks off summer with concerts, beach parties, and cultural events (often in June).",
+        "International Folk Festival – hosted in Vlora some years, featuring traditional music and dance groups (usually summer).",
+        "Narta Wine and Olive Festival – held occasionally in nearby Narta village, celebrating local wine (Vlosh) and olive harvest with music and tastings.",
+        "Street Food Fest – summer event showcasing local food vendors and live music along the Lungomare."
+      ],
+      "institutions": [
+        "National Museum of Independence – historic building where the independence act was signed, now a museum.",
+        "Petro Marko Theater – city theater named after a local writer, hosting plays and concerts.",
+        "University of Vlora 'Ismail Qemali' – major public university, center of education and research in the region.",
+        "Kuzum Baba Bektashi Shrine – important spiritual site for the Bektashi Order, also a cultural symbol of religious harmony."
+      ],
+      "notable_figures": [
+        "Ismail Qemali (statesman who declared Albanian independence in 1912)",
+        "Avni Rustemi (early 20th-century activist and national hero)",
+        "Petro Marko (20th-century writer and journalist from Vlora)",
+        "Aurela Gaçe (contemporary singer originally from Vlora)",
+        "Ali Asllani (poet and former mayor of Vlora, known for patriotic verse)"
+      ]
+    },
+    "climate": {
+      "classification": "Csa (Hot-summer Mediterranean)",
+      "sunshine": "~2,600–2,700 hours of sunshine annually",
+      "record_temperatures": {
+        "highest": "42°C (108°F) in peak summer",
+        "lowest": "-5°C (23°F) on rare winter nights"
+      },
+      "seasons": [
+        {
+          "name": "Spring",
+          "months": "March–May",
+          "avg_temp": "15–23°C",
+          "characteristics": ["Mild, gradually warming temperatures", "Wildflowers bloom in hills and countryside", "Moderate rainfall, especially in March"],
+          "packing_tip": "Light jacket for cool evenings and occasional showers."
+        },
+        {
+          "name": "Summer",
+          "months": "June–August",
+          "avg_temp": "25–33°C",
+          "characteristics": ["Hot, sunny and dry", "Sea breezes provide some relief by the coast", "Peak beach season and nightlife"],
+          "packing_tip": "Bring sunscreen, hat, swimwear, and light clothing; prepare for strong sun."
+        },
+        {
+          "name": "Autumn",
+          "months": "September–November",
+          "avg_temp": "16–26°C",
+          "characteristics": ["Warm early autumn (great for swimming through September)", "Increasing rainfall by November", "Grape and olive harvest season in villages"],
+          "packing_tip": "Wear layers for variable temperatures; a rain jacket for late fall."
+        },
+        {
+          "name": "Winter",
+          "months": "December–February",
+          "avg_temp": "8–15°C",
+          "characteristics": ["Mild coastal winter (frost and snow are very rare in city)", "Rainy season (periodic heavy showers)", "Surrounding mountains occasionally get snow-caps"],
+          "packing_tip": "Waterproof jacket and footwear for rain; a sweater for cooler nights."
+        }
+      ],
+      "best_travel_times": [
+        {
+          "period": "May–June",
+          "reasons": ["Pleasant warm weather (mid-20s °C)", "Lush green landscapes & spring flowers", "Beach season starts, but without peak crowds"]
+        },
+        {
+          "period": "September–early October",
+          "reasons": ["Sea water is warm from summer", "Fewer tourists and lower prices than August", "Harvest time – try fresh figs, grapes, and festivals"]
+        }
+      ]
+    },
+    "attractions": {
+      "historical": [
+        {
+          "name": "Independence Monument (Flag Square)",
+          "description": "A grand bronze monument in the heart of Flag Square (Sheshi i Flamurit) commemorating Albania’s Declaration of Independence in 1912. It depicts Ismail Qemali and other patriots raising the flag. The surrounding plaza is a gathering place and venue for national celebrations."
+        },
+        {
+          "name": "Kaninë Castle",
+          "description": "Hilltop ruins about 6 km from Vlora, dating back to the 3rd century BCE (Illyrian) with later Byzantine and medieval fortifications. Visitors can walk among remaining stone walls and gates. The site offers panoramic views of Vlora city, the bay, Sazan Island, and Karaburun Peninsula – especially stunning at sunset."
+        },
+        {
+          "name": "Orikum Archaeological Park",
+          "description": "Ancient Oricum’s remnants near modern Orikum (18 km south of Vlora). Features a small Roman theater, ruins of city walls, and foundations of an early Christian basilica with mosaic fragments. Set by a lagoon, the quiet site gives a sense of discovery. Often uncrowded, it’s advisable to bring water and sun protection when exploring."
+        },
+        {
+          "name": "Martyrs' Cemetery & Mother Albania Statue",
+          "description": "A WWII memorial site on a hill overlooking Vlora. It includes graves of fallen Partisans and a towering 'Mother Albania' statue holding a wreath (similar to Tirana’s monument). Besides paying respects, visitors come for the tranquil pine-shaded setting and panoramic city views. Entry is free; it’s a peaceful spot for contemplation."
+        }
+      ],
+      "museums": [
+        {
+          "name": "National Museum of Independence",
+          "description": "Housed in the original two-story building where Albania’s independence was declared in 1912. The museum preserves rooms with period furniture and displays artifacts like documents, photographs, and personal items of independence leaders. One room recreates the provisional government’s meeting chamber. Though small, it’s a site of great significance. Allow 30–45 minutes; modest entry fee."
+        },
+        {
+          "name": "Historical Museum of Vlora",
+          "description": "Located in a traditional house in the city center, this museum showcases the region’s history. Exhibits range from ancient Greek and Illyrian pottery, coins, and weapons to ethnographic displays of local costumes, tools, and crafts. Sections cover medieval and WWII history as well. It’s a modest-sized museum providing good context about Vlora’s heritage (small entry fee, usually open mornings)."
+        },
+        {
+          "name": "Ethnographic Museum",
+          "description": "Set in a charming 19th-century Ottoman-style house (white walls, stone roof, wooden balconies), this museum presents traditional Vlora life. Rooms are arranged with period furnishings, including folk costumes, handwoven carpets, embroidered linens, old kitchenware, musical instruments, and woodcraft tools. It feels like stepping into an Albanian home of the past. A short but insightful visit (entry for a few hundred Lek)."
+        }
+      ],
+      "religious_sites": [
+        {
+          "name": "Muradie Mosque",
+          "description": "Built in 1537, this mosque (Xhamia e Muradies) is one of Vlora’s oldest buildings. Designed by famed Ottoman architect Mimar Sinan, it features distinctive layered stone-and-brick walls and a slender minaret. The interior is simple and peaceful. Visitors are welcome outside prayer times (modest attire required). The mosque survived earthquakes and communist-era atheism, standing as a symbol of the city’s resilience."
+        },
+        {
+          "name": "Zvernec Monastery (St. Mary’s Monastery)",
+          "description": "Situated on a tiny forested island in the Narta Lagoon northwest of Vlora, this 13th-century Byzantine monastery is reached by a nearly 300 m wooden footbridge over the water. The stone church of St. Mary features an iconostasis and faded frescoes, emanating tranquility. The pine-covered island has picnic spots and is free to visit (remember to dress modestly). It’s both a spiritual site and a peaceful nature escape."
+        }
+      ],
+      "urban_experiences": [
+        {
+          "name": "Kuzum Baba Hill",
+          "description": "A hilltop terrace in central Vlora offering one of the best panoramic views of the city and bay. Atop is a Bektashi tekke (shrine) dedicated to Kuzum Baba. Visitors gather on the broad stone patio to enjoy sunset views over Vlora. There’s a small café where you can sip a drink while admiring the scenery. Reachable by a steep walk or a short drive, it’s a serene spot blending cultural and scenic experience."
+        },
+        {
+          "name": "Old Town Pedestrian Zone (Muradie Neighborhood)",
+          "description": "The historic core around Muradie Mosque has been revitalized with pedestrian-only streets (like Justin Godar St). Stone-paved lanes lined with vintage-style lamps host quaint cafés, artisan shops, and restored facades of old houses. Strolling here in late afternoon, you can enjoy a laid-back atmosphere, discover local artisan workshops or bakeries, and glimpse Vlora’s past architecture away from the busy modern city."
+        }
+      ],
+      "natural": [
+        {
+          "name": "Llogara National Park",
+          "description": "A mountainous park about an hour’s drive south of Vlora, known for breathtaking vistas and pine forests. The Llogara Pass (1027 m) offers viewpoints where, on clear days, you can see the Ionian Sea and even the outline of Corfu. The park has hiking trails (from short walks to challenging treks up Mt. Çika, 2045 m). It’s a cool retreat from summer heat, with mountain lodges and restaurants serving hearty alpine fare. Paragliders launch from here for tandem flights down to the coast."
+        },
+        {
+          "name": "Karaburun-Sazan Marine Park",
+          "description": "Albania’s only marine national park, encompassing the Karaburun Peninsula and Sazan Island at the mouth of Vlora Bay. Accessible by boat tours from Vlora, this area features secluded bays (like Grama Bay), sea caves (notably Haxhi Ali Cave), and unspoiled beaches. Sazan Island, a former military base, has abandoned bunkers and buildings overtaken by nature. The marine life is rich – great for snorkeling or diving to see corals and even underwater wrecks. A day trip here offers a mix of adventure, history, and pristine nature."
+        },
+        {
+          "name": "Narta Lagoon",
+          "description": "A shallow lagoon north of Vlora, part of the Vjosa-Narta Protected Landscape. It’s a haven for birdlife, including flamingos, pelicans, and herons. A thin strip of land separates the lagoon from the Adriatic, creating tranquil Narta Beach. Visitors can observe salt pans glistening in the sun and visit the rustic village of Narta, known for its wine and folklore. Sunset over the lagoon is magical, painting the water pink and gold. The area is perfect for bird-watching and experiencing rural coastal life."
+        }
+      ]
+    },
+    "tourism_types": {
+      "cultural": {
+        "description": "Vlora offers rich cultural experiences, from observing local traditions to engaging with the arts. The city is a focal point of Albanian patriotism – visitors can join national celebrations (like Independence Day ceremonies in Flag Square) and enjoy folklore performances of Labëria’s famous polyphonic singing and dance in summer. Everyday life also provides cultural immersion: an evening xhiro (stroll) along the boulevard or waterfront with locals, a Turkish coffee at a neighborhood café, or chatting with vendors at the market. These interactions and events give a genuine feel for Vlora’s proud heritage and hospitable spirit."
+      },
+      "historical": {
+        "description": "As the birthplace of Albania’s independence, Vlora is a treasure for history enthusiasts. Key sites include the Independence Museum (in the building of Albania’s first government in 1912) and Flag Square’s Independence Monument – powerful symbols of the nation’s freedom. The city also features Ottoman heritage like the 16th-century Muradie Mosque and nearby ancient and medieval ruins (the Orikum site, Kaninë Castle) reflecting Illyrian, Roman, and Byzantine eras. A visit to Vlora allows travelers to walk through layers of history, from antiquity and Ottoman rule to the 20th-century struggles for nationhood."
+      },
+      "beach": {
+        "description": "With a long coastline and sunny climate, Vlora is a prime destination for beachgoers and relaxation seekers. The city’s own waterfront (Lungomare) has urban beaches where one can swim by day and enjoy seaside restaurants by night. Just south, areas like Uji i Ftohtë, Radhimë, and Orikum offer clear turquoise waters, resort hotels, and beach clubs with sunbeds and water sports. Vlora is also the northern gateway to the famed Albanian Riviera – villages like Dhërmi and Himara with stunning beaches are reachable on day trips. Whether you prefer a lively city beach or a secluded cove, Vlora’s mix of Adriatic and Ionian seaside ensures a spot for every taste. Peak summer (July–August) is bustling with energy and nightlife, while May, June, and September provide warm weather with more tranquility."
+      },
+      "adventure": {
+        "description": "Vlora’s unique geography – between sea and mountains – makes it an adventure hotspot. To the south, Llogara National Park beckons hikers with alpine trails through pine forests and the challenge of climbing Mt. Çika (2045 m). The park’s Llogara Pass is also a launch point for paragliding, offering the thrill of soaring above the coast and landing on the beach. On the water, the Karaburun-Sazan Marine Park invites exploration: you can snorkel in hidden bays, boat into the vast Haxhi Ali Cave, or scuba dive to discover underwater caves and sunken relics. Sazan Island provides a surreal trek through abandoned military barracks overtaken by nature. Closer to town, one can kayak or paddleboard along the calm bay in the morning, or mountain bike through coastal hills and olive groves. From rock climbing and cliff-jumping at certain coastal cliffs to rafting the Shushica River in spring, Vlora packs a lot of adrenaline into one region – perfect for combining beach time with outdoor exploits."
+      },
+      "eco": {
+        "description": "The Vlora area is rich in biodiversity and ideal for eco-tourists. Just north lies the Vjosa-Narta Protected Landscape, including the Narta Lagoon and surrounding wetlands teeming with birdlife – over 190 species recorded, from bright flamingos to pelicans and herons. Guided bird-watching at dawn or dusk is rewarding. Near the lagoon, the village of Narta offers an authentic experience with its traditional wine (made from the local Vlosh grape) and salt pans. In the marine realm, Karaburun Peninsula’s protected waters allow snorkelers and divers to appreciate vibrant sea life (colorful fish, corals, occasional sea turtles) with an emphasis on “leave no trace” principles. Within Vlora city, eco-minded visitors can enjoy the long Lungomare pedestrian promenade and bike lanes – many hotels lend bicycles for free. Nearby, the Soda Forest (Pylli i Sodës) is a coastal pine grove perfect for picnics and nature walks. Vlora’s burgeoning farm-to-table movement means local restaurants source ingredients from nearby farms and the sea, so dining supports local producers. Eco-conscious travelers can also participate in community initiatives like beach clean-ups or tree-planting if timed right. Overall, Vlora provides many ways to enjoy nature responsibly, from wetlands and forests to the open sea."
+      },
+      "gastronomy": {
+        "description": "Food is a highlight in Vlora, making it a fantastic destination for culinary tourists. Its coastal location means seafood is abundant – feast on freshly caught sea bream or bass grilled with local olive oil and lemon, savor bowls of steamed mussels from the bay, or try tender octopus and calamari in Mediterranean-style dishes. Vlora also showcases Albania’s diverse cuisine. Traditional must-tries include tavë kosi (baked lamb and yogurt casserole), fërgesë (pepper, tomato and cheese casserole) scooped up with bread, and byrek pastries with local fillings like wild greens or tomato and onion. Grilled meats like qoftë (herb-seasoned meatballs) and shish kebab are popular, often paired with pickled veggies and feta. Dining options range from rustic family-run tavernas – where everything from the wine to the olive oil is homemade – to modern waterfront restaurants blending Italian and Albanian flavors (a nod to Italy’s influence across the sea). Street food is part of the experience: grab a sufllaqe (Albanian gyro) loaded with rotisserie meat and yogurt sauce for a quick bite, or roasted corn on the cob from a seaside vendor on summer nights. Satisfy your sweet tooth with local desserts like trileçe (tres-leches cake) or baklava from pastry shops, or cool off with gelato along the promenade. Coffee culture is strong: enjoy a leisurely espresso or macchiato at a café – Vlora has adopted both Italian coffee traditions and Turkish-style coffee. Don’t miss tasting the local beverages: the region produces robust red wines (like the Vlosh grape wine and Shesh i Zi) and raki (grape brandy, sometimes infused with herbs or fruits). You can even arrange cooking classes or food tours with locals, learning to make byrek or dolma and turning your meal into a cultural experience. Exploring Vlora through its markets, vineyards, and kitchens is a delicious journey into its history and traditions."
+      }
+    },
+    "dining": {
+      "cuisine_overview": {
+        "characteristics": [
+          "Coastal Mediterranean influence with an emphasis on seafood",
+          "Blend of Albanian tradition and Italian inspiration (pizzas, pastas alongside local fare)",
+          "Fresh produce, olive oil, and wine from the surrounding region"
+        ],
+        "dining_culture": [
+          "Long, leisurely meals especially in the evenings",
+          "Evening strolls (xhiro) often include stopping for coffee or gelato",
+          "Hospitality: many meals end with a complimentary raki or dessert from hosts"
+        ]
+      },
+      "signature_dishes": [
+        {
+          "name": "Tavë Kosi",
+          "description": "Albania’s national dish of lamb baked with a yogurt and rice casserole. Vlora’s version often has a slightly tangy flavor. It’s a comfort food usually found in traditional tavernas.",
+          "best_places": [
+            {
+              "name": "Family-run tavernas",
+              "reason": "Home-style preparation using recipes passed down generations"
+            },
+            {
+              "name": "Restaurant Pulebardha",
+              "reason": "They offer a well-regarded version with local lamb and creamy yogurt sauce"
+            }
+          ]
+        },
+        {
+          "name": "Fërgesë",
+          "description": "A rich casserole of baked peppers, tomatoes, and curd cheese. Served warm as a dip or side with bread. In Vlora it’s a common appetizer in traditional restaurants.",
+          "eating_tip": "Enjoy with fresh bread; pairs nicely with a glass of red wine."
+        },
+        {
+          "name": "Byrek",
+          "description": "Savory flaky pie available with various fillings. In Vlora, popular fillings include cheese and spinach, wild nettles (when in season), or a summer mix of tomato and onion.",
+          "where_to_find": [
+            {
+              "type": "Bakeries & street stalls",
+              "detail": "Mornings are best for freshly baked byrek; try a slice from a local bakery like Furra Bukurie"
+            }
+          ]
+        },
+        {
+          "name": "Seafood platter",
+          "description": "A mix of the day’s fresh catch – typically grilled fish, calamari, shrimp, and mussels. Showcases the bounty of Vlora’s sea.",
+          "best_places": [
+            {
+              "name": "The Yacht Restaurant",
+              "reason": "Upscale presentation and freshness"
+            },
+            {
+              "name": "Beachside taverns in Radhimë",
+              "reason": "Rustic setting with seafood caught that morning"
+            }
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Restaurant Pulebardha (The Seagull)",
+          "type": "Seafood & traditional Albanian",
+          "setting": "Waterfront dining – located by the old port, with tables nearly over the water",
+          "specialties": ["Mixed grilled fish platter", "Shrimp risotto", "Baked eggplant with cheese"],
+          "atmosphere": "Elegant yet relaxed, especially beautiful at sunset",
+          "price_range": "$$$ (20–30€ per person with wine)"
+        },
+        {
+          "name": "The Yacht Restaurant",
+          "type": "Mediterranean fine dining",
+          "concept": "Modern, glass-walled restaurant on the promenade with panoramic bay views",
+          "highlights": ["Fresh pasta alle vongole (clams)", "Prime steaks", "Curated wine list (Albanian and Italian wines)"],
+          "price_range": "$$$ (25–40€ per person)",
+          "note": "Smart casual dress recommended; great for a special night out"
+        },
+        {
+          "name": "Taverna Te Lilo",
+          "type": "Traditional Albanian tavern",
+          "description": "A family-run eatery known for authentic home cooking. The menu features whatever is fresh – often tavë kosi, slow-roasted lamb, stuffed bell peppers, and village salads. Cozy, informal atmosphere with checkered tablecloths and folk decorations. The owners often personally serve guests and may treat you to house-made raki after your meal.",
+          "price_range": "$$ (10–20€ per person)",
+          "must_try": ["Slow-roasted lamb with potatoes", "Homemade pickled vegetables"]
+        },
+        {
+          "name": "Paradise Beach Restaurant (Radhimë)",
+          "type": "Seafood & Pizza",
+          "setting": "Open-air, toes-in-sand dining at Paradise Beach Hotel’s private beach in Radhimë (20 min south of Vlora)",
+          "specialties": ["Stuffed calamari with cheese and herbs", "Grilled prawns with garlic", "Wood-fired pizzas"],
+          "vibe": "Laid-back tropical feel by day, mellow live music at sunset in summer",
+          "price_range": "$$ (15–25€ per person)",
+          "note": "Great for lunch after a swim; family-friendly"
+        },
+        {
+          "name": "Ristorante San Giorgio al Porto",
+          "type": "Italian cuisine & Pizzeria",
+          "description": "A cozy restaurant near the port run by an Albanian-Italian family. Famous for arguably the best pizza in Vlora – true Neapolitan-style from a wood-fired oven – and excellent pasta (try the four-cheese gnocchi). Interior feels like a traditional trattoria with a small patio outside. Popular with Italian expats and locals. Can get busy after 8pm; reservations recommended on weekends.",
+          "price_range": "$$ (10–20€ per person)",
+          "must_try": ["Margherita di bufala pizza", "Homemade gnocchi"]
+        },
+        {
+          "name": "Mr. Biftek",
+          "type": "Grill/Steakhouse",
+          "description": "A local favorite for meat lovers. It’s a no-frills grill house specializing in barbecued meats and steaks. Serves mixed grill platters loaded with lamb chops, homemade sausages, steaks, and chicken, accompanied by fries, grilled veggies, and ajvar (pepper relish). Casual atmosphere – often locals watching football matches on TV while feasting. Portions are generous and prices fair. For adventurous eaters, traditional offal dishes (like liver or even sheep’s head soup in mornings) might be available.",
+          "price_range": "$$ (15–25€ per person)",
+          "note": "Great place to experience Albanian-style barbecue; try with a cold Korça beer."
+        }
+      ],
+      "cafes": [
+        {
+          "name": "Mon Cheri Coffee & Patisserie",
+          "specialty": "Pastries and gelato",
+          "description": "A popular café-patisserie on the Lungomare. By day, locals stop in for espressos and delicious baked goods (notably their croissants and fruit tarts). In the evening, it becomes a relaxing lounge with outdoor seating – perfect for tea, desserts, and people-watching by the sea. Modern interior, wide selection of cakes and Italian-style gelato. A favorite for families and couples on evening strolls."
+        },
+        {
+          "name": "Komiteti Café-Museum (Vlora)",
+          "specialty": "Infused raki and retro ambiance",
+          "description": "A themed café-bar filled with communist-era and folk memorabilia (a smaller sister to Tirana’s famous Komiteti). Serves traditional drinks like Turkish coffee and sherbet by day in a quirky vintage setting. By night, it offers creative cocktails and house-infused raki (try mulberry or saffron raki) in its nostalgic interior or courtyard. Often plays old Albanian music and jazz softly. It’s both a mini-museum and a social spot – a unique atmosphere for a drink."
+        },
+        {
+          "name": "Pasticeri Ajrola",
+          "specialty": "Traditional sweets and gelato",
+          "description": "One of Vlora’s well-known pastry shops. Offers a huge array of treats: sticky baklava and kadaif, creamy cakes, cookies, and a gelato counter. Locals come here in late afternoon for coffee and something sweet. You can try a slice of trileçe cake or local almond cookies with a cappuccino. Indoor and sidewalk seating. Prices are very reasonable, making it easy to indulge. A great spot to experience Albania’s sweet tooth!"
+        }
+      ],
+      "street_food": [
+        {
+          "name": "Sufllaqe",
+          "description": "The local take on a gyro: pita bread wrapped around grilled meat (often chicken or pork from a rotisserie), fresh tomato and onion salad, yogurt-garlic sauce, and sometimes french fries inside. A cheap, filling meal to grab on the go.",
+          "best_spots": "Street stands along the main boulevard and Lungomare in the evenings",
+          "price": "~200–300 Lek (2–3€)"
+        },
+        {
+          "name": "Misër i pjekur (Grilled Corn)",
+          "description": "Charcoal-grilled corn on the cob. Vendors push carts selling these especially on summer nights along the promenade. Lightly salted, the corn is smoky-sweet and eaten as a snack while strolling.",
+          "season": "Summer evenings",
+          "price": "50–100 Lek (€0.50–1)"
+        },
+        {
+          "name": "Petulla",
+          "description": "Albanian fried dough balls (like small donuts). Usually sold in mornings at simple stands or by women outside markets. Served sprinkled with powdered sugar or with a bit of cheese. Soft, chewy and comforting.",
+          "tip": "Best enjoyed fresh and warm; a classic Albanian breakfast treat."
+        },
+        {
+          "name": "Trileçe",
+          "description": "A sponge cake soaked in three milks and topped with caramel – a hugely popular dessert throughout Albania. Some street dessert stalls or bakeries sell single slices ready to eat.",
+          "characteristic": "Extremely moist and sweet, often served chilled (great on a hot day)."
+        },
+        {
+          "name": "Gelato Cart",
+          "description": "In summer, mobile gelato and ice-cream carts are ubiquitous on the Lungomare. They offer classic flavors (chocolate, vanilla) and fruit sorbets. A refreshing must-have during an evening walk by the sea.",
+          "price": "100–150 Lek per scoop (€1 or so)"
+        }
+      ],
+      "drinks": {
+        "non_alcoholic": [
+          {
+            "name": "Turkish Coffee (Kafe Turke)",
+            "description": "Strong, unfiltered coffee served in small cups, often brewed with sugar. A traditional pick-me-up, especially among older generations.",
+            "where": "Local cafés and at the end of meals in traditional restaurants"
+          },
+          {
+            "name": "Espresso Macchiato",
+            "description": "Italian-style coffee culture is prevalent; a macchiato (espresso 'stained' with a bit of milk foam) is a local favorite throughout the day.",
+            "where": "Everywhere – try a seaside café for a coffee with a view"
+          },
+          {
+            "name": "Mountain Tea (Çaj Mali)",
+            "description": "A herbal tea made from wild sage and other local herbs, often gathered from Llogara. Caffeine-free and aromatic, typically enjoyed in the evenings or colder months.",
+            "where": "Traditional restaurants or homes (often served with honey)"
+          }
+        ],
+        "alcoholic": [
+          {
+            "name": "Raki",
+            "description": "Strong grape brandy, the national spirit. In Vlora, homemade raki is common – sometimes infused with fruits like mulberry or herbs. Served in small shot glasses, usually sipped slowly.",
+            "drinking_custom": "Often offered as a welcome or farewell drink or after a hearty meal."
+          },
+          {
+            "name": "Local Wine",
+            "description": "Vlora’s region produces wine, especially the red Vlosh (unique to Narta area) and other Albanian varieties like Shesh i Zi (red) and Shesh i Bardhë (white). Many restaurants carry local wines.",
+            "tasting_note": "Reds are typically robust and fruity; try visiting a small winery in Narta village for an authentic tasting experience."
+          },
+          {
+            "name": "Albanian Beer",
+            "description": "Beers such as Korça, Tirana, and Elbar are widely available. There’s also a small craft beer scene emerging in Albania. A cold beer pairs perfectly with grilled meats or a beach day.",
+            "tip": "Try Korça Pilsner for a light lager or Stela for a slightly stronger brew."
+          }
+        ]
+      }
+    },
+    "shopping": {
+      "markets": [
+        {
+          "name": "Vlora Public Market (Bazaar)",
+          "description": "A bustling daily bazaar a few blocks from Flag Square (around Ali Demi Street). In the morning (7am–12pm), local farmers sell fresh produce: seasonal fruits (figs, pomegranates, citrus), vegetables, herbs, olives, plus local cheese, honey, and eggs. There’s also a fish section with the day’s catch (eels, sardines, sea bass). The market is an experience – vendors might offer you a taste of fruit as you browse. Best to visit early when it’s most lively. Bring small Lek cash; haggling is mild as prices are usually low and posted."
+        }
+      ],
+      "souvenirs": [
+        {
+          "type": "Traditional Handicrafts",
+          "items": [
+            "Woven rugs and kilims – often with geometric patterns (some sourced from northern Albania)",
+            "Embroidered linens – tablecloths and doilies hand-stitched by local artisans",
+            "Copper crafts – engraved coffee sets and decorative plates (echoing Ottoman-era designs)",
+            "Olive wood carvings – bowls, cutting boards or figurines made from local olive trees"
+          ],
+          "where_to_buy": "Small gift shops in the Old Town and summer artisan stalls along the Lungomare (evening crafts market in peak season)."
+        },
+        {
+          "type": "Albania-themed Gifts",
+          "items": [
+            "Keychains and magnets featuring Vlora’s sights (Independence Monument, beaches)",
+            "T-shirts and bandanas with the Albanian double-headed eagle",
+            "Miniature musical instruments (like a çifteli lute or a def drum)"
+          ],
+          "tip": "These are commonly found at kiosks near tourist spots; feel free to gently bargain if buying several."
+        },
+        {
+          "type": "Local Food Products",
+          "items": [
+            "Extra virgin olive oil – often sold in reused bottles at markets, from nearby Kaninë groves (rich, peppery flavor)",
+            "Wine – bottles of local Vlosh red wine or other regional wines (ask for proper corked bottles for travel)",
+            "Raki – grape or mulberry raki, sometimes in unassuming plastic bottles (for the adventurous souvenir)",
+            "Honey – jars of local honey (sage or wildflower varieties) sometimes sold with a piece of honeycomb inside",
+            "Dried herbs – mountain tea, oregano, and bay leaves gathered from Llogara or local gardens"
+          ],
+          "where_to_buy": "Vlora Public Market or small 'Produkte Vendase' (local products) shops. Buying directly from producers (at the market or farms) supports local families."
+        }
+      ],
+      "boutiques": [
+        {
+          "name": "Justin Godar Street Boutiques",
+          "description": "The main boulevard in the city center has numerous boutique shops selling clothing, shoes, and accessories. Many stores carry Italian and Turkish brands – everything from casual beachwear to formal attire. There are also shops with locally made leather goods (jackets, bags, shoes) that offer high quality at good prices. Most boutiques open ~9am and often close for an afternoon siesta (2–5pm) then reopen until 9pm.",
+          "shopping_tip": "Prices in boutiques are generally fixed, but if you’re buying multiple items, you can politely ask if there’s a discount for cash."
+        },
+        {
+          "name": "Lungomare Summer Stalls",
+          "description": "In July and August, the Lungomare promenade fills with temporary evening stalls. After sunset, vendors sell everything from beach toys and inflatables to handmade jewelry and art. It’s a lively open-air market for souvenirs like painted seashells, bead bracelets, and caricature portraits drawn on the spot. You can also find snacks like cotton candy and roasted nuts adding to the carnival atmosphere. It's a fun place to browse after dinner.",
+          "shopping_tip": "Since these stalls don’t have set prices displayed, friendly haggling is expected. Bundle items for a better deal, especially later at night when vendors are close to closing."
+        },
+        {
+          "name": "Vlora Shopping Mall",
+          "description": "A small modern mall near the city center. It houses a supermarket (for any travel essentials) and a handful of brand-name stores, plus a pharmacy and electronics shop. Useful if you need a quick purchase like swim goggles, SIM cards, or replacement clothing. Not a major attraction, but convenient for practical needs.",
+          "note": "Mall hours are roughly 10am–9pm; it’s air-conditioned – a quick escape from the heat midday."
+        }
+      ],
+      "shopping_tips": [
+        "Cash is king in most markets and small shops (carry lek, as euros might be accepted informally but at a poor rate). ATMs are easy to find in the city for local currency.",
+        "Most vendors are honest and prices are fair, so heavy bargaining isn’t the norm. If negotiating (with taxi drivers or souvenir stalls), do it politely with a smile.",
+        "Shops (especially family-run ones) often close in early afternoon for a few hours and reopen in the late afternoon. Plan your shopping accordingly.",
+        "Learning a few Albanian phrases (like “Sa kushton?” for “How much does it cost?”) can enhance the experience and may even endear you to shopkeepers, sometimes leading to small discounts or extras."
+      ]
+    },
+    "nightlife": {
+      "bars": [
+        {
+          "name": "Komiteti Café-Bar",
+          "concept": "Retro Albanian theme bar",
+          "features": ["Decorated with antique memorabilia", "Serves house-infused raki and classic cocktails", "Courtyard seating with old-time ambiance"],
+          "signature_drinks": ["Infused mulberry raki flights", "Vintage cocktails with Albanian twists"],
+          "vibe": "Quirky, laid-back, and nostalgic"
+        },
+        {
+          "name": "Lime Lounge",
+          "concept": "Chic cocktail lounge",
+          "features": ["Modern interior and outdoor terrace on Lungomare", "Creative cocktails and DJ music on weekends"],
+          "crowd": "Trendy younger crowd, dressy casual atmosphere",
+          "note": "Great for pre-club drinks; try their mojitos and enjoy the sea breeze"
+        },
+        {
+          "name": "Mangazina (Mangala by Wow)",
+          "concept": "Open-air cocktail bar & DJ venue",
+          "features": ["Known for skilled mixologists", "Frequent DJ sets playing lounge and deep house music", "Tropical décor with palm fronds and fairy lights"],
+          "vibe": "Beach party atmosphere, especially lively in mid-summer",
+          "note": "Can get crowded after 10pm; no cover charge typically"
+        }
+      ],
+      "clubs": [
+        {
+          "name": "Havana Beach Club",
+          "style": "Open-air beach club",
+          "location": "On the sand just south of central Vlora",
+          "highlights": ["Tropical theme with palm trees and neon lights for a summer vibe", "Themed parties (Latin nights, EDM DJs)", "Occasional live performances by popular Albanian artists"],
+          "busy_season": "Peaks in July–August weekends (dancing until dawn)",
+          "note": "Dress to impress but beachy (summer chic); usually free entry or a small cover on special event nights"
+        },
+        {
+          "name": "Stereo Club (Summer Depot)",
+          "style": "Seasonal outdoor club",
+          "music": "Mix of Balkan pop, reggaeton, and international hits",
+          "crowd": "Young, energetic crowd (many college-age)",
+          "notes": ["Gets going after midnight", "Casual dress code but trendy attire common", "Affordable drink prices and often very packed dance floor"]
+        },
+        {
+          "name": "Club Orange (example seasonal name)",
+          "style": "Pop-up summer disco",
+          "music": "Techno and House nights alternating with live DJ sets of Top 40",
+          "feature": "Open space on the edge of town converted into a club for the summer, often with themed decor like neon lights or foam parties",
+          "hours": "Opens around 11pm, parties till 4am",
+          "note": "Check local posters for current club names – venues sometimes change name or management each season"
+        }
+      ],
+      "cultural_nightlife": [
+        {
+          "name": "Petro Marko Theater (Evening Shows)",
+          "description": "Vlora’s city theater occasionally hosts evening performances – from Albanian plays (with limited English, but music or dance shows can be enjoyed by anyone) to classical concerts. Check schedules at the theater or ask locally. Attending a performance here offers insight into the local arts scene and is a culturally enriching night out."
+        },
+        {
+          "name": "Summer Fest Open-Air Concerts",
+          "description": "In summer months, the city organizes free outdoor concerts, often in Flag Square or on the beach. These events range from contemporary Albanian pop and rock bands to traditional folk music ensembles. Families, teens, and tourists all gather for these communal celebrations under the stars. Independence Day (Nov 28) is especially noteworthy, with live music, dancing and fireworks filling the night.",
+          "season": "Primarily July–August (and Independence celebrations in November)"
+        },
+        {
+          "name": "Live Music Bars & Cafés",
+          "description": "Several bars and cafés feature live music on certain nights. For example, a waterfront restaurant might have a live band playing Albanian rock or jazz on weekends, or an acoustic singer might perform at a lounge bar. These venues provide a relaxed atmosphere to enjoy music without the nightclub intensity. Keep an ear out or ask locals about who’s playing where – performances are often advertised on social media or posters around town."
+        },
+        {
+          "name": "Folk Dance Nights",
+          "description": "Occasionally, especially during tourist season or festivals, restaurants or cultural centers host traditional dance evenings. Dancers in folk costumes perform Labëria dances, and musicians play instruments like the lahuta (lute) and fyell (flute). Visitors are often invited to join a simple valle (circle dance) by the end. It’s a fun way to engage with local culture. These events are usually early evening and family-friendly."
+        }
+      ]
+    },
+    "transportation": {
+      "arrival_options": [
+        {
+          "method": "Air",
+          "details": "No international airport in Vlora (a new airport near the city is under construction, expected post-2025). The closest major airport is Tirana International Airport (TIA), ~150 km north. From TIA, travelers can take a shuttle or taxi to Tirana (30 min) and then a direct bus to Vlora (~3–3.5 hours, 600–800 Lek), or arrange a private transfer/taxi straight to Vlora (~2.5 hours drive)."
+        },
+        {
+          "method": "Bus",
+          "details": "Frequent buses and minibuses (furgons) connect Vlora with other Albanian cities. From Tirana, buses leave nearly every hour (2.5–3.5 hours journey). There are also daily buses from Saranda (via the coastal road, ~5 hours), from Gjirokastra (~3 hours), and from Berat (~2 hours). Note: Vlora’s 'bus station' is not a single terminal – different buses depart from different locations (e.g., Tirana buses often depart near Flag Square/Skela). Tickets are usually bought on board; ask locals or your hotel for the exact departure point."
+        },
+        {
+          "method": "Car",
+          "details": "Vlora is accessible via well-maintained highways. Driving from Tirana via the A2 highway takes ~2.5 hours. The route is straightforward, passing through Fier. From the south (Saranda/Himara), the SH8 coastal road offers a stunning drive over Llogara Pass (allow ~4–5 hours from Saranda). The scenic drive offers viewpoints but is winding – plan for extra time. Plenty of gas stations and roadside cafés are along major routes. In summer, traffic can be heavier, especially on weekends."
+        },
+        {
+          "method": "Sea (Ferry)",
+          "details": "Vlora’s port has ferry connections to Italy. Daily overnight ferries link Vlora with the port of Brindisi, Italy (7–8 hours crossing). In summer, there may be faster hydrofoil passenger ferries. The ferry terminal (Porti i Vlorës) is north of the city center. Arrive 1–2 hours before departure for customs and boarding. On arrival in Vlora, taxis are available at the port (5 min ride to center). The ferry ride offers a scenic approach to Vlora, especially at sunrise when the bay and mountains come into view."
+        }
+      ],
+      "local_transport": [
+        {
+          "type": "Walking",
+          "description": "Walking is one of the best ways to explore central Vlora. The main sights (Flag Square, museums, Lungomare) are within a reasonable distance. The Lungomare promenade is pedestrian-friendly and perfect for strolls. Sidewalks exist on major streets, though be cautious crossing – not all drivers yield to pedestrians. In the evenings, join the locals in the xhiro (stroll) tradition along the waterfront."
+        },
+        {
+          "type": "Public Bus",
+          "description": "Vlora has a few city bus lines (often blue or red buses). One useful line runs from the city center (Flag Square) down the coastline (Lungomare) towards Uji i Ftohtë and back. Fare ~30 Lek (paid to a conductor on board). Buses have no strict timetable but come roughly every 15–20 minutes and run until around 9pm. They can be crowded in peak hours. Destinations may not be clearly marked – ask locals if unsure which bus to take."
+        },
+        {
+          "type": "Taxi",
+          "description": "Taxis are plentiful and relatively affordable. Official taxis are usually yellow or white, with a taxi sign and meter. Always ensure the meter is used or negotiate a fare before starting. Sample fares: ~300–500 Lek for short city rides. For trips outside town (e.g., to Zvernec Monastery or Kaninë village), negotiate a round-trip price (e.g., ~2000 Lek including wait time). Taxis can be hailed on the street, found at stands near the port and Flag Square, or called via phone (your hotel can help)."
+        },
+        {
+          "type": "Bicycle",
+          "description": "Vlora’s flat coastal terrain makes cycling enjoyable. There are bike lanes along parts of the Lungomare. Many hotels and hostels (e.g., Vlora Backpackers) lend bikes to guests, and bike rentals are available especially in summer. Cycling from the center to the beaches in Uji i Ftohtë or even up to Narta is feasible. If biking, wear a helmet (not legally required for adults, but safer) and use lights/reflectors at night. Be cautious at intersections since some drivers may not expect cyclists."
+        },
+        {
+          "type": "Car Rental",
+          "description": "Renting a car gives freedom to explore beyond Vlora. Several agencies operate in Vlora (or you can rent in Tirana and drive down). Prices ~€30–50/day. Driving in Vlora city is moderate in traffic, though summer can see congestion by the beaches. Parking is challenging along the promenade in high season; many hotels offer parking for guests. If driving in the region: main roads are paved and in decent condition, but rural roads can be bumpy. Drive defensively – Albanian drivers may overtake aggressively. Always carry your license, passport, and rental papers due to occasional police checks."
+        }
+      ],
+      "regional_excursions": [
+        {
+          "destination": "Berat (UNESCO Old Town)",
+          "options": [
+            {
+              "mode": "Bus",
+              "details": "Daily furgon (minibus) from Vlora to Berat (~2 hours). Leaves in morning, returns afternoon. Cost ~500 Lek one way."
+            },
+            {
+              "mode": "Guided Tour or Taxi",
+              "details": "Private day tours can be arranged via agencies or hire a taxi (~1.5 hours each way). A day trip allows exploration of Berat’s castle and museum quarter."
+            }
+          ],
+          "note": "Berat’s Ottoman architecture and hilltop castle make a worthwhile day trip from Vlora."
+        },
+        {
+          "destination": "Apollonia Archaeological Park",
+          "options": [
+            {
+              "mode": "Bus + Taxi",
+              "details": "Take a bus from Vlora to Fier (~1 hour), then a short taxi (15km) to Apollonia ruins. Buses to Fier leave frequently (every 30–60 min)."
+            },
+            {
+              "mode": "Car",
+              "details": "Drive ~1 hour north to Apollonia. Easy half-day trip if you have a vehicle; you can also stop at Ardenica Monastery nearby."
+            }
+          ],
+          "note": "Apollonia was an ancient Greek/Roman city; you can see its amphitheater, temples, and monastery. Best visited in mornings to avoid midday heat."
+        },
+        {
+          "destination": "Albanian Riviera Beaches",
+          "options": [
+            {
+              "mode": "Car",
+              "details": "Drive south over Llogara Pass to Dhërmi (1.5–2h) or Himarë (2–2.5h). Enjoy stunning views; road is curvy."
+            },
+            {
+              "mode": "Bus",
+              "details": "In summer, daily buses go Vlora–Himarë–Sarandë in the morning (~4–5h to Sarandë, shorter for stops in between). Hop off in Dhërmi or Himarë and catch return next day or so."
+            }
+          ],
+          "note": "Though far for a single day, some ambitious travelers do a long day trip to Dhërmi. Better is an overnight, but if short on time, consider a very early start."
+        },
+        {
+          "destination": "Llogara National Park",
+          "options": [
+            {
+              "mode": "Minibus",
+              "details": "Furgons to Himarë/Sarandë can drop you at Llogara Pass (about 1h 15m from Vlora). From drop-off, trails and park facilities are accessible."
+            },
+            {
+              "mode": "Car",
+              "details": "Drive ~1 hour to the park. You can spend the day hiking or even stay overnight at a lodge in the cool pine forest."
+            }
+          ],
+          "note": "If you get dropped off by bus, coordinate pickup for return as public transport timing back to Vlora can be infrequent in late day."
+        }
+      ]
+    },
+    "accommodation": {
+      "by_category": [
+        {
+          "category": "Luxury",
+          "options": [
+            {
+              "name": "Maritim Marina Bay Resort & Spa",
+              "features": ["5-star seafront resort a few km south of Vlora", "Private sandy beach and large infinity pool", "Spa center with sauna, massage, and small casino", "Multiple restaurants on-site (fine dining, beach bar)"],
+              "description": "A full-service luxury resort where guests often spend their entire vacation on-site. Rooms are modern and elegant, most with sea-view balconies. Located outside the city bustle, ideal for a secluded retreat (taxi needed to go into town). Popular with couples and families seeking a high-end beach holiday."
+            },
+            {
+              "name": "Hotel Liro",
+              "features": ["4-star boutique hotel built into cliffs south of Vlora", "All rooms with balconies overlooking open sea", "Stairway access to a private rocky beach and natural saltwater pool", "On-site restaurant with panoramic terrace"],
+              "description": "Known for its breathtaking location, this hotel offers tranquility and stunning views. Guests wake to the sound of waves and can swim in crystal-clear water below. The style is a bit classic, but very clean and well-maintained. Great for a romantic getaway away from city noise."
+            },
+            {
+              "name": "Regina City Hotel & Spa",
+              "features": ["Modern 4-star hotel on the main promenade", "Rooftop pool and bar with 360° city and sea views", "Contemporary, bright rooms (many with sea-view balconies)"],
+              "description": "A newer hotel in the heart of Vlora’s Lungomare. It combines convenience (beach, restaurants at doorstep) with upscale amenities. The rooftop pool bar is a highlight for evening cocktails. Can be lively due to central location. Excellent value for the quality – suits those who want modern comfort in the middle of the action."
+            },
+            {
+              "name": "Vila Elarad",
+              "features": ["Boutique villa-hotel in a restored historic villa", "Lush private garden and small pool", "Only a handful of suites, very personalized service"],
+              "description": "A hidden gem near Flag Square offering an intimate, upscale stay. The decor is vintage elegant (four-poster beds, antique furniture) combined with modern comforts. Guests rave about the homemade breakfast in the garden and the attentive staff. Perfect for honeymooners or those seeking privacy and old-world charm."
+            }
+          ]
+        },
+        {
+          "category": "Mid-range",
+          "options": [
+            {
+              "name": "Hotel Partner",
+              "features": ["3-star superior hotel near Flag Square (city center)", "Modern, clean rooms with A/C, Wi-Fi, minibar", "Free private parking (useful for self-drivers)"],
+              "description": "A popular mid-range choice for tourists and business travelers alike. Its central location makes it easy to walk to historical sites and the waterfront. The hotel is known for friendly service – staff can assist with directions or arrangements. Breakfast buffet is included and offers both local and international options. Reliable and comfortable as a base for exploring."
+            },
+            {
+              "name": "Hotel Bologna",
+              "features": ["Established 3-star seaside hotel near the port", "On-site Italian restaurant renowned for pizza & pasta", "Spacious, classic-decor rooms (some with sea-view balconies)"],
+              "description": "A long-running hotel that has built a reputation on its excellent restaurant (the Italian owner ensures authentic cuisine). Many guests are drawn by the food and then enjoy the stay. Rooms are not ultra-modern but are well kept and large. Its location by the old beach area means evenings are lively nearby, but the hotel itself is quiet at night. Good mix of local vibe and comfort."
+            },
+            {
+              "name": "Hotel Piazza",
+              "features": ["Charming boutique hotel in the historic old town (pedestrian zone)", "Renovated building with character (stone walls, unique decor)", "Café and craft shops right outside the doorstep"],
+              "description": "A small hotel located on a quiet plaza in the heart of old Vlora. Each room has individual decor, blending traditional elements with modern touches. Because it’s on a car-free street, it offers a peaceful atmosphere – though you might need to walk a short distance with luggage. Guests love the feeling of 'living like a local', with cafés and the bazaar street steps away. Great choice for those who value location and character over large scale amenities."
+            }
+          ]
+        },
+        {
+          "category": "Budget",
+          "options": [
+            {
+              "name": "Vlora Backpackers Hostel",
+              "features": ["Homey hostel run by a local family", "Dorm beds and a couple of private rooms (shared bathrooms)", "Garden courtyard with fruit trees and communal kitchen"],
+              "description": "The go-to spot for budget travelers and solo backpackers. It’s essentially a family house converted into a hostel, about 10 minutes’ walk from the main boulevard and beach. Decor is simple and a bit old-fashioned, but the atmosphere is incredibly welcoming. Highlights include the shaded garden where guests gather (often the owners organize group dinners or outings) and free bicycle use. Great for meeting fellow travelers; many arrive solo and leave with new friends. Cleanliness is maintained well; the friendly hosts will make you feel at home."
+            },
+            {
+              "name": "Hotel 4 Stinet",
+              "features": ["Small family-run hotel (named “4 Seasons” humorously)", "Basic private rooms with en-suite bathrooms and air conditioning", "Located near the old train station in a quiet area"],
+              "description": "A simple 2-star hotel that is a hidden gem for budget-conscious visitors who prefer privacy over a hostel. Rooms are no-frills (plain decor, older furniture) but clean and equipped with necessities like AC and TV. It’s about a 15-20 min walk to the main sights/beach, or a quick inexpensive taxi ride. The real plus is the extremely low room rates and the kind owners. While they may not speak much English, they communicate with hospitality and help as much as possible (often using translation apps). Many stays include a basic homemade breakfast. Ideal if you just need a safe, clean place to sleep while exploring during the day.",
+              "note": "Short-term apartment rentals are another budget option in Vlora – many modern flats along Lungomare are listed on Airbnb/Booking, offering kitchens and multiple bedrooms at good rates, especially outside of July-August."
+            }
+          ]
+        }
+      ],
+      "unique_stays": [
+        {
+          "name": "Llogara Tourist Village",
+          "description": "An alpine resort inside Llogara National Park (approx. 1 hour from Vlora). Guests stay in cozy wooden chalets and cabins among pine forests at 1000 m altitude. It’s a refreshing escape from the coast – expect cool evenings where you might light a fireplace even in summer. Waking up to crisp mountain air and possibly deer roaming nearby is a highlight. There’s an on-site restaurant serving mountain specialties (like game meat, local yogurt). This stay offers a stark contrast to the beach: perfect for hikers or nature lovers who want to experience a night in the mountains."
+        },
+        {
+          "name": "Narta Lagoon Eco-Huts",
+          "description": "A couple of rustic eco-cottages near the Narta Lagoon, run by a local community project. These simple huts (glamping style) are about immersion in nature: think solar power, bucket showers, and oil lamps. The big draw is the setting – right by the salt pans and lagoon where flamingos feed. At night, there’s almost no light pollution, so the stars are spectacular. Some stays include guided nature walks or fishing with locals. It’s very off-the-grid (bring mosquito repellent for the wetlands!). This is for adventurous souls who want to directly support conservation and local initiatives while enjoying a unique environment."
+        },
+        {
+          "name": "Heritage Villa Stay (e.g., Hotel Nacional)",
+          "description": "Vlora has a few early-20th-century villas that have been converted into guesthouses or boutique hotels. Staying in one feels like stepping back in time. One example is Hotel Nacional, housed in an old Italianate mansion rumored to have its ghost stories. Rooms in such villas often feature antique furniture, high ceilings, and vintage charm, though amenities can be basic. The experience is atmospheric – some even have a piano in the lobby or a garden courtyard. If you love historic ambiance, this is a memorable way to spend a night. (If not staying, you can sometimes visit these villas by having a drink in their bar or lobby.)"
+        }
+      ],
+      "tips": [
+        "High season (July–August) is extremely busy – book your lodging well in advance for these months and expect higher prices. For a more relaxed experience and better rates, consider visiting in June or September when the weather is still great but crowds are fewer.",
+        "Many hotels include breakfast in the rate (often a mix of eggs, cheese, fruits, and pastries). If that’s important to you, check when booking.",
+        "Air conditioning is standard in most accommodations – a must in summer – but very small guesthouses or older villas might not have an elevator or strong Wi-Fi in all rooms, so inquire if you have specific needs.",
+        "If you’re driving, opt for accommodation with parking or ask them in advance about where to park – parking along the main strips can be challenging in summer. Some hotels have arrangements for guest parking.",
+        "Consider location based on your interests: staying along Lungomare puts you in the heart of nightlife and beaches, staying near Flag Square immerses you in historical sights and city life, while staying slightly outside (like in Radhimë or up in Kaninë hills) can offer peace and views, with the trade-off of needing transport to get around. Taxis are affordable, so even if you stay a bit out of the center, you can reach the action easily."
+      ]
+    },
+    "hidden_gems": [
+      {
+        "name": "Kaninë Village Life & Home Cooking",
+        "description": "Many visitors go to Kaninë village for the castle views, but few linger in the village itself. Wandering through Kaninë’s narrow lanes, you get a feel for authentic Albanian rural life just minutes from the city. You’ll see locals tending gardens or chatting under grapevine trellises, and old stone houses that echo a bygone era. If you can arrange it (perhaps through a guide or hospitable locals), having a meal with a Kaninë family is unforgettable – homemade goat cheese, fresh garden salad, chicken slow-cooked in a wood oven, all served in a courtyard while the hosts share stories (with translation if needed). Even without a formal arrangement, a stop at the tiny village café can lead to friendly encounters. Kaninë offers a slice of traditional life and warm hospitality overlooked by most tourists."
+      },
+      {
+        "name": "Waterfalls of Shushica Canyon",
+        "description": "About 20–30 km east of Vlora lies the Shushica River valley, a beautiful off-the-beaten-path area. Tucked in this valley are small waterfalls and natural pools that locals know but tourists rarely see. One gem is Cerkovina Waterfall near the village of Cerkovinë – a modest cascade in lush greenery. Getting there is half the fun: you’ll pass olive groves, shepherds with their flocks, and quiet village scenes. Because there are no marked trails, going with a local guide is best. For an even richer experience, go foraging on the way – in spring you might find wild asparagus or herbs, in autumn wild pomegranates and figs. Bring a picnic (with village bread, cheese, perhaps some of that foraged goodness) to enjoy by the waterfall. It’s a fairy-tale escape into Albanian countryside that hardly any outsiders experience."
+      },
+      {
+        "name": "Family Winery Visit in Narta",
+        "description": "While Vlora isn’t known for large commercial wineries, the outskirts (especially Narta village) are full of family vineyards. Some local families are happy to welcome visitors for informal wine tastings if you express interest. You might end up in a rustic backyard winery – imagine sitting under a pergola of grapevines, sampling ruby-red Vlosh wine poured straight from the barrel or clay amphora. It’s unpretentious – chickens pecking nearby, a friendly grandfather showing you the cellar. If you visit in September/October during the grape harvest, you could even join in picking grapes or see traditional grape stomping and raki distillation in action. By late afternoon, you’ll likely be clinking glasses of young wine with your hosts, nibbling on figs and local cheese. It’s an intimate peek into the region’s winemaking tradition and village life. (Tip: Ask at your hotel or a tourism office if they can connect you with a local family winery in Narta.)"
+      },
+      {
+        "name": "Camping on a Secret Beach (Grama Bay)",
+        "description": "Grama Bay on the remote Karaburun Peninsula is a historic cove mostly seen briefly on boat tours – but intrepid travelers can actually camp there for a true Robinson Crusoe experience. To do this, you need to arrange with a boat operator in Vlora to drop you off and pick you up the next day (ensure the weather is calm!). Camping is wild – there are no facilities except maybe a small freshwater spring trickling in a cave – so you must bring your own gear, food, and water, and of course pack all waste out. The experience is unparalleled: by day, you’ll have the little pebble beach and clear waters all to yourself to swim and explore. Hike around to find ancient Greek and Roman inscriptions carved into the cliffs (sailors left their marks when this was a safe harbor in antiquity). By night, with zero light pollution, the stars and Milky Way shine brilliantly overhead and the only sound is the gentle lapping of waves. At dawn, you can climb to a viewpoint or a hermit’s cave above the bay to watch the sunrise ignite the Ionian Sea. It’s off-the-grid and requires preparation, but if you crave solitude and adventure, a night at Grama Bay is magical and rare."
+      },
+      {
+        "name": "Farmhouse Cooking Class",
+        "description": "If you’re passionate about food, consider seeking out a local farmhouse for a cooking lesson – an experience not widely advertised, but unforgettable. In the villages around Vlora (like Tragjas or Novoselë), some families will teach visitors traditional cooking by arrangement. Imagine spending a day on a farm: you might help milk a goat, pick vegetables and herbs from the garden, and then learn to roll dough to make byrek or dolma under the guidance of a grandmother who’s been doing it her whole life. Communication might be a challenge (lots of gestures and smiles if they don’t speak English), but the process itself is the reward. You knead, chop, and taste as you go, then bake in a wood-fired oven. By early afternoon, you’re sitting down with the family to eat the feast you helped prepare – delicious, authentic, and earned with your own hands. You leave not only with recipes, but with the feeling of having been adopted by an Albanian family for a day. To arrange such an experience, ask around small guesthouses or tour guides – often it’s through word of mouth."
+      },
+      {
+        "name": "Exploring Cold War Relics",
+        "description": "Albania’s communist past left many relics, and Vlora has some intriguing ones for history buffs. Near Orikum is the Pashaliman Naval Base – in the 1950s, this was a Soviet submarine base (the only one they had in the Med). Today it’s partly an Albanian military zone, but with permission or on specific tours, you can see the old submarine pens (tunnels in the hillside where subs hid) and perhaps rusting remains of naval equipment. Even without accessing the base, keen eyes around the Orikum coastline might spot abandoned pillboxes or naval facilities. Another relic: the countless concrete bunkers dotting the landscape. Throughout Vlora’s beaches, fields, even backyards, these small dome-like bunkers from the Hoxha era can be found. A quirky thing some locals do is repurpose bunkers – you might stumble on one turned into a beach bar seating area or an impromptu photo spot. There’s even a local guide who offers a “bunker tour” – taking visitors to a cluster of seaside bunkers, sharing stories of how people sheltered in them, and setting up a cozy makeshift café inside one (with lanterns and cushions) for a unique coffee break. Always exercise caution if you venture into abandoned military structures, and ensure any official tours or permissions are arranged – it’s fascinating but should be done safely and respectfully."
+      },
+      {
+        "name": "Sunrise at Kuzum Baba or Llogara Pass",
+        "description": "Sunsets get all the glory in Vlora, but sunrise can be equally magical and is often experienced only by locals. For photographers or early risers, this can be a hidden delight. In Vlora city, hike or drive up to Kuzum Baba hill predawn. In the blue-gray early light, you’ll likely have the panoramic terrace to yourself. As the sun peeks over the mountains, the bay and city slowly illuminate. You might hear the first call to prayer echo from a mosque below and birds starting their day – it’s incredibly peaceful and an opposite vibe to the lively sunset gatherings. Alternatively, if you find yourself in Llogara National Park (or don’t mind a very early drive), catch sunrise from a viewpoint on the Llogara Pass road. One spot, called Kalaja e Rrenuar (the “Ruined Castle”), overlooks the plain toward Vlora and the Narta Lagoon. When the sun rises here, it casts golden light over the lagoon and sea, sometimes revealing morning mists in the valleys. You might even see flamingos stirring in the lagoon in that quiet dawn hour. Experiencing Vlora at sunrise – whether from the city’s hill or the mountain pass – offers a soulful, reflective moment that contrasts beautifully with the region’s busy days."
+      }
+    ],
+    "travel_tips": [
+      {
+        "category": "Money",
+        "tips": [
+          "Currency: Albanian Lek (ALL). €1 is roughly 110–115 Lek (as of 2025). Cash is widely used; many small vendors are cash-only.",
+          "ATMs: Found throughout Vlora (banks, main streets, malls). They accept international cards and usually offer English menus. Withdraw in Lek for best rates.",
+          "Credit Cards: Accepted in mid-range to upscale hotels, restaurants, and shops. Smaller establishments, local eateries, and markets will likely be cash only, so carry enough Lek for daily needs.",
+          "Tipping: Not obligatory but appreciated. In restaurants, leaving a 5–10% tip for good service is common (some bills include service – check the receipt). For cafes or taxis, rounding up is a nice gesture (e.g., pay 300 Lek on a 280 Lek bill). Hotel staff (bellhops, cleaners) might receive 100–200 Lek for helpful service but it’s discretionary.",
+          "Bargaining: Prices in stores are fixed. In markets or with taxis, gentle negotiation is possible – for example, ask 'Can you do a better price if I buy two?' at a souvenir stall. Always maintain a friendly tone; Albanians are generally fair with tourists."
+        ]
+      },
+      {
+        "category": "Language & Etiquette",
+        "tips": [
+          "Language: Albanian is the official language (in Vlora they speak the southern Tosk dialect). Many people, especially under 40 or in tourist areas, speak some English. Italian is also very commonly understood due to historical ties and Italian TV. Learning a few Albanian phrases (hello = Përshëndetje, thank you = Faleminderit) will delight locals.",
+          "Greetings: It’s polite to say 'Mirëdita' (good day) or 'Tungjatjeta' (hello, more formal) when meeting someone. Handshakes are common between men; women may kiss cheeks with people they know well (usually two kisses). As a foreigner, a friendly handshake and smile works fine. Saying goodbye, you can use 'Mirupafshim' (goodbye) or the informal 'Ciao'.",
+          "Cultural Points: Albanians are known for hospitality. If you’re a guest or even a new acquaintance, locals might go out of their way to help or invite you for coffee. It’s polite to accept at least a coffee or drink – it’s a big part of socializing. When entering someone’s home, bringing a small gift (sweets, a bottle of something from your country) is appreciated. Complimenting the food or saying something nice about Albania will warm hearts (e.g., praise the beauty of Vlora or the taste of the food).",
+          "Personal Space: Albanians stand a bit closer when chatting and are expressive speakers (talking loudly or using hand gestures doesn’t mean they’re angry – it’s normal). Don’t be surprised if people you meet ask personal questions like 'Are you married?' or 'How do you like Albania?' – it’s a friendly interest.",
+          "Dress Code: In Vlora, especially in summer, dress is very casual – shorts, sundresses, sandals are all fine in town. Beachwear (swimsuits) is for the beach; in town cover up a bit more (a shirt or cover-up over swimwear is appropriate away from the beach). When visiting religious sites, dress modestly (no short shorts or tank tops – carry a scarf or wear longer pants for those visits)."
+        ],
+        "basic_phrases": [
+          {"albanian": "Përshëndetje / Mirëdita", "english": "Hello / Good day"},
+          {"albanian": "Faleminderit", "english": "Thank you"},
+          {"albanian": "Ju lutem", "english": "Please / You're welcome"},
+          {"albanian": "Sa kushton?", "english": "How much does it cost?"},
+          {"albanian": "Ku është...?", "english": "Where is...? (e.g., 'Ku është plazhi?' = Where is the beach?)"},
+          {"albanian": "Gëzuar!", "english": "Cheers! (Toasting or celebrating)"}
+        ]
+      },
+      {
+        "category": "Safety",
+        "tips": [
+          "Vlora is generally a safe city. Violent crime is extremely rare and not directed at tourists. You can comfortably walk the main areas even late at night – you’ll find many locals out and about until late, especially in summer.",
+          "Petty theft: As with any tourist spot, be mindful of pickpockets in crowded areas like markets or packed buses – keep your bag zipped and don’t flash expensive items. Incidents are uncommon but basic precautions help.",
+          "Beach safety: When swimming, note that city beaches have shallow, calm waters – relatively safe. On remote beaches, there may be no lifeguards. Also, don’t leave valuables unattended on the beach when you go for a dip; if alone, ask a nearby family or couple to keep an eye out. Many beach bars also will hold your items if you ask.",
+          "Traffic: Be careful crossing streets – cars and especially scooters might not always stop for pedestrians even at zebra crossings. Cross at marked crossings when possible, but always double-check before stepping out. At night, stick to well-lit streets; stray dogs may roam but they generally ignore people (avoid petting them).",
+          "Emergency numbers: Police 129, Ambulance 127, Fire 128 – save these on your phone. For any issue, you can also ask locals for help; most will be eager to assist if you are in need or lost. If you encounter any harassment (highly unlikely), removing yourself from the situation and seeking out a family or entering a shop is a good strategy – locals will step in to help a guest in their city."
+        ]
+      },
+      {
+        "category": "Health & Comfort",
+        "tips": [
+          "Pharmacies (Farmaci) are common in the city and can provide medicines for common ailments; many medications that are prescription-only elsewhere might be available over the counter. Pharmacists often speak some English or Italian.",
+          "Water: Tap water in hotels and restaurants is generally safe for washing and brushing teeth. Locals often drink bottled or filtered water, as chlorination levels vary. To be cautious, stick to bottled water for drinking (cheap and sold everywhere). Carry a refillable bottle and consider refilling at your accommodation if they have filtered water to reduce plastic waste.",
+          "Sun & Heat: Summers get very hot (33°C+). Use sunscreen and stay hydrated – carry water especially if walking or hiking. The sun is strong; a hat and sunglasses are highly recommended. Mid-day (12–4pm) is the hottest – take breaks in the shade or indoors if possible, which is why you’ll see the city slow down in early afternoon.",
+          "Insect bites: Coastal areas and wetlands can have mosquitoes, especially near Narta Lagoon or in the evenings. Use repellent if you’ll be out by water at dusk, and consider accommodations with window screens. If you react strongly to bites, bring antihistamine cream.",
+          "Hospitals: Vlora has a regional hospital and some private clinics. For any serious health issue, you can go to the emergency room (Urgjenca). It’s useful to have travel insurance; though basic treatment is low-cost, for anything requiring evacuation or specialist care in Tirana, insurance is important."
+        ]
+      },
+      {
+        "category": "Connectivity",
+        "tips": [
+          "SIM Cards: Local SIMs (Vodafone, Telekom, Albtelecom) are inexpensive – around 1200 Lek (~10€) for a package with several GB of data. You can buy them at mobile shops with your passport. Coverage in Vlora and along major roads is good; some remote beaches or mountain spots might have weak signal.",
+          "Wi-Fi: Cafés, restaurants, and hotels almost all offer free Wi-Fi. Speeds in the city are generally decent. There are also a couple of internet cafés and the public library with internet access if needed.",
+          "Electricity: Albania uses European standard Type C/F plugs (two round prongs). Voltage 230V. Bring an adapter if your devices use a different plug type. Outages are not common in Vlora, but occasionally in heavy storms the power might flicker; most hotels have generators so it’s rarely an issue.",
+          "Navigation: Download an offline map (e.g., Google Maps offline or MAPS.ME) for Vlora and Albania. Many smaller streets in Vlora might not have clear signs, but locals know them by landmarks. You can always ask someone to point you toward a location – they’re generally happy to help. Having the map will also help for hiking or less urban adventures where signage is minimal."
+        ]
+      },
+      {
+        "category": "General",
+        "tips": [
+          "Time zone: Central European Time (UTC+1), and Central European Summer Time (UTC+2) in summer.",
+          "Business hours: Shops typically 9am–8pm (with an afternoon break in many independent shops). Restaurants start lunch around noon and dinner service around 7pm; many will stay open until 11pm or later in summer. Cafés open early (some by 6am) and may close around 10pm. In seaside areas, some bars/clubs go until 2-3am.",
+          "Siesta: Don’t be surprised if some businesses (and even tourist sites) close or become very quiet between 2pm and 5pm. This is a common rest period in Albania, especially in the heat of summer. Plan sightseeing for morning and late afternoon, and use mid-day for a leisurely lunch or nap like the locals do.",
+          "Environment: Try to be a responsible traveler – don’t litter (Vlora has many trash bins, including on the beach and promenade). Recycling is still limited, but you’ll sometimes see separate bins. If you smoke, note Albania has smoking bans indoors, but enforcement varies – always ask or step outside if unsure.",
+          "People: Vlora’s residents are generally laid-back and used to tourists. You might get approached by taxi drivers or tour sellers near touristy spots – a polite 'Jo, faleminderit' (No, thank you) will suffice if you’re not interested. If you engage, you’ll likely find people genuinely want you to enjoy their city and might give free advice or a friendly chat."
+        ]
+      }
+    ],
+    "itineraries": [
+      {
+        "duration": "1 Day",
+        "title": "Vlora in a Day: History & Waterfront",
+        "schedule": [
+          {
+            "time": "Morning",
+            "activities": [
+              "Flag Square & Independence Monument – Start your day at the heart of Vlora’s history. Take in the Independence Monument and imagine the 1912 declaration. Visit the nearby Independence Museum when it opens (~9am) to see documents and rooms from Albania’s first government (allow ~1 hour).",
+              "Muradie Mosque – Walk a few blocks to this 16th-century mosque. Admire the distinct stone-and-brick design by Mimar Sinan. If open, quietly step inside to view its simple interior (remember respectful attire).",
+              "Coffee Break – Stop at a café on the main boulevard for a mid-morning macchiato or fresh-squeezed juice. Watch the city come alive as locals shop and socialise."
+            ]
+          },
+          {
+            "time": "Afternoon",
+            "activities": [
+              "Zvernec Monastery or Kaninë Castle – Pick one excursion just outside town: either taxi 20 min to Zvernec Island to explore the serene St. Mary’s Monastery and lagoon boardwalk (budget ~1.5 hours for trip and wandering), OR head up to Kaninë village for castle ruins and panoramic photos of Vlora from 380m up.",
+              "Beach Relaxation – Back in town, spend the remainder of the afternoon at the city’s beach along the Lungomare. Rent a sun lounger at the public beach area or just dip your feet in the Adriatic. If you’re hungry, grab a quick bite like a sufllaqe (gyro) or byrek from a nearby fast-food joint or bakery.",
+              "Gelato Stroll – Before evening sets in, treat yourself to a gelato from a Lungomare stand (pistachio and chocolate are local favourites) and enjoy a leisurely stroll along the promenade."
+            ]
+          },
+          {
+            "time": "Evening",
+            "activities": [
+              "Sunset at Lungomare – Head to the waterfront in time for sunset. Consider renting a bike or a four-wheel pedal cart to cruise the full length of the promenade as the sky turns orange and pink over the bay.",
+              "Dinner by the Sea – Dine at a seaside restaurant on the Lungomare. For seafood lovers, Restaurant Pulebardha offers fresh fish right over the water. If you prefer something casual, opt for a pizzeria like San Giorgio for the best pizza in town.",
+              "Nightcap & Walk – After dinner, join the lively evening scene. Perhaps visit Komiteti Café-Bar for a quirky atmosphere and a flight of infused raki, or grab a cocktail at Lime Lounge for a modern vibe. Cap off the night with one more walk along the moonlit beach – the sound of gentle waves and the illuminated promenade make for a perfect goodbye to Vlora."
+            ]
+          }
+        ]
+      },
+      {
+        "duration": "3 Days",
+        "title": "Culture and Coast Combo",
+        "days": [
+          {
+            "day": 1,
+            "focus": "City Highlights & Village",
+            "activities": [
+              "Morning: Follow the 1-Day itinerary’s morning plan – Independence Museum and Flag Square, then Muradie Mosque. (If extra time, pop into the Historic Museum for 30 min to see archaeological and WWII exhibits.)",
+              "Lunch: Enjoy a traditional lunch at Taverna Te Lilo or a similar tavern for hearty local dishes (like tavë kosi or stuffed peppers) to recharge.",
+              "Afternoon: Drive or taxi up to Kaninë Castle. Explore the ruins and take in the superb view over Vlora and the bay. After the castle, wander a bit in Kaninë village (maybe grab a coffee or raki at a local café). Alternatively, if you skipped Kaninë, use this time to taxi to Zvernec Monastery and enjoy the peaceful lagoon island.",
+              "Evening: Back in Vlora, do the Lungomare evening stroll. For a different vantage, take a short ride to Kuzum Baba hilltop before sunset – enjoy the panoramic view with the golden light. Return down for dinner along the waterfront. Try the Yacht Restaurant for an upscale meal or keep it simple with pizza or grilled meats at a casual place. End the night with a leisurely walk and a nightcap at a lounge bar."
+            ]
+          },
+          {
+            "day": 2,
+            "focus": "Riviera Adventure",
+            "activities": [
+              "Morning: Set out early and head south along the coast. Drive (or hire a driver) over the spectacular Llogara Pass into the Albanian Riviera. Stop at the Llogara Pass lookout for photos of the coast far below.",
+              "Late Morning: Arrive in Dhërmi or Drymades Beach (about 1.5–2 hours from Vlora). Spend the late morning swimming in the crystal clear Ionian Sea. The contrast to Vlora’s beaches is notable – here waters are azure blue and transparent.",
+              "Lunch: Eat at a beachside taverna in Dhërmi – perhaps fresh grilled fish or shrimp pasta right by the sea.",
+              "Afternoon: On your return, stop in Llogara National Park. Go for a short hike among the pine forest trails (find the famed Flag Pine, twisted by wind into a flag shape) or, if you’re adventurous and pre-booked, go tandem paragliding from Llogara down to the coast.",
+              "Alternate Afternoon (if not going as far south): Instead, stay closer – visit Orikum Archaeological Park in the morning (explore ruins), then spend midday and afternoon at Radhimë Beach (30 min from Vlora). Rent a jet ski or just relax at a beach club like Paradise Beach.",
+              "Evening: Back in Vlora by evening. Tonight, experience the Old Town pedestrian area for dinner. Pick a small local restaurant or seafood trattoria in the Muradie neighborhood for a change of scene from the beach vibe. Afterwards, join locals at a café for dessert or a nightcap. If it’s a weekend in summer and you have energy, consider a late-night outing to Havana Beach Club for some open-air dancing by the sea."
+            ]
+          },
+          {
+            "day": 3,
+            "focus": "Sea & Islands",
+            "activities": [
+              "Morning to Afternoon: Devote your final day to Vlora’s marine wonders. Catch a boat tour (most depart ~9am from the marina) to the Karaburun Peninsula and Sazan Island. You’ll spend a full day at sea: typically the boat will stop at Haxhi Ali Cave (you might go inside on a small dinghy or swim near it), then pause at a secluded Karaburun beach where you can swim and sunbathe. You’ll also land on Sazan Island for a guided walk through the abandoned military town – an eerie Cold War relic. Most tours include a simple lunch on board (grilled meat or fish, salad and fruit) or you can bring your own picnic.",
+              "Late Afternoon: Return to Vlora’s port by about 5pm. After a shower and rest, take a last stroll or souvenir hunt. The promenade often has evening craft stalls; grab any last gifts (maybe olive oil or raki) that you wanted.",
+              "Evening: For your farewell dinner, choose your favorite from the past days – whether that’s seafood at Pulebardha, a mixed grill at Mr. Biftek, or perhaps try a new spot like Hotel Bologna’s seaside restaurant for Italian-Albanian cuisine. Toast your trip with a glass of local wine or raki. If there’s live music at a bar (sometimes happens on summer weekends), enjoy that to end on a high note. Otherwise, a quiet walk along the dark beach listening to gentle waves can be a perfect, serene goodbye to Vlora."
+            ]
+          }
+        ]
+      },
+      {
+        "duration": "5 Days",
+        "title": "Extended Vlora & Surroundings",
+        "days": [
+          {
+            "day": 1,
+            "focus": "Vlora Essentials",
+            "activities": [
+              "Morning: Kick off with Vlora’s core history – Independence Museum and Flag Square first, to set the historical context. Then visit Muradie Mosque for a dose of Ottoman heritage. If time and interest, also stop by the small Historic Museum to see ancient artifacts and ethnographic items.",
+              "Lunch: Have a relaxed lunch trying local specialties (grilled meats or seafood risotto) at a restaurant downtown – perhaps at a tavern near Old Town.",
+              "Afternoon: Drive out to Zvernec Island and Monastery for a peaceful nature and culture break. Enjoy the walk across the wooden bridge and the tranquility of the island. Spend an hour or two there, then head back.",
+              "Late Afternoon: Relax – you could choose Vlora’s city beach or your hotel’s pool to unwind. Save some energy for the evening.",
+              "Evening: Stroll the Lungomare for your first Vlora sunset. Dine at one of the many restaurants along the waterfront (go for something light if you had a big lunch – maybe assorted meze or seafood appetizers). After dinner, join locals for a coffee and dessert. If you’re up for a little night view, take a quick trip up to Kuzum Baba in the dark – the city lights below are lovely."
+            ]
+          },
+          {
+            "day": 2,
+            "focus": "Beach Day",
+            "activities": [
+              "Morning: Dedicate the day to sun and sea. Take a short drive (or bus) to the beaches around Orikum and Radhimë (15–20 km south). Start at Orikum: if you’re interested, visit the Orikum Archaeological Park first thing while it’s cool – a brief walk among ruins.",
+              "Late Morning & Afternoon: Spend the rest of the day at a beach in Radhimë. Many hotels there have beach clubs – pick one and rent a sunbed and umbrella. Enjoy swimming in the clear water, reading under the sun, maybe even join a beach volleyball game if you find one.",
+              "Lunch: Order fresh seafood or pizza from the beachside restaurant of the resort. Nothing beats lunch with your feet in the sand.",
+              "Afternoon: If you want a change of scenery, you could try another nearby beach like Nirvana or even drive over to Narta Beach on the north side for late afternoon (very different vibe: wild and quiet). Otherwise, continue relaxing at Radhimë until you’ve had your fill of sun.",
+              "Evening: Head back to Vlora proper. Tonight, keep it casual: perhaps get dinner at a local pizzeria or a fast-food grill in town (for example, try some souvlaki or gyros). Reward yourself with gelato. For nightlife, consider checking out a laid-back bar like Komiteti for a cultural atmosphere or see if any live acoustic music is playing at a local café."
+            ]
+          },
+          {
+            "day": 3,
+            "focus": "Historical Day Trip",
+            "activities": [
+              "Full Day: Today, explore beyond Vlora to dive deeper into Albania’s history. Two great options:",
+              "Option A – Berat: Take a day trip to the UNESCO city of Berat (around 2 hours drive each way, or by tour bus). Leave in the early morning (7–8am) to maximize time there. Spend the day wandering Berat’s Old Town quarters of Mangalem and Gorica, touring the hilltop castle with its inhabited citadel and Onufri Icon Museum, and taste local cuisine in an Ottoman-house-turned-restaurant. Head back to Vlora by evening.",
+              "Option B – Apollonia & Ardenica: Drive about 1 hour to the ruins of Apollonia near Fier. Explore the ancient theater, forum, and on-site monastery museum (1.5–2 hours). After a picnic or quick lunch, visit the nearby Ardenica Monastery (another 30 min drive) to see a beautifully preserved Orthodox monastery on a hill. Return to Vlora by late afternoon (the drive back is ~1 hour).",
+              "Evening: Whichever trip you chose, you’ll likely return pleasantly tired. Have a low-key evening: maybe just take a sunset dip in the sea to rejuvenate, then a simple dinner – perhaps grab some street food or a quick meal like qofte (meatballs) and salad. If you went to Berat and returned late, you might dine there before coming back and just have a snack in Vlora. In any case, get a good rest."
+            ]
+          },
+          {
+            "day": 4,
+            "focus": "Mountains & Villages",
+            "activities": [
+              "Morning: Change scenery and head to the mountains. Drive up to Llogara National Park in the morning (depart after breakfast). In Llogara, choose a nature activity: take a moderate hike (like the 1–2 hour Caesar’s Pass trail through pine woods) or simply walk around the park’s easier paths looking for wildlife (often semi-tame deer wander near the park restaurants). Enjoy the crisp air and viewpoints of the coast from up high.",
+              "Lunch: Have lunch at one of Llogara’s lodge restaurants. Try mountain fare – grilled lamb, yogurt cheese, mountain honey – hearty foods to fuel you.",
+              "Afternoon: As you descend back toward Vlora, stop to explore local village life. You could detour through Dukat or Tragjas, traditional villages off the main road. Take a short walk to see stone houses and village life, perhaps stop at a small shop for a drink and a chat (people will be curious and friendly). Another option: swing by a winery in the hills near Vlora if pre-arranged (there are small family wineries where you can taste wine and raki).",
+              "Late Afternoon: Back in Vlora, maybe rest a bit.",
+              "Evening: For dinner, you might switch it up and head to the Port area. Dine at Hotel Bologna’s restaurant – known for Italian-Albanian fusion and great seafood pasta – to reminisce about your trip’s variety. After dinner, take a peaceful stroll through Independence Park by the harbor, where you can see some old military artifacts (like retired cannons) and reflect on all you’ve seen. The contrast of mountain quiet and seafront city lights in one day encapsulates Vlora’s diverse offerings."
+            ]
+          },
+          {
+            "day": 5,
+            "focus": "Island Adventure & Farewell",
+            "activities": [
+              "Morning & Afternoon: End your trip with the quintessential Vlora experience – the Karaburun-Sazan boat tour (if it’s summer and operating). Spend the day as described in the 3-day itinerary Day 3: swimming in secluded bays, exploring Sazan Island’s ghost town, snorkeling in turquoise waters. It’s a relaxing yet adventurous finale. If boat tours aren’t running (off-season), consider a coastal hike on Karaburun Peninsula or even renting a small boat privately for a half-day to explore the bay.",
+              "Late Afternoon: Upon returning, do any last-minute shopping. Pick up a bottle of local olive oil, some honey or herbs, or a souvenir from the Lungomare stalls you might have eyed earlier. Catch the last daylight at the beach or taking photos around town.",
+              "Evening: Treat yourself to a final special dinner. One idea: go a bit north of town to Hotel Liro’s restaurant which offers a romantic clifftop setting – having dinner while the sun sets into the sea is unforgettable. Alternatively, stick to the lively Lungomare and choose a seaside tavern where sometimes they have live Albanian music on weekends – you might catch a performance of traditional songs to cap off your cultural experience.",
+              "Night: Toast to your five days in Vlora – whether with a glass of wine at dinner or a cocktail at a beach bar where there might be live music. Soak in the atmosphere one last time. Later, you might walk along the water, listening to the gentle waves. In these five days, you’ve seen Vlora’s history, relaxed on its beaches, ventured into mountains and even to other cities – truly capturing the essence of this multifaceted destination."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

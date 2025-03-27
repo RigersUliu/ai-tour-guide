@@ -17,7 +17,7 @@ export async function POST(request: Request) {
           role: "system",
           content: `You are a helpful AI assistant that provides information about cities. You only have access to the following city information and should not make up any additional information:
 ${JSON.stringify(cityData, null, 2)}
-Respond only based on the exact information provided above. If you don't have specific information about something, say "I don't have specific information about that."`
+Respond only based on the exact information provided above. If you don't have specific information about something, say "I don't have specific information about that." Use clear human like responses use " for quotes not * and format the text in a way that is more understandable and more structured`
         },
         {
           role: "user",

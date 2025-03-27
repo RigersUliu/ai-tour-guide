@@ -1,0 +1,1327 @@
+{
+  "shkodra": {
+    "name": "Shkodra",
+    "alternate_names": ["Shkodër", "Scutari"],
+    "location": {
+      "country": "Albania",
+      "region": "Shkodër County",
+      "coordinates": {
+        "latitude": 42.0685,
+        "longitude": 19.5119
+      },
+      "elevation": "13m above sea level",
+      "nearby_landmarks": [
+        "Lake Shkodër (largest lake in Balkans)",
+        "Albanian Alps (Accursed Mountains)",
+        "Buna River",
+        "Montenegro border (20km north)"
+      ]
+    },
+    "description": "Shkodra is a vibrant city in northwestern Albania, renowned for its ancient heritage, cultural diversity, and stunning natural landscapes. One of Albania's oldest cities with over two millennia of history, it offers travelers a rich tapestry of experiences blending history, adventure, and local traditions. Known as the cultural capital of northern Albania, it serves as the gateway to the Albanian Alps.",
+    "historical_background": {
+      "founding": {
+        "year": "4th century BCE",
+        "by": "Illyrian tribe of Labeates",
+        "original_name": "Scodra"
+      },
+      "timeline": [
+        {
+          "period": "Illyrian Kingdom",
+          "years": "4th century BCE - 168 BCE",
+          "key_facts": [
+            "Capital under King Gentius",
+            "Strategic hilltop fortress",
+            "Minted own coins"
+          ]
+        },
+        {
+          "period": "Roman Rule",
+          "years": "168 BCE - 5th century CE",
+          "key_facts": [
+            "Important trade center on Via Egnatia",
+            "Christianized in 1st century CE",
+            "Bishopric established"
+          ]
+        },
+        {
+          "period": "Byzantine Era",
+          "years": "5th century - 1396",
+          "key_facts": [
+            "Withstood Slavic invasions",
+            "Fortified with new walls",
+            "Center of conflict between Serbian and Albanian rulers"
+          ]
+        },
+        {
+          "period": "Venetian Rule",
+          "years": "1396-1479",
+          "key_facts": [
+            "Built St. Stephen's Church (later converted to mosque)",
+            "Strengthened castle defenses",
+            "Heroic resistance against Ottomans (1478-79 siege)"
+          ]
+        },
+        {
+          "period": "Ottoman Era",
+          "years": "1479-1912",
+          "key_facts": [
+            "Renamed Iskodra",
+            "Important trade and craft center",
+            "Famous for silver and arms workshops",
+            "19th century: Over 3,000 shops recorded"
+          ]
+        },
+        {
+          "period": "Modern Albania",
+          "years": "1912-present",
+          "key_facts": [
+            "Sieged by Montenegrins in 1913",
+            "Center of anti-communist resistance",
+            "Cultural revival post-1990s"
+          ]
+        }
+      ],
+      "archaeological_sites": [
+        "Early Bronze Age settlement traces around Shkodra",
+        "Rozafa Castle excavations",
+        "Ancient city walls near Lead Mosque",
+        "Roman artifacts in Historical Museum"
+      ]
+    },
+    "demographics": {
+      "population": 112276,
+      "ethnic_groups": ["Albanians", "Montenegrins", "Roma"],
+      "languages": ["Albanian (Gheg dialect)", "English (tourist areas)", "Italian"],
+      "religions": [
+        {
+          "name": "Islam",
+          "percentage": "65%",
+          "landmarks": ["Ebu Bekr Mosque", "Lead Mosque"]
+        },
+        {
+          "name": "Catholicism",
+          "percentage": "30%",
+          "landmarks": ["St. Stephen's Cathedral", "Franciscan Church"]
+        },
+        {
+          "name": "Orthodoxy",
+          "percentage": "5%",
+          "landmarks": ["Orthodox Cathedral of the Nativity"]
+        }
+      ]
+    },
+    "cultural_importance": {
+      "nicknames": [
+        "City of Bicycles",
+        "Little Venice",
+        "Traditional capital of northern Albania"
+      ],
+      "cultural_firsts": [
+        "First photography studio in Albania (Marubi, 1850s)",
+        "First public library (1879)",
+        "First Albanian-language school (1891)"
+      ],
+      "notable_figures": [
+        {
+          "name": "Pietro Marubi",
+          "contribution": "Pioneer of Albanian photography"
+        },
+        {
+          "name": "Kolë Idromeno",
+          "contribution": "Renaissance painter and architect"
+        },
+        {
+          "name": "Migjeni",
+          "contribution": "Influential 20th century poet"
+        }
+      ],
+      "cultural_institutions": [
+        {
+          "name": "Migjeni Theater",
+          "type": "Performing arts",
+          "established": 1949
+        },
+        {
+          "name": "Marubi National Museum of Photography",
+          "type": "Museum",
+          "collection_size": "500,000+ negatives"
+        },
+        {
+          "name": "Vilson Kilica Cultural Center",
+          "type": "Multidisciplinary"
+        }
+      ],
+      "festivals": [
+        {
+          "name": "Shkodra Jazz Festival",
+          "month": "July",
+          "duration": "3 days",
+          "features": ["International artists", "Open-air concerts"]
+        },
+        {
+          "name": "Carnival of Shkodra",
+          "month": "February/March",
+          "features": ["Parade with Venetian masks", "Street performances"]
+        },
+        {
+          "name": "Lake Day Festival",
+          "month": "August",
+          "features": ["Boat races", "Traditional fishing demonstrations"]
+        }
+      ],
+      "unesco_connections": [
+        "Xhubleta (traditional skirt) - Intangible Cultural Heritage",
+        "Lake Shkodra - Proposed Transboundary Biosphere Reserve"
+      ]
+    },
+    "climate": {
+      "classification": "Csa (Hot-summer Mediterranean)",
+      "seasons": [
+        {
+          "name": "Spring",
+          "months": "March-May",
+          "avg_temp": "12-22°C",
+          "characteristics": [
+            "Lush greenery",
+            "Wildflowers bloom",
+            "Ideal for outdoor activities"
+          ]
+        },
+        {
+          "name": "Summer",
+          "months": "June-August",
+          "avg_temp": "22-34°C",
+          "characteristics": [
+            "Dry and sunny",
+            "Lake activities popular",
+            "Occasional heat waves"
+          ]
+        },
+        {
+          "name": "Autumn",
+          "months": "September-November",
+          "avg_temp": "14-25°C",
+          "characteristics": [
+            "Fall colors in mountains",
+            "Harvest season",
+            "Mild temperatures"
+          ]
+        },
+        {
+          "name": "Winter",
+          "months": "December-February",
+          "avg_temp": "2-10°C",
+          "characteristics": [
+            "Rainy season",
+            "Snow in mountains",
+            "Few tourists"
+          ]
+        }
+      ],
+      "precipitation": {
+        "annual": "1500mm",
+        "wettest_month": "November (200mm)",
+        "driest_month": "July (30mm)"
+      },
+      "best_travel_times": [
+        {
+          "period": "April-June",
+          "reasons": [
+            "Pleasant temperatures",
+            "Nature at its greenest",
+            "Hiking trails accessible"
+          ]
+        },
+        {
+          "period": "September-October",
+          "reasons": [
+            "Warm days, cool nights",
+            "Fall colors",
+            "Fewer crowds"
+          ]
+        }
+      ]
+    },
+    "attractions": {
+      "historical": [
+        {
+          "name": "Rozafa Castle (Kalaja e Rozafës)",
+          "era": "Illyrian to Ottoman",
+          "features": [
+            "Strategic hilltop location",
+            "Ruined ramparts and courtyards",
+            "Venetian-era towers",
+            "On-site museum with artifacts",
+            "Legend of Rozafa sculpture (sacrificial legend)"
+          ],
+          "viewpoints": [
+            "Lake Shkodër panorama",
+            "Buna and Drin river confluence",
+            "Albanian Alps vista"
+          ],
+          "visitor_info": {
+            "hours": "8:00-20:00 (summer), 9:00-17:00 (winter)",
+            "fee": "300 lek",
+            "accessibility": "Steep climb, uneven terrain",
+            "best_time": "Sunset for photography",
+            "guide": "Local guides available at entrance for tours"
+          }
+        },
+        {
+          "name": "Drisht Castle",
+          "era": "Medieval (14th century)",
+          "features": [
+            "Less-visited hilltop ruins",
+            "Fragments of watchtowers and walls",
+            "Adjacent traditional village (Drisht) with old mosque"
+          ],
+          "visitor_info": {
+            "access": "Requires hike or 4x4 vehicle (no facilities)",
+            "fee": "Free",
+            "tip": "Combine with a home-cooked meal in Drisht village via local guide"
+          }
+        }
+      ],
+      "museums": [
+        {
+          "name": "Marubi National Museum of Photography",
+          "collections": [
+            "19th-century studio portraits",
+            "Early 20th-century street scenes",
+            "Communist-era documentary photos",
+            "Vintage camera equipment"
+          ],
+          "building": "Renovated 19th-century villa",
+          "visitor_info": {
+            "hours": "9:00-16:00 (closed Mondays)",
+            "fee": "500 lek",
+            "guided_tours": "Available in multiple languages"
+          }
+        },
+        {
+          "name": "Shkodra Historical Museum (Oso Kuka's House)",
+          "sections": [
+            "Illyrian and Roman artifacts",
+            "Ottoman-era exhibits",
+            "Ethnographic displays",
+            "Independence movement memorabilia"
+          ],
+          "setting": "Traditional 19th-century house with tower",
+          "visitor_info": {
+            "hours": "9:00-14:00 & 16:00-19:00 (summer)",
+            "fee": "200 lek",
+            "note": "Limited hours in off-season; closed Mondays"
+          }
+        }
+      ],
+      "religious_sites": [
+        {
+          "name": "Ebu Bekr Mosque",
+          "built": 1995,
+          "style": "Ottoman revival",
+          "features": [
+            "35m tall minaret",
+            "Floral motif interior",
+            "Active community center"
+          ],
+          "visiting_hours": "Outside prayer times (especially avoid during Friday noon prayers)"
+        },
+        {
+          "name": "St. Stephen's Cathedral",
+          "built": 1867,
+          "style": "Neo-Romanesque",
+          "history": "Converted to sports palace during communism, reopened 1990",
+          "features": [
+            "Twin 60m bell towers",
+            "Stained glass windows",
+            "Excellent acoustics for concerts"
+          ]
+        },
+        {
+          "name": "Orthodox Cathedral of the Nativity",
+          "built": 2000,
+          "style": "Byzantine revival",
+          "features": [
+            "Gold-leaf iconostasis",
+            "Frescoes by Albanian artists",
+            "Underground baptismal font"
+          ]
+        }
+      ],
+      "natural": [
+        {
+          "name": "Lake Shkodër",
+          "stats": {
+            "size": "370-530 km² (varies seasonally)",
+            "depth": "8m average",
+            "islands": 50,
+            "protected_status": "Ramsar Wetland of International Importance"
+          },
+          "activities": [
+            {
+              "name": "Birdwatching",
+              "species": [
+                "Dalmatian pelican",
+                "Pygmy cormorant",
+                "Squacco heron"
+              ],
+              "best_spots": ["Shirokë marshes", "Buna delta"]
+            },
+            {
+              "name": "Boating",
+              "options": [
+                "Traditional wooden chekë boats",
+                "Kayak rentals",
+                "Ferry to Montenegro side (Virpazar)"
+              ]
+            },
+            {
+              "name": "Swimming",
+              "locations": ["Shirokë village beach", "Zogaj pebble shore"]
+            }
+          ],
+          "tips": "Best at sunset from Shirokë promenade; water levels highest in spring"
+        },
+        {
+          "name": "Kir River Canyon",
+          "features": [
+            "White limestone cliffs",
+            "Swimming holes in summer",
+            "Mesi Bridge viewpoint"
+          ],
+          "activities": ["Hiking", "Picnicking", "Photography"]
+        }
+      ],
+      "urban_experiences": [
+        {
+          "name": "Pedonalja (Rruga Kolë Idromeno)",
+          "length": "800m pedestrian zone",
+          "architecture": [
+            "Venetian-style façades",
+            "Austro-Hungarian buildings",
+            "Ottoman-era houses"
+          ],
+          "highlights": [
+            "Cafés with outdoor seating",
+            "Art galleries",
+            "Evening xhiro (stroll) tradition"
+          ]
+        },
+        {
+          "name": "Shkodra Bazaar Area",
+          "history": "New bazaar replacing the historic Ottoman market",
+          "sections": [
+            {
+              "name": "Rus Market",
+              "specialties": ["Fresh produce", "Local cheeses", "Handicrafts"]
+            },
+            {
+              "name": "Zdrale Market",
+              "specialties": ["Spices", "Olives", "Honey"]
+            }
+          ]
+        }
+      ]
+    },
+    "tourism_types": {
+      "cultural": {
+        "description": "Immerse in Shkodra's rich history and living traditions",
+        "experiences": [
+          {
+            "name": "Heritage Walks",
+            "itineraries": [
+              "Ottoman-era houses in Gjuhadol quarter",
+              "Venetian fortifications around Rozafa Castle",
+              "Communist-era architecture near Sheshi Demokracia"
+            ]
+          },
+          {
+            "name": "Religious Tourism",
+            "circuit": [
+              "Ebu Bekr Mosque",
+              "St. Stephen's Cathedral",
+              "Orthodox Cathedral",
+              "Franciscan Church"
+            ],
+            "note": "All within 15 minutes walk of each other, showcasing religious harmony"
+          },
+          {
+            "name": "Artisan Workshops",
+            "options": [
+              "Filigree silver making",
+              "Traditional rug weaving",
+              "Wood carving demonstrations"
+            ]
+          }
+        ]
+      },
+      "adventure": {
+        "description": "Gateway to outdoor activities in diverse landscapes",
+        "activities": [
+          {
+            "name": "Hiking",
+            "options": [
+              {
+                "name": "Theth-Valbona Trail",
+                "difficulty": "Moderate",
+                "distance": "17km",
+                "duration": "6-8 hours",
+                "season": "June-October"
+              },
+              {
+                "name": "Mount Tarabosh",
+                "difficulty": "Easy",
+                "distance": "5km round trip",
+                "duration": "2-3 hours",
+                "reward": "Best city views"
+              }
+            ]
+          },
+          {
+            "name": "Water Activities",
+            "options": [
+              {
+                "name": "Lake Koman Ferry",
+                "description": "Ferry through dramatic river gorges (the 'Albanian fjords')",
+                "duration": "2.5 hours",
+                "departure": "9:00 from Koman"
+              },
+              {
+                "name": "Buna River Rafting",
+                "season": "April-May",
+                "rapids": "Class II-III"
+              }
+            ]
+          },
+          {
+            "name": "Cycling",
+            "routes": [
+              {
+                "name": "City to Shirokë",
+                "distance": "6km",
+                "terrain": "Flat, paved"
+              },
+              {
+                "name": "Mesi Bridge Loop",
+                "distance": "15km",
+                "terrain": "Mixed pavement/gravel"
+              }
+            ]
+          }
+        ]
+      },
+      "gastronomy": {
+        "description": "Distinct northern Albanian cuisine with lake and mountain influences",
+        "experiences": [
+          {
+            "name": "Cooking Classes",
+            "options": [
+              "Traditional byrek making",
+              "Tavë krapi preparation",
+              "Home-style Albanian bread baking"
+            ]
+          },
+          {
+            "name": "Food Tours",
+            "stops": [
+              "Morning byrek bakeries",
+              "Shirokë fish restaurants",
+              "Local markets for cheese and honey"
+            ]
+          },
+          {
+            "name": "Specialty Dining",
+            "venues": [
+              {
+                "name": "Tradita Geg & Tosk",
+                "feature": "Live folk music dinners"
+              },
+              {
+                "name": "Fishermen's huts on lake",
+                "feature": "Fresh catch cooked traditionally"
+              }
+            ]
+          }
+        ]
+      },
+      "eco_tourism": {
+        "description": "Sustainable travel in protected natural areas",
+        "initiatives": [
+          {
+            "name": "Birdwatching Tours",
+            "operator": "Protection and Preservation of Natural Environment in Albania (PPNEA)",
+            "species": "250+ recorded bird species"
+          },
+          {
+            "name": "Organic Farm Stays",
+            "locations": [
+              "Zogaj village",
+              "Buna River delta area"
+            ],
+            "activities": [
+              "Cheese making",
+              "Vegetable harvesting",
+              "Traditional fishing methods"
+            ]
+          }
+        ]
+      }
+    },
+    "dining": {
+      "cuisine_overview": {
+        "characteristics": [
+          "Freshwater fish specialties",
+          "Hearty mountain dishes",
+          "Ottoman and Venetian influences",
+          "Farm-to-table ingredients"
+        ],
+        "dining_culture": [
+          "Long, leisurely meals",
+          "Strong coffee tradition",
+          "Seasonal ingredients emphasized"
+        ]
+      },
+      "signature_dishes": [
+        {
+          "name": "Tavë Krapi",
+          "description": "Lake carp baked with tomatoes, onions, garlic and prunes in clay pot",
+          "origin": "Unique to Shkodra region",
+          "best_places": [
+            "Restaurant Peshkatari (Shirokë)",
+            "Bar Restaurant Shiroka"
+          ]
+        },
+        {
+          "name": "Fërgesë",
+          "variations": [
+            {
+              "name": "Tirana-style",
+              "ingredients": ["Peppers", "Tomatoes", "Liver", "Ricotta"]
+            },
+            {
+              "name": "Shkodra-style",
+              "ingredients": ["Smoked meat", "Local cottage cheese"]
+            }
+          ],
+          "serving": "Served warm in a clay pot with fresh bread"
+        },
+        {
+          "name": "Byrek",
+          "types": [
+            "Meat (me mish)",
+            "Spinach (me spinaq)",
+            "Cheese (me djathë)"
+          ],
+          "where_to_find": [
+            "Byrektore Kir (city center)",
+            "Morning street vendors"
+          ]
+        },
+        {
+          "name": "Trileçe",
+          "description": "Soft sponge cake soaked in three milks and topped with caramel",
+          "origin": "Originally a Latin American recipe, now a beloved Albanian dessert",
+          "best_places": [
+            "Restaurant San Francisco (famous for tres leches cake)",
+            "Local pastry shops and cafes"
+          ]
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Tradita Geg & Tosk",
+          "type": "Traditional Albanian",
+          "setting": "1694 Ottoman-era inn with courtyard",
+          "specialties": [
+            "Slow-cooked lamb with herbs",
+            "Homemade pita bread",
+            "Seasonal wild game"
+          ],
+          "price_range": "€€ (mains €8-12)",
+          "reservation": "Recommended on weekends"
+        },
+        {
+          "name": "Fisi",
+          "type": "Grill house",
+          "specialties": [
+            "Mixed grill platter",
+            "Homemade sausages",
+            "Charcoal-grilled meats"
+          ],
+          "atmosphere": "Rustic and lively",
+          "price_range": "€€"
+        },
+        {
+          "name": "Tempulli i Shijes",
+          "type": "Modern Albanian",
+          "concept": "Contemporary takes on traditional dishes",
+          "signature_dishes": [
+            "Deconstructed tavë kosi",
+            "Smoked trout salad",
+            "Walnut and honey dessert"
+          ],
+          "price_range": "€€€"
+        }
+      ],
+      "cafes": [
+        {
+          "name": "Café Flora",
+          "specialty": "Traditional Turkish coffee",
+          "feature": "Historic building with courtyard"
+        },
+        {
+          "name": "Minimal",
+          "specialty": "Artisanal coffee drinks",
+          "feature": "Garden setting with live music"
+        },
+        {
+          "name": "Bar Manhattan",
+          "specialty": "Italian-style espresso & gelato",
+          "feature": "Popular local hangout on Pedonalja"
+        }
+      ],
+      "street_food": [
+        {
+          "name": "Byrek",
+          "price": "50-100 lek",
+          "best_time": "Morning (breakfast)"
+        },
+        {
+          "name": "Qofte sandwich",
+          "price": "150 lek",
+          "where": "Evening grills near Pedonalja"
+        },
+        {
+          "name": "Grilled corn",
+          "season": "Summer evenings",
+          "price": "50 lek"
+        },
+        {
+          "name": "Sufllaqe (gyros wrap)",
+          "price": "200-300 lek",
+          "note": "Available at fast-food kiosks"
+        },
+        {
+          "name": "Roasted Chestnuts",
+          "season": "Autumn-winter",
+          "price": "100 lek per cone"
+        }
+      ]
+    },
+    "shopping": {
+      "handicrafts": [
+        {
+          "type": "Filigree silver jewelry",
+          "shops": [
+            {
+              "name": "Gjergj Jakova Argentari",
+              "location": "Near Pedonalja",
+              "specialty": "Traditional Albanian designs"
+            }
+          ],
+          "price_range": "€20-200 (depending on complexity)"
+        },
+        {
+          "type": "Woven textiles",
+          "villages": [
+            {
+              "name": "Zogaj",
+              "distance": "8km from Shkodra",
+              "products": [
+                "Kilim rugs",
+                "Traditional wool blankets"
+              ]
+            }
+          ]
+        }
+      ],
+      "markets": [
+        {
+          "name": "Rus Market",
+          "hours": "6:00-14:00 daily",
+          "sections": [
+            {
+              "name": "Produce",
+              "items": [
+                "Seasonal fruits",
+                "Lake fish",
+                "Organic vegetables"
+              ]
+            },
+            {
+              "name": "Dairy",
+              "specialties": [
+                "Mishavinë (aged skin cheese)",
+                "Fresh yogurt in clay pots"
+              ]
+            }
+          ]
+        }
+      ],
+      "modern_shopping": [
+        {
+          "name": "QTU Shopping Center",
+          "location": "City outskirts",
+          "stores": [
+            "Supermarket",
+            "Clothing boutiques",
+            "Electronics"
+          ]
+        }
+      ]
+    },
+    "nightlife": {
+      "bars": [
+        {
+          "name": "Cliché Bar & Bistro",
+          "concept": "Cocktail lounge",
+          "signature_drinks": [
+            "Shkodra Mule (with local raki)",
+            "Lake Breeze cocktail"
+          ],
+          "hours": "18:00-01:00"
+        },
+        {
+          "name": "Eko Club",
+          "concept": "Eco-conscious café-bar",
+          "features": [
+            "Organic drinks",
+            "Cultural events",
+            "Garden seating"
+          ]
+        }
+      ],
+      "clubs": [
+        {
+          "name": "Astoria Club",
+          "music": [
+            "Albanian pop",
+            "International hits",
+            "Reggaeton"
+          ],
+          "crowd": "Young locals and tourists",
+          "hours": "23:00-04:00 (weekends)"
+        }
+      ],
+      "cultural_nightlife": [
+        {
+          "name": "Migjeni Theater",
+          "offerings": [
+            "Folk dance performances",
+            "Classical concerts",
+            "Drama productions"
+          ]
+        },
+        {
+          "name": "Summer Jazz Nights",
+          "location": "Historic museum courtyard",
+          "schedule": "July-August weekends"
+        }
+      ]
+    },
+    "transportation": {
+      "arrival_options": [
+        {
+          "method": "Bus",
+          "routes": [
+            {
+              "from": "Tirana",
+              "duration": "2-2.5 hours",
+              "frequency": "Hourly 6:00-18:00",
+              "price": "400-500 lek"
+            },
+            {
+              "from": "Podgorica (Montenegro)",
+              "duration": "1.5 hours",
+              "frequency": "2 daily",
+              "price": "€10"
+            },
+            {
+              "from": "Tirana Airport",
+              "duration": "2 hours",
+              "frequency": "2 shuttles daily",
+              "price": "€10-15 (shuttle), €50 (taxi)"
+            }
+          ]
+        },
+        {
+          "method": "Car",
+          "routes": [
+            {
+              "from": "Tirana",
+              "highway": "A1 to Milot, then A5",
+              "distance": "95km",
+              "duration": "1.5-2 hours"
+            },
+            {
+              "from": "Montenegro border",
+              "route": "Hani i Hotit crossing",
+              "distance": "20km",
+              "duration": "30 minutes"
+            }
+          ]
+        }
+      ],
+      "local_transport": [
+        {
+          "type": "Walking",
+          "applicability": "City center exploration",
+          "notes": "Pedestrian-friendly with wide sidewalks in main areas"
+        },
+        {
+          "type": "Bicycle",
+          "rental_locations": [
+            "Hostels",
+            "Bike shops near Pedonalja"
+          ],
+          "price": "500 lek/day",
+          "recommended_routes": [
+            "City to Shirokë lakeside",
+            "Mesi Bridge loop"
+          ]
+        },
+        {
+          "type": "Taxi",
+          "companies": [
+            "Shkodra Taxi",
+            "City Taxi"
+          ],
+          "price_examples": [
+            "City center to Rozafa Castle: 500 lek",
+            "To Shirokë village: 700 lek"
+          ],
+          "tip": "Agree on price (and currency) before boarding; locals often say numbers like '5' to mean 500 lek"
+        },
+        {
+          "type": "Public Minibus",
+          "usage": "Furgons connect Shkodra with nearby villages (e.g., Velipojë beach, Koplik)",
+          "fare": "30-50 lek within region",
+          "note": "Ask locals or hotel for routes and schedule"
+        }
+      ],
+      "regional_excursions": [
+        {
+          "destination": "Theth National Park",
+          "options": [
+            {
+              "type": "Minibus",
+              "departure": "7:00 from hostels (seasonal)",
+              "duration": "3-4 hours",
+              "price": "1200-1500 lek"
+            }
+          ]
+        },
+        {
+          "destination": "Lake Koman Ferry",
+          "package": [
+            "Shuttle from Shkodra at 6:00",
+            "9:00 ferry departure (Koman to Fierza)",
+            "Combined ticket available"
+          ],
+          "duration": "Full day trip"
+        }
+      ]
+    },
+    "accommodation": {
+      "by_category": [
+        {
+          "category": "Luxury",
+          "options": [
+            {
+              "name": "Hotel Colosseo & Spa",
+              "features": [
+                "4-star modern comfort",
+                "Spa and indoor pool",
+                "Central location"
+              ],
+              "price_range": "€70-100/night"
+            },
+            {
+              "name": "Grand Hotel Europa",
+              "features": [
+                "Panoramic city views",
+                "Roof terrace restaurant",
+                "Conference center"
+              ],
+              "price_range": "€80-120/night"
+            },
+            {
+              "name": "Hotel Tradita Geg & Tosk",
+              "features": [
+                "1694 Ottoman-era building",
+                "Ethnographic museum on-site",
+                "Traditional restaurant with live music"
+              ],
+              "price_range": "€50-80/night"
+            },
+            {
+              "name": "Çoçja Boutique Hotel",
+              "features": [
+                "Restored historic house",
+                "Artistic decor",
+                "Associated with famous restaurant (Tradita)"
+              ],
+              "price_range": "€40-60/night"
+            }
+          ]
+        },
+        {
+          "category": "Mid-Range",
+          "options": [
+            {
+              "name": "Rose Garden Hotel",
+              "features": [
+                "Tranquil garden setting",
+                "Homemade breakfast",
+                "Family-run hospitality"
+              ],
+              "price_range": "€30-50/night"
+            },
+            {
+              "name": "Vila Bekteshi",
+              "features": [
+                "Boutique style",
+                "Garden dining",
+                "Fusion cuisine on-site"
+              ],
+              "price_range": "€40-70/night"
+            }
+          ]
+        },
+        {
+          "category": "Budget/Hostels",
+          "options": [
+            {
+              "name": "The Wanderers Hostel",
+              "features": [
+                "Social atmosphere",
+                "Tour organization desk",
+                "Bike rentals",
+                "Garden with hammocks"
+              ],
+              "price_range": "€10-15/dorm bed"
+            },
+            {
+              "name": "Shkodra Backpackers (Mi Casa es Tu Casa)",
+              "features": [
+                "Rooftop terrace",
+                "Rozafa Castle views",
+                "Helpful staff"
+              ],
+              "price_range": "€8-12/dorm bed"
+            }
+          ]
+        },
+        {
+          "category": "Unique Stays",
+          "options": [
+            {
+              "name": "Camping Legjenda",
+              "features": [
+                "Art-filled cabins",
+                "Castle views",
+                "Bohemian atmosphere",
+                "On-site restaurant"
+              ],
+              "price_range": "€15-30/night"
+            },
+            {
+              "name": "Lake Shkodra Resort",
+              "features": [
+                "Lakeside glamping tents",
+                "Waterfront cabins",
+                "Kayak rentals",
+                "Sunset views"
+              ],
+              "price_range": "€25-50/night"
+            }
+          ]
+        }
+      ],
+      "booking_tips": [
+        "July-August requires advance booking (peak season)",
+        "Many hostels offer luggage storage for hikers heading to Alps",
+        "Booking directly with family-run hotels may get better rates"
+      ]
+    },
+    "hidden_gems": [
+      {
+        "name": "Venice Art Mask Factory",
+        "description": "World's largest producer of Venetian carnival masks",
+        "experiences": [
+          "Factory tour to see artisans at work",
+          "Mask-painting workshop for visitors",
+          "Purchase unique hand-crafted masks"
+        ],
+        "location": "Industrial zone on city outskirts (taxi required)"
+      },
+      {
+        "name": "Buna River Boat Tour",
+        "description": "Traditional wooden boat exploration of the Buna River delta",
+        "highlights": [
+          "Birdwatching in wetlands (pelicans, herons)",
+          "Visit to historic Buna Bridge ruins",
+          "Views of Rozafa Castle from the water"
+        ],
+        "duration": "2-3 hours"
+      },
+      {
+        "name": "Traditional Music Evenings",
+        "description": "Authentic folk music performances in intimate settings",
+        "venues": [
+          {
+            "name": "Tradita Restaurant",
+            "schedule": "Weekly in summer (live folk band in courtyard)"
+          },
+          {
+            "name": "Shkodra Cultural Center",
+            "schedule": "Monthly events year-round"
+          }
+        ]
+      },
+      {
+        "name": "Shurdhahu (Sarda) Island",
+        "description": "Ruins of a medieval fortified village on an island in Vau-Dejës Lake",
+        "experiences": [
+          "Boat ride to reach the island (no regular tours, must hire locally)",
+          "Explore remnants of stone church and fortress walls",
+          "Picnic under olive trees with lake swims"
+        ],
+        "location": "Vau-Dejës Reservoir (about 18 km south of Shkodra)"
+      },
+      {
+        "name": "Xhubleta Cultural Experience",
+        "description": "Demonstration of the traditional cone-shaped folk skirt (xhubleta)",
+        "experiences": [
+          "Watch how the intricate xhubleta costume is assembled and worn",
+          "Opportunity to try on traditional garments (women's xhubleta or men's vestments)",
+          "Learn about this UNESCO-listed heritage garment from local experts"
+        ],
+        "location": "Arranged via local cultural centers or museums (inquire at Marubi Museum)"
+      }
+    ],
+    "itineraries": [
+      {
+        "duration": "1 Day",
+        "title": "Shkodra Essentials",
+        "schedule": [
+          {
+            "time": "Morning",
+            "activities": [
+              "Rozafa Castle visit",
+              "Marubi Photography Museum"
+            ]
+          },
+          {
+            "time": "Afternoon",
+            "activities": [
+              "Lunch at Tradita Geg & Tosk",
+              "Pedonalja stroll and coffee",
+              "Historical Museum"
+            ]
+          },
+          {
+            "time": "Evening",
+            "activities": [
+              "Sunset at Shirokë lakeside",
+              "Dinner at fish restaurant"
+            ]
+          }
+        ]
+      },
+      {
+        "duration": "3 Days",
+        "title": "Culture & Nature Immersion",
+        "days": [
+          {
+            "day": 1,
+            "focus": "City Exploration",
+            "activities": [
+              "Full historic center walking tour",
+              "Religious sites circuit (mosque and cathedrals)",
+              "Evening jazz performance"
+            ]
+          },
+          {
+            "day": 2,
+            "focus": "Lake & Countryside",
+            "activities": [
+              "Boat trip on Lake Shkodër",
+              "Mesi Bridge and Kir River hike",
+              "Traditional dinner in village"
+            ]
+          },
+          {
+            "day": 3,
+            "focus": "Adventure",
+            "options": [
+              "Day trip to Theth National Park",
+              "OR Lake Koman ferry excursion",
+              "OR Mountain biking tour in outskirts"
+            ]
+          }
+        ]
+      },
+      {
+        "duration": "5 Days",
+        "title": "Extended Peaks & Culture Tour",
+        "days": [
+          {
+            "day": 1,
+            "focus": "City Highlights",
+            "activities": [
+              "Rozafa Castle and Legend of Rozafa",
+              "Marubi Photography Museum",
+              "Historic city center walk (Pedonalja, museums, religious sites)"
+            ]
+          },
+          {
+            "day": 2,
+            "focus": "Lake & Villages",
+            "activities": [
+              "Morning cycling or drive to Shirokë (lake promenade)",
+              "Lunch on Lake Shkodër (fresh fish in Shirokë or Zogaj)",
+              "Afternoon visit to Mesi Bridge and Kir Valley",
+              "Evening traditional dinner back in Shkodra"
+            ]
+          },
+          {
+            "day": 3,
+            "focus": "Koman Lake Adventure",
+            "activities": [
+              "Early transport to Koman",
+              "Scenic ferry ride on Lake Koman ('Albanian Fjords')",
+              "Short visit in Fierza and return to Shkodra by evening"
+            ]
+          },
+          {
+            "day": 4,
+            "focus": "Albanian Alps (Theth)",
+            "activities": [
+              "Minibus to Theth National Park (3-4 hours drive)",
+              "Hike to Grunas Waterfall",
+              "Visit the Lock-in Tower and village church",
+              "Overnight in a guesthouse in Theth village"
+            ]
+          },
+          {
+            "day": 5,
+            "focus": "Alpine Exploration & Return",
+            "activities": [
+              "Morning hike to the Blue Eye of Theth (optional)",
+              "Return transport to Shkodra by late afternoon",
+              "Relaxed evening – café stroll or live music at a local bar"
+            ]
+          }
+        ]
+      }
+    ],
+    "travel_tips": [
+      {
+        "category": "Money",
+        "tips": [
+          "Local currency is lek (ALL)",
+          "ATMs widely available",
+          "Credit cards accepted in hotels/restaurants but carry cash for markets",
+          "Bargaining is common in markets; negotiate with a friendly attitude rather than haggling aggressively",
+          "Tipping is not mandatory but appreciated (e.g. leave 50-100 lek for good service or round up the bill)",
+          "Locals may quote prices by dropping a zero (\"5\" meaning 500 lek); double-check the currency and amount if unsure"
+        ]
+      },
+      {
+        "category": "Language",
+        "phrases": [
+          {
+            "albanian": "Përshëndetje",
+            "english": "Hello"
+          },
+          {
+            "albanian": "Faleminderit",
+            "english": "Thank you"
+          },
+          {
+            "albanian": "Ku është tualeti?",
+            "english": "Where is the toilet?"
+          }
+        ],
+        "note": "Many young people speak English; Italian is also widely understood"
+      },
+      {
+        "category": "Safety",
+        "advice": [
+          "Shkodra is very safe, even at night",
+          "Normal precautions against petty theft (watch valuables in busy areas)",
+          "Emergency number: 112",
+          "Politely decline persistent street vendors or beggars with 'Jo, faleminderit' (No, thank you)"
+        ]
+      },
+      {
+        "category": "Cultural Etiquette",
+        "points": [
+          "Modest dress for religious sites",
+          "Remove shoes when entering homes",
+          "Accept offers of hospitality when possible (a sign of respect)"
+        ]
+      },
+      {
+        "category": "Packing",
+        "essentials": [
+          "Comfortable walking shoes",
+          "Layered clothing for mountain trips",
+          "Swimwear for lake visits",
+          "Power adapter (Type C/F plugs)"
+        ]
+      },
+      {
+        "category": "Accessibility",
+        "advice": [
+          "City center is mostly flat, but sidewalks can be narrow or uneven in places",
+          "Few public buses are wheelchair-accessible; consider taxis for mobility needs",
+          "Historic sites (e.g., Rozafa Castle) have steps and rough terrain, not suitable for wheelchairs",
+          "Many newer establishments (like Marubi Museum) have ramps; locals are often willing to assist if asked"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "type": "Tourist Information",
+        "location": "City center near Pedonalja (Rruga Kole Idromeno)",
+        "services": [
+          "Free maps",
+          "Event schedules",
+          "Guide recommendations"
+        ]
+      },
+      {
+        "type": "Useful Websites",
+        "links": [
+          {
+            "name": "Official Tourism Site",
+            "url": "https://www.visit-shkodra.com"
+          },
+          {
+            "name": "Marubi Museum",
+            "url": "http://marubi.gov.al"
+          }
+        ]
+      },
+      {
+        "type": "Volunteer Opportunities",
+        "opportunities": [
+          {
+            "organization": "ARCA Youth Center",
+            "focus": "Youth education and cultural exchange"
+          },
+          {
+            "organization": "Eco-Albania",
+            "focus": "Environmental conservation (lake clean-ups, tree planting)"
+          },
+          {
+            "organization": "Door of Hope",
+            "focus": "Community support and volunteer projects"
+          }
+        ]
+      }
+    ]
+  }
+}
