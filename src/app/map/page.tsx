@@ -1,5 +1,6 @@
 "use client";
 import Link from 'next/link';
+import Navbar from '@/app/components/navbar'
 
 const featuredCities = [
   {
@@ -7,14 +8,14 @@ const featuredCities = [
     title: "Shkodra",
     description: "Historic city with beautiful lake views and rich cultural heritage.",
     tags: ["Historic", "Natural", "Cultural"],
-    image: "/assets/berat.jpeg"
+    image: "/assets/Shkoder.jpeg"
   },
   {
     name: "tirana",
     title: "Tirana",
     description: "Modern capital city with vibrant culture and exciting attractions.",
     tags: ["Modern", "Cultural", "Urban"],
-    image: "/assets/gjirokaster.jpeg"
+    image: "/assets/Tirana.jpeg"
   }
 ];
 
@@ -30,6 +31,8 @@ const otherCities = [
 
 export default function MapPage() {
   return (
+    <>
+    <Navbar />
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white">
       <div className="container mx-auto px-4 py-8">
         <div className="max-w-4xl mx-auto">
@@ -120,6 +123,7 @@ export default function MapPage() {
         </div>
       </div>
     </div>
+    </>
   );
 }
 
