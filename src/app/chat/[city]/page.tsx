@@ -168,7 +168,7 @@ export default function ChatPage() {
           <div className="max-w-4xl mx-auto">
             <div className="flex justify-between items-center mb-8">
               <div className="w-10/12">
-                <h1 className="text-3xl font-bold mb-2">
+                <h1 className="text-3xl font-bold mb-2 text-primary">
                   {cityData[city.toLowerCase()].name}
                 </h1>
                 <p className="text-gray-700">
