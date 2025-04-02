@@ -8,6 +8,13 @@ import Navbar from "@/app/components/navbar";
 import { CityAttraction } from "@/app/data/cityInterfaces";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faRobot,
+  faPaperPlane,
+  faCircleNotch,
+  faMicrochip,
+} from "@fortawesome/free-solid-svg-icons";
 
 interface Message {
   role: "user" | "assistant";
@@ -211,41 +218,15 @@ export default function ChatPage() {
                     } items-start gap-3`}
                   >
                     {message.role === "assistant" && (
-                      <div className="relative -top-0.5">
-                        <div className="w-8 h-8 rounded-full bg-gradient-to-br from-primary via-primary to-primary/80 flex items-center justify-center animate-gradient">
-                          <div className="animate-pulse">
-                            <svg
-                              className="w-6 h-6 text-white"
-                              fill="none"
-                              stroke="currentColor"
-                              viewBox="0 0 24 24"
-                            >
-                              <circle cx="12" cy="12" r="10" strokeWidth="2" />
-                              <circle
-                                cx="9"
-                                cy="9"
-                                r="1.5"
-                                fill="currentColor"
+                      <div className="relative -top-0">
+                        <div className="flex items-center justify-start mb-4">
+                          <div className="relative">
+                            <div className="w-10 h-10 rounded-full bg-gradient-to-br from-primary via-primary to-primary/80 flex items-center justify-center">
+                              <FontAwesomeIcon
+                                icon={faRobot}
+                                className="text-white w-6 h-6"
                               />
-                              <circle
-                                cx="15"
-                                cy="9"
-                                r="1.5"
-                                fill="currentColor"
-                              />
-                              <path
-                                strokeLinecap="round"
-                                strokeLinejoin="round"
-                                strokeWidth={2}
-                                d="M12 15v2m0 0v2m0-4h.01"
-                              />
-                              <path
-                                strokeLinecap="round"
-                                strokeLinejoin="round"
-                                strokeWidth={2}
-                                d="M15 12h-6"
-                              />
-                            </svg>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -311,19 +292,10 @@ export default function ChatPage() {
                   <div className="flex justify-start">
                     <div className="rounded-lg px-4 py-2 bg-primary/80 flex items-center space-x-2">
                       <div className="animate-spin">
-                        <svg
-                          className="w-6 h-6 text-white"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M15 10V3L4 14h7v7l9-11h-7z"
-                          />
-                        </svg>
+                        <FontAwesomeIcon
+                          icon={faCircleNotch}
+                          className="text-primary w-6 h-6"
+                        />
                       </div>
                       <span className="text-white">Thinking...</span>
                     </div>
@@ -346,14 +318,15 @@ export default function ChatPage() {
               ].map((keyword) => (
                 <div
                   key={keyword}
-                  className="relative group w-24 h-10 bg-gradient-to-br from-primary via-primary to-primary/80 rounded-lg flex items-center justify-center text-white font-medium cursor-pointer hover:opacity-80 transition-opacity duration-200"
+                  className="relative group w-24 h-10 bg-gradient-to-br from-primary via-primary to-primary/80 rounded-lg flex items-center justify-center text-white font-medium cursor-pointer transition-all duration-300 hover:scale-105"
                   onClick={() => {
                     setInput(keyword);
                     sendMessage(keyword);
                   }}
                 >
                   <div className="absolute inset-0 bg-gradient-to-br from-primary via-primary to-primary/80 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
-                  <div className="relative">{keyword}</div>
+                  <div className="absolute inset-0 bg-black/40 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200"></div>
+                  <div className="relative z-10">{keyword}</div>
                 </div>
               ))}
             </div>
@@ -377,38 +350,20 @@ export default function ChatPage() {
                 <button
                   onClick={() => sendMessage(input)}
                   disabled={isLoading || !input.trim()}
-                  className="bg-primary/80 hover:bg-primary rounded-full p-2 w-10 h-10 flex items-center justify-center disabled:opacity-70 disabled:cursor-not-allowed"
+                  className="bg-primary cursor-pointer text-white rounded-lg px-4 py-2 hover:bg-primary/90 transition-colors duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   {isLoading ? (
                     <div className="animate-spin">
-                      <svg
-                        className="w-5 h-5"
-                        fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth={2}
-                          d="M15 10V3L4 14h7v7l9-11h-7z"
-                        />
-                      </svg>
+                      <FontAwesomeIcon
+                        icon={faCircleNotch}
+                        className="text-white w-6 h-6"
+                      />
                     </div>
                   ) : (
-                    <svg
-                      className="w-5 h-5"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M13 10V3L4 14h7v7l9-11h-7z"
-                      />
-                    </svg>
+                    <FontAwesomeIcon
+                      icon={faPaperPlane}
+                      className="text-white w-5 h-5"
+                    />
                   )}
                 </button>
               </div>
@@ -446,21 +401,12 @@ export default function ChatPage() {
                         )}
 
                         {selectedAttraction?.name === attraction.name && (
-                          <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
+                          <div className="absolute h-full inset-0 bg-black/50 flex items-center justify-center">
                             <div className="animate-pulse">
-                              <svg
-                                className="w-8 h-8 text-primary"
-                                fill="none"
-                                stroke="currentColor"
-                                viewBox="0 0 24 24"
-                              >
-                                <path
-                                  strokeLinecap="round"
-                                  strokeLinejoin="round"
-                                  strokeWidth={2}
-                                  d="M15 10V3L4 14h7v7l9-11h-7z"
-                                />
-                              </svg>
+                              <FontAwesomeIcon
+                                icon={faMicrochip}
+                                className="text-primary w-12 h-12"
+                              />
                             </div>
                           </div>
                         )}

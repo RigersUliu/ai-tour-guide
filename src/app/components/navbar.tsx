@@ -10,19 +10,30 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="bg-background p-5 sticky top-0 z-50">
+    <nav className="bg-background p-5 sticky top-0 z-50 shadow-lg">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-primary text-2xl font-bold">AiTourGuideAlbania</h1>
+        <div className="flex items-center space-x-4">
+          <Link href="/" className="flex items-center">
+            <img
+              src="/assets/logo/logo_transparent.png"
+              alt="AiTourGuide Albania"
+              className="h-12 w-auto"
+            />
+          </Link>
+          <h1 className="text-primary text-xl font-bold">AiTourGuideAlbania</h1>
+        </div>
         <ul className="hidden md:flex space-x-15">
-          {" "}
           {/* Always visible on desktop */}
           <li>
-            <Link href="/" className="text-black hover:text-primary">
+            <Link href="/" className="text-black font-bold hover:text-primary">
               Home
             </Link>
           </li>
           <li>
-            <Link href="/map" className="text-black hover:text-primary">
+            <Link
+              href="/map"
+              className="text-black font-bold hover:text-primary"
+            >
               Destinations
             </Link>
           </li>
@@ -60,9 +71,18 @@ const Navbar = () => {
             isOpen ? "translate-y-0" : "-translate-y-full"
           }`}
         >
-          <h1 className="text-primary text-2xl font-bold">
-            AiTourGuideAlbania
-          </h1>
+          <div className="flex flex-col items-center space-y-4">
+            <Link href="/" className="flex items-center mb-4">
+              <img
+                src="/assets/logo/logo_transparent.png"
+                alt="AiTourGuide Albania"
+                className="h-14 w-auto"
+              />
+            </Link>
+            <h1 className="text-primary text-xl font-bold mb-4">
+              AiTourGuideAlbania
+            </h1>
+          </div>
           {/* Close Button Inside the Panel */}
           <button
             className="text-primary mb-4 self-end mr-4"
@@ -88,7 +108,7 @@ const Navbar = () => {
             <li>
               <Link
                 href="/"
-                className="text-primary hover:text-gray-400"
+                className="text-black hover:text-primary"
                 onClick={toggleMenu}
               >
                 Home
@@ -97,7 +117,7 @@ const Navbar = () => {
             <li>
               <Link
                 href="/map"
-                className="text-primary hover:text-gray-400"
+                className="text-black hover:text-primary"
                 onClick={toggleMenu}
               >
                 Destinations
