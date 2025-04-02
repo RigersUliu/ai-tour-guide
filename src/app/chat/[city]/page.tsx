@@ -6,6 +6,8 @@ import Link from "next/link";
 import { useParams } from "next/navigation";
 import Navbar from "@/app/components/navbar";
 import { CityAttraction } from "@/app/data/cityInterfaces";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 interface Message {
   role: "user" | "assistant";
@@ -251,13 +253,56 @@ export default function ChatPage() {
                     <div
                       className={`rounded-lg px-4 py-2 max-w-[80%] ${
                         message.role === "user"
-                          ? "bg-primary text-white"
-                          : "bg-background text-black"
+                          ? "bg-primary text-white shadow-lg"
+                          : "bg-background/80 text-black shadow-lg"
                       }`}
                     >
-                      {message.role === "assistant"
-                        ? message.content
-                        : message.content}
+                      {message.role === "assistant" ? (
+                        <ReactMarkdown
+                          remarkPlugins={[remarkGfm]}
+                          components={{
+                            code({ className, children, ...props }) {
+                              const match = /language-(\w+)/.exec(
+                                className || ""
+                              );
+                              return match ? (
+                                <div className="bg-gray-100 rounded-lg p-3 mt-2">
+                                  <pre className="whitespace-pre-wrap">
+                                    <code className={className} {...props}>
+                                      {String(children).replace(
+                                        /[\u00A0-\u9999<>]/g,
+                                        (i) => `&#${i.charCodeAt(0)};`
+                                      )}
+                                    </code>
+                                  </pre>
+                                </div>
+                              ) : (
+                                <code className={className} {...props}>
+                                  {children}
+                                </code>
+                              );
+                            },
+                            a({ className, children, ...props }) {
+                              return (
+                                <a
+                                  className={`text-blue-500 hover:text-blue-700 underline ${
+                                    className || ""
+                                  }`}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  {...props}
+                                >
+                                  {children}
+                                </a>
+                              );
+                            },
+                          }}
+                        >
+                          {message.content}
+                        </ReactMarkdown>
+                      ) : (
+                        message.content
+                      )}
                     </div>
                   </div>
                 ))}
