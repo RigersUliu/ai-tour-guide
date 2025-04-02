@@ -160,7 +160,7 @@ const HomePage = () => {
                 Explore <AuroraText>Albania</AuroraText>
               </h1>
               <p className="mb-12 tracking-tight text-xs sm:text-sm md:text-sm">
-                Where mountains whisper, rivals sing, and hidden wonders await.
+                Where mountains whisper, rivers sing, and hidden wonders await.
                 Your journey begins here
               </p>
               <Link href="/map">
