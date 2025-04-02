@@ -14,6 +14,25 @@ const featuredCities = [
     image: "/assets/Shkoder.jpeg",
   },
   {
+    name: "durres",
+    title: "Durrës",
+    description:
+      "Albania's main seaport with Roman heritage and beautiful beaches.",
+    tags: ["Historic", "Beach", "Coastal"],
+    image: "/assets/Durres.jpeg",
+  },
+  {
+    name: "himare",
+    title: "Himarë",
+    description:
+      "Picturesque coastal town with stunning beaches and historical landmarks.",
+    tags: ["Beach", "Historic", "Natural"],
+    image: "/assets/Himare.jpeg",
+  },
+];
+
+const otherCities = [
+  {
     name: "tirana",
     title: "Tirana",
     description:
@@ -21,9 +40,6 @@ const featuredCities = [
     tags: ["Modern", "Cultural", "Urban"],
     image: "/assets/Tirana.jpeg",
   },
-];
-
-const otherCities = [
   {
     name: "vlora",
     title: "Vlora",
@@ -127,13 +143,13 @@ export default function MapPage() {
             </div>
 
             {/* Other Cities Section */}
-            <div className="space-y-8 mt-16">
+            <div className="mt-16">
               <div className="text-center mb-8">
                 <h2 className="text-4xl font-bold mb-2 text-primary">
                   Other Cities
                 </h2>
                 <p className="text-lg text-gray-600">
-                  More destinations to explore in Albania
+                  Discover more beautiful cities in Albania
                 </p>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-10">

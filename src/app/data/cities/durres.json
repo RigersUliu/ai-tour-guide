@@ -1,0 +1,65 @@
+{
+  "durres": {
+    "name": "Durrës",
+    "alternate_names": ["Durres", "Dyrrachium"],
+    "location": {
+      "country": "Albania",
+      "region": "Durrës County",
+      "coordinates": {
+        "latitude": 41.3333,
+        "longitude": 19.4333
+      },
+      "elevation": "0m above sea level",
+      "nearby_landmarks": [
+        "Adriatic Sea (coastal city)",
+        "Mount Dajti (30km east)",
+        "Tirana (33km north)",
+        "Port of Durrës",
+        "Durrës Amphitheatre"
+      ],
+      "time_zone": "CET (UTC+1), CEST (UTC+2 in summer)"
+    },
+    "description": "Durrës is Albania's second largest city and main seaport, known for its rich Roman and Byzantine heritage, beautiful beaches, and strategic location on the Adriatic coast.",
+    "historical_background": {
+      "founding": {
+        "year": "627 BC",
+        "by": "Corinthian colonists",
+        "original_name": "Epidamnos",
+        "significance": "Ancient Greek colony and major trading port"
+      }
+    },
+    "attractions": {
+      "historical": [
+        {
+          "name": "Durrës Amphitheatre",
+          "description": "One of the largest Roman amphitheatres in the Balkans",
+          "era": "2nd century AD"
+        },
+        {
+          "name": "Durrës Archaeological Museum",
+          "description": "Houses extensive collection of ancient artifacts",
+          "era": "Modern"
+        }
+      ],
+      "natural": [
+        {
+          "name": "Durrës Beach",
+          "description": "Long sandy beach along the Adriatic",
+          "activities": ["Swimming", "Sunbathing", "Water sports"]
+        }
+      ]
+    },
+    "transportation": {
+      "arrival_options": [
+        {
+          "method": "Sea",
+          "description": "Major port with ferry connections to Italy"
+        },
+        {
+          "method": "Road",
+          "description": "Well-connected to Tirana and other Albanian cities"
+        }
+      ]
+    }
+  }
+}

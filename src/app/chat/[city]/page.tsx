@@ -294,7 +294,7 @@ export default function ChatPage() {
                       <div className="animate-spin">
                         <FontAwesomeIcon
                           icon={faCircleNotch}
-                          className="text-primary w-6 h-6"
+                          className="text-white w-7 h-7"
                         />
                       </div>
                       <span className="text-white">Thinking...</span>

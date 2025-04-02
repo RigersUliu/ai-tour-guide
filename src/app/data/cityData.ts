@@ -1275,4 +1275,492 @@ export const cityData: Record<string, CityData> = {
       "Experience the local markets for fresh produce and traditional goods",
     ],
   },
+
+  // ------------------------------------------- DURRES --------------------------------------------------
+  durres: {
+    name: "Durrës",
+    alternate_names: ["Durres", "Dyrrachium"],
+    location: {
+      country: "Albania",
+      region: "Durrës County",
+      coordinates: {
+        latitude: 41.3333,
+        longitude: 19.4333,
+      },
+      elevation: "0m above sea level",
+      nearby_landmarks: [
+        "Adriatic Sea (coastal city)",
+        "Mount Dajti (30km east)",
+        "Tirana (33km north)",
+        "Port of Durrës",
+        "Durrës Amphitheatre",
+      ],
+    },
+    description:
+      "Durrës is Albania's second largest city and main seaport, known for its rich Roman and Byzantine heritage, beautiful beaches, and strategic location on the Adriatic coast.",
+    historical_background: {
+      founding: {
+        year: "627 BC",
+        by: "Corinthian colonists",
+        original_name: "Epidamnos",
+      },
+      timeline: [
+        {
+          period: "Ancient Era",
+          years: "627 BC - 146 BC",
+          key_facts: [
+            "Founded as a Greek colony",
+            "Important trading port in the Adriatic",
+            "Roman conquest in 168 BC",
+          ],
+        },
+        {
+          period: "Byzantine Era",
+          years: "395 AD - 1204 AD",
+          key_facts: [
+            "Major Byzantine port",
+            "Construction of city walls",
+            "Amphitheatre built in 2nd century AD",
+          ],
+        },
+        {
+          period: "Modern Era",
+          years: "1912 - present",
+          key_facts: [
+            "Albanian independence",
+            "Major industrial development",
+            "Tourism growth since 1990s",
+          ],
+        },
+      ],
+    },
+    demographics: {
+      population: 113770,
+      ethnic_groups: ["Albanian"],
+      languages: ["Albanian"],
+      religions: [
+        {
+          name: "Islam",
+          percentage: "65%",
+          landmarks: ["Durrës Grand Mosque"],
+        },
+        {
+          name: "Christianity",
+          percentage: "30%",
+          landmarks: ["St. Mary's Church"],
+        },
+        {
+          name: "Other",
+          percentage: "5%",
+          landmarks: [],
+        },
+      ],
+    },
+    attractions: {
+      historical: [
+        {
+          name: "Durrës Amphitheatre",
+          description: "One of the largest Roman amphitheatres in the Balkans",
+          era: "2nd century AD",
+          visitor_info: {
+            hours: "08:00 - 17:00",
+            fee: "300 ALL",
+            accessibility: "Wheelchair accessible",
+            best_time: "Spring and Autumn",
+          },
+          stats: {
+            size: "20,000 spectators capacity",
+          },
+        },
+        {
+          name: "Durrës Archaeological Museum",
+          description: "Houses extensive collection of ancient artifacts",
+          era: "Modern",
+          visitor_info: {
+            hours: "09:00 - 17:00",
+            fee: "200 ALL",
+            accessibility: "Wheelchair accessible",
+            best_time: "Weekdays",
+          },
+        },
+      ],
+      museums: [],
+      religious_sites: [
+        {
+          name: "Durrës Grand Mosque",
+          description: "Historic mosque in the city center",
+          era: "Modern",
+        },
+        {
+          name: "St. Mary's Church",
+          description: "Byzantine-style church",
+          era: "Byzantine",
+        },
+      ],
+      natural: [
+        {
+          name: "Durrës Beach",
+          description: "Long sandy beach along the Adriatic",
+          visitor_info: {
+            best_time: "Summer",
+            access: "Direct access from city center",
+          },
+          activities: [
+            {
+              name: "Water Sports",
+              options: [
+                {
+                  name: "Parasailing",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+                {
+                  name: "Jet Skiing",
+                  difficulty: "Moderate",
+                  season: "Summer",
+                },
+              ],
+            },
+            {
+              name: "Beach Activities",
+              options: [
+                {
+                  name: "Sunbathing",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+                {
+                  name: "Beach Volleyball",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+              ],
+            },
+          ],
+        },
+      ],
+      urban_experiences: [
+        {
+          name: "Durrës City Center",
+          description: "Modern city center with shops and restaurants",
+          visitor_info: {
+            best_time: "Any time",
+            access: "Free access",
+          },
+        },
+      ],
+    },
+    transportation: {
+      arrival_options: [
+        {
+          method: "Sea",
+          routes: [
+            {
+              from: "Bari, Italy",
+              duration: "2-3 hours",
+              frequency: "Daily",
+              price: "From 30-50 EUR",
+            },
+          ],
+        },
+        {
+          method: "Road",
+          routes: [
+            {
+              from: "Tirana",
+              duration: "45 minutes",
+              frequency: "Frequent",
+              price: "From 200 ALL",
+            },
+          ],
+        },
+      ],
+    },
+    itineraries: [
+      {
+        title: "Durrës in a Day",
+        duration: "1 day",
+        days: [
+          {
+            day: 1,
+            focus: "History and Beach",
+            activities: [
+              "Visit Durrës Amphitheatre",
+              "Explore Archaeological Museum",
+              "Relax at Durrës Beach",
+            ],
+          },
+        ],
+      },
+    ],
+    tips: [
+      "Visit the Durrës Amphitheatre early morning to avoid crowds",
+      "Try traditional Albanian seafood at the beachfront restaurants",
+      "Take a ferry to Bari for a day trip to Italy",
+      "Explore the Old Town for authentic Albanian architecture",
+      "Visit the Archaeological Museum on weekdays for a quieter experience",
+    ],
+  },
+
+  // ------------------------------------------- HIMARE --------------------------------------------------
+  himare: {
+    name: "Himarë",
+    alternate_names: ["Himara", "Himara"],
+    location: {
+      country: "Albania",
+      region: "Vlorë County",
+      coordinates: {
+        latitude: 40.0833,
+        longitude: 19.6333,
+      },
+      elevation: "0m above sea level",
+      nearby_landmarks: [
+        "Ionian Sea (coastal town)",
+        "Gjipe Canyon",
+        "Llogara National Park (20km north)",
+        "Karaburun Peninsula",
+        "Sazan Island",
+      ],
+    },
+    description:
+      "Himarë is a picturesque coastal town in southern Albania, known for its stunning beaches, dramatic cliffs, and rich cultural heritage. It's a popular destination for both beach lovers and history enthusiasts.",
+    historical_background: {
+      founding: {
+        year: "Ancient times",
+        by: "Ancient Greek colonists",
+        original_name: "Phoenice",
+      },
+      timeline: [
+        {
+          period: "Ancient Era",
+          years: "8th century BC - 31 BC",
+          key_facts: ["Greek colony", "Roman conquest", "Byzantine period"],
+        },
+        {
+          period: "Ottoman Era",
+          years: "1479 - 1912",
+          key_facts: [
+            "Ottoman rule",
+            "Construction of Himarë Castle",
+            "Local resistance movements",
+          ],
+        },
+        {
+          period: "Modern Era",
+          years: "1912 - present",
+          key_facts: [
+            "Albanian independence",
+            "Tourism development",
+            "Preservation of traditional architecture",
+          ],
+        },
+      ],
+    },
+    demographics: {
+      population: 12000,
+      ethnic_groups: ["Albanian"],
+      languages: ["Albanian"],
+      religions: [
+        {
+          name: "Islam",
+          percentage: "70%",
+          landmarks: ["Himarë Mosque"],
+        },
+        {
+          name: "Christianity",
+          percentage: "25%",
+          landmarks: ["St. Nicholas Church"],
+        },
+        {
+          name: "Other",
+          percentage: "5%",
+          landmarks: [],
+        },
+      ],
+    },
+    attractions: {
+      historical: [
+        {
+          name: "Himarë Castle",
+          description: "Medieval fortress with panoramic sea views",
+          era: "Medieval",
+          visitor_info: {
+            hours: "09:00 - 17:00",
+            fee: "100 ALL",
+            accessibility: "Limited",
+            best_time: "Spring and Autumn",
+          },
+        },
+        {
+          name: "Old Town Himarë",
+          description: "Well-preserved traditional Albanian architecture",
+          era: "19th-20th century",
+          visitor_info: {
+            best_time: "Any time",
+            access: "Free access",
+          },
+        },
+      ],
+      museums: [],
+      religious_sites: [
+        {
+          name: "Himarë Mosque",
+          description: "Historic mosque with sea views",
+          era: "Ottoman",
+        },
+        {
+          name: "St. Nicholas Church",
+          description: "Byzantine-style church",
+          era: "Byzantine",
+        },
+      ],
+      natural: [
+        {
+          name: "Gjipe Beach",
+          description:
+            "Famous for its dramatic cliffs and crystal-clear waters",
+          visitor_info: {
+            best_time: "Summer",
+            access: "Via coastal road",
+          },
+          activities: [
+            {
+              name: "Water Activities",
+              options: [
+                {
+                  name: "Cliff Diving",
+                  difficulty: "Advanced",
+                  season: "Summer",
+                },
+                {
+                  name: "Snorkeling",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+              ],
+            },
+            {
+              name: "Beach Activities",
+              options: [
+                {
+                  name: "Sunbathing",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+                {
+                  name: "Beach Volleyball",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+              ],
+            },
+          ],
+        },
+        {
+          name: "Jale Beach",
+          description: "Long sandy beach with clear blue waters",
+          visitor_info: {
+            best_time: "Summer",
+            access: "Via coastal road",
+          },
+          activities: [
+            {
+              name: "Water Sports",
+              options: [
+                {
+                  name: "Kayaking",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+                {
+                  name: "Paddleboarding",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+              ],
+            },
+            {
+              name: "Beach Activities",
+              options: [
+                {
+                  name: "Sunbathing",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+                {
+                  name: "Beach Volleyball",
+                  difficulty: "Easy",
+                  season: "Summer",
+                },
+              ],
+            },
+          ],
+        },
+      ],
+      urban_experiences: [
+        {
+          name: "Himarë Town Center",
+          description: "Coastal town center with traditional architecture",
+          visitor_info: {
+            best_time: "Any time",
+            access: "Free access",
+          },
+        },
+      ],
+    },
+    transportation: {
+      arrival_options: [
+        {
+          method: "Road",
+          routes: [
+            {
+              from: "Vlora",
+              duration: "1 hour",
+              frequency: "Frequent",
+              price: "From 400 ALL",
+            },
+            {
+              from: "Saranda",
+              duration: "2.5 hours",
+              frequency: "Regular",
+              price: "From 600 ALL",
+            },
+          ],
+        },
+      ],
+    },
+    itineraries: [
+      {
+        title: "Himarë Adventure",
+        duration: "2 days",
+        days: [
+          {
+            day: 1,
+            focus: "Beaches and Nature",
+            activities: [
+              "Explore Gjipe Beach",
+              "Visit Jale Beach",
+              "Hike to nearby cliffs",
+            ],
+          },
+          {
+            day: 2,
+            focus: "History and Culture",
+            activities: [
+              "Visit Himarë Castle",
+              "Walk through Old Town",
+              "Experience local cuisine",
+            ],
+          },
+        ],
+      },
+    ],
+    tips: [
+      "Visit Gjipe Beach early morning for the best cliff diving conditions",
+      "Try local Himarë cheese and honey at the market",
+      "Take a guided tour of Himarë Castle for historical context",
+      "Hike to the nearby cliffs for panoramic sea views",
+      "Experience the local folklore performances in the Old Town",
+    ],
+  },
 };

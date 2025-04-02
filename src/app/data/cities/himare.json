@@ -1,0 +1,66 @@
+{
+  "himare": {
+    "name": "Himarë",
+    "alternate_names": ["Himara", "Himara"],
+    "location": {
+      "country": "Albania",
+      "region": "Vlorë County",
+      "coordinates": {
+        "latitude": 40.0833,
+        "longitude": 19.6333
+      },
+      "elevation": "0m above sea level",
+      "nearby_landmarks": [
+        "Ionian Sea (coastal town)",
+        "Gjipe Canyon",
+        "Llogara National Park (20km north)",
+        "Karaburun Peninsula",
+        "Sazan Island"
+      ],
+      "time_zone": "CET (UTC+1), CEST (UTC+2 in summer)"
+    },
+    "description": "Himarë is a picturesque coastal town in southern Albania, known for its stunning beaches, dramatic cliffs, and rich cultural heritage. It's a popular destination for both beach lovers and history enthusiasts.",
+    "historical_background": {
+      "founding": {
+        "year": "Ancient times",
+        "by": "Ancient Greek colonists",
+        "original_name": "Phoenice",
+        "significance": "Ancient Greek and Roman settlement"
+      }
+    },
+    "attractions": {
+      "historical": [
+        {
+          "name": "Himarë Castle",
+          "description": "Medieval fortress with panoramic sea views",
+          "era": "Medieval"
+        },
+        {
+          "name": "Old Town Himarë",
+          "description": "Well-preserved traditional Albanian architecture",
+          "era": "19th-20th century"
+        }
+      ],
+      "natural": [
+        {
+          "name": "Gjipe Beach",
+          "description": "Famous for its dramatic cliffs and crystal-clear waters",
+          "activities": ["Swimming", "Snorkeling", "Cliff diving"]
+        },
+        {
+          "name": "Jale Beach",
+          "description": "Long sandy beach with clear blue waters",
+          "activities": ["Sunbathing", "Water sports", "Beach volleyball"]
+        }
+      ]
+    },
+    "transportation": {
+      "arrival_options": [
+        {
+          "method": "Road",
+          "description": "Accessible via coastal road from Vlora and Saranda"
+        }
+      ]
+    }
+  }
+}
