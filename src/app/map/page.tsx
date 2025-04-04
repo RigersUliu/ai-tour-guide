@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import Navbar from "@/app/components/navbar";
-import Footer from "@/app/components/footer";
+// import Footer from "@/app/components/footer";
 import { AuroraText } from "@/components/magicui/aurora-text";
 
 const featuredCities = [
@@ -219,7 +219,7 @@ export default function MapPage() {
           </div>
         </div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }

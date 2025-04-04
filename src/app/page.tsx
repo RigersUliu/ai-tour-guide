@@ -2,97 +2,97 @@
 
 import { useState, useEffect } from "react";
 import Navbar from "@/app/components/navbar";
-import Footer from "@/app/components/footer";
+// import Footer from "@/app/components/footer";
 import Link from "next/link";
-import Image from "next/image";
+// import Image from "next/image";
 import { AuroraText } from "@/components/magicui/aurora-text";
 import { InteractiveHoverButton } from "@/components/magicui/interactive-hover-button";
-import { cn } from "@/lib/utils";
-import { Marquee } from "@/components/magicui/marquee";
+// import { cn } from "@/lib/utils";
+// import { Marquee } from "@/components/magicui/marquee";
 
-const reviews = [
-  {
-    name: "Jack",
-    username: "@jack",
-    body: "I've never seen anything like this before. It's amazing. I love it.",
-    img: "https://avatar.vercel.sh/jack",
-  },
-  {
-    name: "Jill",
-    username: "@jill",
-    body: "I don't know what to say. I'm speechless. This is amazing.",
-    img: "https://avatar.vercel.sh/jill",
-  },
-  {
-    name: "John",
-    username: "@john",
-    body: "I'm at a loss for words. This is amazing. I love it.",
-    img: "https://avatar.vercel.sh/john",
-  },
-  {
-    name: "Jane",
-    username: "@jane",
-    body: "I'm at a loss for words. This is amazing. I love it.",
-    img: "https://avatar.vercel.sh/jane",
-  },
-  {
-    name: "Jenny",
-    username: "@jenny",
-    body: "I'm at a loss for words. This is amazing. I love it.",
-    img: "https://avatar.vercel.sh/jenny",
-  },
-  {
-    name: "James",
-    username: "@james",
-    body: "I'm at a loss for words. This is amazing. I love it.",
-    img: "https://avatar.vercel.sh/james",
-  },
-];
+// const reviews = [
+//   {
+//     name: "Jack",
+//     username: "@jack",
+//     body: "I've never seen anything like this before. It's amazing. I love it.",
+//     img: "https://avatar.vercel.sh/jack",
+//   },
+//   {
+//     name: "Jill",
+//     username: "@jill",
+//     body: "I don't know what to say. I'm speechless. This is amazing.",
+//     img: "https://avatar.vercel.sh/jill",
+//   },
+//   {
+//     name: "John",
+//     username: "@john",
+//     body: "I'm at a loss for words. This is amazing. I love it.",
+//     img: "https://avatar.vercel.sh/john",
+//   },
+//   {
+//     name: "Jane",
+//     username: "@jane",
+//     body: "I'm at a loss for words. This is amazing. I love it.",
+//     img: "https://avatar.vercel.sh/jane",
+//   },
+//   {
+//     name: "Jenny",
+//     username: "@jenny",
+//     body: "I'm at a loss for words. This is amazing. I love it.",
+//     img: "https://avatar.vercel.sh/jenny",
+//   },
+//   {
+//     name: "James",
+//     username: "@james",
+//     body: "I'm at a loss for words. This is amazing. I love it.",
+//     img: "https://avatar.vercel.sh/james",
+//   },
+// ];
 
-const firstRow = reviews.slice(0, reviews.length / 2);
-const secondRow = reviews.slice(reviews.length / 2);
+// const firstRow = reviews.slice(0, reviews.length / 2);
+// const secondRow = reviews.slice(reviews.length / 2);
 
-const ReviewCard = ({
-  img,
-  name,
-  username,
-  body,
-}: {
-  img: string;
-  name: string;
-  username: string;
-  body: string;
-}) => {
-  return (
-    <figure
-      className={cn(
-        "relative h-full w-64 cursor-pointer overflow-hidden rounded-xl border p-4",
-        // light styles
-        "border-gray-950/[.1] bg-gray-950/[.01] hover:bg-gray-950/[.05]",
-        // dark styles
-        "dark:border-gray-50/[.1] dark:bg-gray-50/[.10] dark:hover:bg-gray-50/[.15]"
-      )}
-    >
-      <div className="flex flex-row items-center gap-2">
-        <Image
-          className="rounded-full"
-          width={32}
-          height={32}
-          alt=""
-          src={img}
-          priority
-        />
-        <div className="flex flex-col">
-          <figcaption className="text-sm font-medium dark:text-white">
-            {name}
-          </figcaption>
-          <p className="text-xs font-medium dark:text-white/40">{username}</p>
-        </div>
-      </div>
-      <blockquote className="mt-2 text-sm">{body}</blockquote>
-    </figure>
-  );
-};
+// const ReviewCard = ({
+//   img,
+//   name,
+//   username,
+//   body,
+// }: {
+//   img: string;
+//   name: string;
+//   username: string;
+//   body: string;
+// }) => {
+//   return (
+//     <figure
+//       className={cn(
+//         "relative h-full w-64 cursor-pointer overflow-hidden rounded-xl border p-4",
+//         // light styles
+//         "border-gray-950/[.1] bg-gray-950/[.01] hover:bg-gray-950/[.05]",
+//         // dark styles
+//         "dark:border-gray-50/[.1] dark:bg-gray-50/[.10] dark:hover:bg-gray-50/[.15]"
+//       )}
+//     >
+//       <div className="flex flex-row items-center gap-2">
+//         <Image
+//           className="rounded-full"
+//           width={32}
+//           height={32}
+//           alt=""
+//           src={img}
+//           priority
+//         />
+//         <div className="flex flex-col">
+//           <figcaption className="text-sm font-medium dark:text-white">
+//             {name}
+//           </figcaption>
+//           <p className="text-xs font-medium dark:text-white/40">{username}</p>
+//         </div>
+//       </div>
+//       <blockquote className="mt-2 text-sm">{body}</blockquote>
+//     </figure>
+//   );
+// };
 
 const HomePage = () => {
   const [currentImage, setCurrentImage] = useState(0);
@@ -257,7 +257,7 @@ const HomePage = () => {
       </section>
 
       {/* Reviews Section */}
-      <section className="bg-background py-20">
+      {/* <section className="bg-background py-20">
         <h2 className="text-4xl font-bold text-center text-black mb-12">
           What Our Users Say
         </h2>
@@ -275,7 +275,7 @@ const HomePage = () => {
           <div className="pointer-events-none absolute inset-y-0 left-0 w-1/4 bg-gradient-to-r from-background"></div>
           <div className="pointer-events-none absolute inset-y-0 right-0 w-1/4 bg-gradient-to-l from-background"></div>
         </div>
-      </section>
+      </section> */}
 
       {/* Cities Section */}
       <section className="bg-background py-20">
@@ -284,6 +284,78 @@ const HomePage = () => {
             Popular Cities
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="group relative overflow-hidden rounded-xl border border-border/50 hover:border-primary transition-all duration-300">
+              <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              <div className="relative p-8 bg-background/80 backdrop-blur-sm border border-border/20">
+                <div className="flex flex-col h-full justify-between">
+                  <div>
+                    <h3 className="text-2xl font-bold text-primary mb-3">
+                      Durrës
+                    </h3>
+                    <p className="text-black/80 mb-6">
+                      Albania&apos;s main port city with a rich history dating
+                      back to ancient times.
+                    </p>
+                  </div>
+                  <Link
+                    href="/chat/durres"
+                    className="inline-flex items-center gap-2 text-primary hover:text-secondary transition-colors duration-300"
+                  >
+                    <span>Explore Durrës</span>
+                    <svg
+                      className="w-4 h-4"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M14 5l7 7m0 0l-7 7m7-7H3"
+                      />
+                    </svg>
+                  </Link>
+                </div>
+              </div>
+            </div>
+
+            <div className="group relative overflow-hidden rounded-xl border border-border/50 hover:border-primary transition-all duration-300">
+              <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              <div className="relative p-8 bg-background/80 backdrop-blur-sm border border-border/20">
+                <div className="flex flex-col h-full justify-between">
+                  <div>
+                    <h3 className="text-2xl font-bold text-primary mb-3">
+                      Himara
+                    </h3>
+                    <p className="text-black/80 mb-6">
+                      Picturesque coastal town known for its crystal-clear
+                      waters and stunning beaches.
+                    </p>
+                  </div>
+                  <Link
+                    href="/chat/himara"
+                    className="inline-flex items-center gap-2 text-primary hover:text-secondary transition-colors duration-300"
+                  >
+                    <span>Explore Himara</span>
+                    <svg
+                      className="w-4 h-4"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M14 5l7 7m0 0l-7 7m7-7H3"
+                      />
+                    </svg>
+                  </Link>
+                </div>
+              </div>
+            </div>
+
             <div className="group relative overflow-hidden rounded-xl border border-border/50 hover:border-primary transition-all duration-300">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
               <div className="relative p-8 bg-background/80 backdrop-blur-sm border border-border/20">
@@ -319,83 +391,11 @@ const HomePage = () => {
                 </div>
               </div>
             </div>
-
-            <div className="group relative overflow-hidden rounded-xl border border-border/50 hover:border-primary transition-all duration-300">
-              <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-              <div className="relative p-8 bg-background/80 backdrop-blur-sm border border-border/20">
-                <div className="flex flex-col h-full justify-between">
-                  <div>
-                    <h3 className="text-2xl font-bold text-primary mb-3">
-                      Tirana
-                    </h3>
-                    <p className="text-black/80 mb-6">
-                      Modern capital city with vibrant culture and exciting
-                      nightlife.
-                    </p>
-                  </div>
-                  <Link
-                    href="/chat/tirana"
-                    className="inline-flex items-center gap-2 text-primary hover:text-secondary transition-colors duration-300"
-                  >
-                    <span>Explore Tirana</span>
-                    <svg
-                      className="w-4 h-4"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M14 5l7 7m0 0l-7 7m7-7H3"
-                      />
-                    </svg>
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-            <div className="group relative overflow-hidden rounded-xl border border-border/50 hover:border-primary transition-all duration-300">
-              <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-              <div className="relative p-8 bg-background/80 backdrop-blur-sm border border-border/20">
-                <div className="flex flex-col h-full justify-between">
-                  <div>
-                    <h3 className="text-2xl font-bold text-primary mb-3">
-                      Vlora
-                    </h3>
-                    <p className="text-black/80 mb-6">
-                      Coastal city with beautiful beaches and historical
-                      significance.
-                    </p>
-                  </div>
-                  <Link
-                    href="/chat/vlora"
-                    className="inline-flex items-center gap-2 text-primary hover:text-secondary transition-colors duration-300"
-                  >
-                    <span>Explore Vlora</span>
-                    <svg
-                      className="w-4 h-4"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M14 5l7 7m0 0l-7 7m7-7H3"
-                      />
-                    </svg>
-                  </Link>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
