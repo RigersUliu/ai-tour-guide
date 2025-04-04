@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false); // State to manage mobile menu visibility
@@ -14,11 +15,13 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-4">
           <Link href="/" className="flex items-center">
-            {/* <img
+            <Image
               src="/assets/logo/logo_transparent.png"
               alt="AiTourGuide Albania"
+              width={100}
+              height={48}
               className="h-12 w-auto"
-            /> */}
+            />
           </Link>
           <h1 className="text-primary text-xl font-bold">AiTourGuideAlbania</h1>
         </div>
@@ -73,11 +76,13 @@ const Navbar = () => {
         >
           <div className="flex flex-col items-center space-y-4">
             <Link href="/" className="flex items-center mb-4">
-              {/* <img
+              <Image
                 src="/assets/logo/logo_transparent.png"
                 alt="AiTourGuide Albania"
+                width={120}
+                height={56}
                 className="h-14 w-auto"
-              /> */}
+              />
             </Link>
             <h1 className="text-primary text-xl font-bold mb-4">
               AiTourGuideAlbania
