@@ -28,7 +28,7 @@ Each section should be clearly separated with spaces and use headers that are bo
     const responsePrompt = `${aiPresentation} ${stringifiedCityData} ${ruleAboutContent} ${beautifyResponse} ${googleMaps} ${responseStructure}`;
 
     const response = await openai.chat.completions.create({
-      model: "gpt-4", // Azure GPT-4 model
+      model: "gpt-4o", // Azure GPT-4 model
       messages: [
         {
           role: "system",
